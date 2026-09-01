@@ -26,3 +26,13 @@
 - Comparison 페이지 1건: comparisons/gold-vs-bitcoin.md
 - Query 페이지 1건: queries/market-analysis-202608-week2.md
 - 총 15페이지, 모든 페이지 wikilinks로 연결됨
+
+## [2026-08-31] ingest | 안목(taste) 글 + 인프런 디자인 시스템 구축기
+- Raw 소스 2건:
+  - raw/articles/taste-and-judgment.md (GeekNews — 그렇다면 안목은 어디에서 오는가?)
+  - raw/articles/inflab-design-system.md (인프랩 — 디자인 시스템 구축기)
+- Concept 페이지 2건:
+  - concepts/taste-and-ai.md — AI 시대의 안목, 직접 만드는 과정, 후각 마비
+  - concepts/design-system.md — 외부 라이브러리 활용, 점진적 적용, 전사 싱크업
+- 총 17페이지
+- 총 15페이지, 모든 페이지 wikilinks로 연결됨
