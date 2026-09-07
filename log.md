@@ -36,3 +36,25 @@
   - concepts/design-system.md — 외부 라이브러리 활용, 점진적 적용, 전사 싱크업
 - 총 17페이지
 - 총 15페이지, 모든 페이지 wikilinks로 연결됨
+
+## [2026-09-08] ingest | GeekNews RSS 21건 수집 — AI/LLM/조직/셀프호스팅
+- RSS 피드: GeekNews (https://news.hada.io/rss/news)
+- 수집된 글 21건, 키워드 필터(AI, LLM, GPT, 조직, 클라우드, 백엔드 등) 통과
+- Raw 소스 6건 생성 (그룹화):
+  - raw/articles/llm-cognitive-impact.md — 인지 바이러스, 지적 바지 지퍼, 독자의 반란 (3건)
+  - raw/articles/ai-org-transformation.md — 브라운필드, 도구 vs 기업, 특화 AI, 코드 품질 (4건)
+  - raw/articles/gpt-6-astra-capabilities.md — 수능 만점, 하네스, 로봇 제어, AAII v4.2 (4건)
+  - raw/articles/ai-safety-alignment.md — Alien Mind, Terence Tao 경고 (2건)
+  - raw/articles/self-hosting-digital-autonomy.md — Cloud in a Bottle, EU Git, NAS, A/I, Nitter (5건)
+  - raw/articles/brain-rot-and-ai-waiting.md — 브레인롯, VIBE-GAME, Anubis (3건)
+- Entity 페이지 1건 생성:
+  - entities/gpt-6-astra.md — 수능 만점, 하네스 격차, 로봇 제어, AAII v4.2
+- Concept 페이지 5건 생성:
+  - concepts/llm-cognitive-impact.md — LLM의 인지·신뢰 영향 (인지 바이러스, 신뢰 훼손)
+  - concepts/ai-org-transformation.md — AI 조직 전환 (브라운필드, 도구 vs 기업, 특화 AI, 코드 품질)
+  - concepts/ai-safety-alignment.md — AI 정렬과 안전성 (Alien Mind, Terence Tao)
+  - concepts/self-hosting-digital-autonomy.md — 셀프 호스팅과 디지털 자립
+  - concepts/ai-cognitive-management.md — AI 시대의 인지 관리 (브레인롯, AI 대기 시간, 스크래핑 방어)
+- 기존 페이지 업데이트:
+  - concepts/taste-and-ai.md — 3개 신규 wikilinks 추가 (llm-cognitive-impact, ai-cognitive-management, ai-safety-alignment)
+- 총 23페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
