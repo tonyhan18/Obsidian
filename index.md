@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 27
+> Last updated: 2026-09-08 | Total pages: 32
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -30,6 +30,11 @@
 - [[korea-gni-40k-202609|한국 GNI 4만달러 시대 (2026)]] — 한은 발표 GNI 4만 달러 돌파 가능성, 달러 약세 견인
 - [[agent-execution-logging|에이전트 실행 기록과 로컬 우선 워크스페이스]] — Apache Maka, 에이전트 실행 투명성, 로컬 우선, AI 안전성
 - [[auto-sector-dual-risk|자동차주 이중고]] — 판매 둔화 + 원화 강세, 반도체와 대조되는 섹터
+- [[build-vs-buy-ai|Build vs Buy: AI 시대의 자체 개발 의사결정]] — AI는 만드는 비용을 낮췄지만 유지보수 책임은 여전히 인간; "3년 차에는 누가 패치하는가"
+- [[startup-brand-clock-speed|스타트업 브랜드 구축과 clock speed]] — Lovable 사례, 생각·결정·실행의 내적 속도, 정성은 결과물에 드러남
+- [[science-vs-engineering-hype|과학 vs 엔지니어링: 기술 과장과 검증]] — Theranos에서 AI CEO까지, 공학적 난도 착각과 독립적 검증의 중요성
+- [[foldable-phone-competition-202609|폴더블폰 경쟁 (2026-09)]] — 삼성 vs 샤오미 vs 애플, 하드웨어 차별화 전략 경쟁사 모방 단계 진입
+- [[right-to-repair-autonomy|수리권과 소비자 하드웨어 자립]] — EU 수리 정보 공개 규제, 규제 집행의 과제, 하드웨어 통제권
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

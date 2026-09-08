@@ -1,10 +1,10 @@
 ---
 title: 삼성전자
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-08
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md]
 confidence: high
 ---
 
@@ -55,3 +55,9 @@ confidence: high
 - 상위 산업: [[반도체-산업]]
 - 매매 전략: [[ Core-Satellite-배분]]
 - 부서 특성: [[부바부]]
+
+### 2026-09-08 폴더블폰 경쟁 본격화
+- 삼성이 개척한 폴더블폰('여권폰') 시장에 샤오미, 애플이 본격 진입
+- 1위 삼성의 점유율을 턱밑까지 추격, 폴더블 아이폰 출시로 성장세 주도 예상
+- 하드웨어 차별화 전략이 경쟁사 모방 단계에 진입
+- 관련 컨셉: [[foldable-phone-competition-202609]] — 폴더블폰 경쟁 구도 상세

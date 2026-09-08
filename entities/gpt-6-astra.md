@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: entity
 tags: [인사이트]
-sources: [raw/articles/gpt-6-astra-capabilities.md]
+sources: [raw/articles/gpt-6-astra-capabilities.md, raw/articles/build-vs-buy-ai.md]
 confidence: high
 ---
 
@@ -39,3 +39,5 @@ confidence: high
 - 관련 컨셉: [[taste-and-ai]] — AI 능력 향상이 인간의 안목 형성 기회를 어떻게 위협하는지와 연결
 - 관련 컨셉: [[llm-cognitive-impact]] — 모델 능력 강화가 사회적 의존 심화와 맞물리는 지점
 - 관련 컨셉: [[ai-org-transformation]] — 하네스(인프라)가 제품 경쟁력을 결정한다는 점에서 조직 인프라와 유사
+- 관련 컨셉: [[build-vs-buy-ai]] — Claude Code에서 GPT-6 Astra를 메인으로 섞어 쓰는 사례; 하네스(인프라) 선택이 제품 경쟁력을 결정
+- 관련 컨셉: [[science-vs-engineering-hype]] — AI 모델 능력 주장의 독립적 검증 필요성

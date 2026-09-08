@@ -76,3 +76,23 @@
   - entities/semiconductor-industry.md — 2026-09-08 시장 흐름 추가 (코스피 7천피, DB하이텍, 9월 CPI)
   - entities/dollar.md — 2026-09-08 업데이트 (원전 1200억달러, GNI 4만달러, 원화 강세 영향)
 - 총 27페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | GeekNews 6건 + 한국경제 1건 수집 — Build vs Buy, 브랜드 디자인, Theranos, 폴더블폰, 수리권, Claude Code+GPT-6
+- RSS 피드: GeekNews, 한국경제
+- 수집된 글 8건, 키워드 필터 통과 7건 (Xteink X3 전자책 리더는 위키 도메인 범위에서 제외)
+- Raw 소스 5건 생성:
+  - raw/articles/build-vs-buy-ai.md — Build vs Buy 인증 사례 + Claude Code GPT-6 Astra 혼합 사용 (2건)
+  - raw/articles/lovable-brand-design.md — Lovable 브랜드 구축, clock speed, 정성과 디자인 (1건)
+  - raw/articles/science-vs-engineering-theranos.md — Theranos 다큐, 과학 vs 엔지니어링, AI CEO 유사성 (1건)
+  - raw/articles/foldable-phone-202609.md — 삼성 vs 샤오미 vs 애플 폴더블폰 경쟁 (1건)
+  - raw/articles/right-to-repair-eu.md — EU 수리 정보 공개 규제, 준수율 18% (1건)
+- Concept 페이지 5건 생성:
+  - concepts/build-vs-buy-ai.md — AI 시대 자체 개발 의사결정, "3년 차에는 누가 패치하는가"
+  - concepts/startup-brand-clock-speed.md — 스타트업 브랜드 구축과 clock speed, 정성은 결과물에 드러남
+  - concepts/science-vs-engineering-hype.md — 과학 vs 엔지니어링, 기술 과장과 검증, Theranos→AI CEO
+  - concepts/foldable-phone-competition-202609.md — 폴더블폰 경쟁 본격화, 삼성 하드웨어 차별화 재평가
+  - concepts/right-to-repair-autonomy.md — 수리권과 소비자 하드웨어 자립, 규제 집행의 과제
+- 기존 페이지 업데이트:
+  - entities/gpt-6-astra.md — Claude Code 혼합 사용 사례, 과학 vs 엔지니어링 링크 추가
+  - entities/samsung-electronics.md — 2026-09-08 폴더블폰 경쟁 본격화 섹션 추가
+- 총 32페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
