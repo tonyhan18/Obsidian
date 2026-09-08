@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: concept
 tags: [섹터분석, 주식]
-sources: [raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md]
+sources: [raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-asml-euv-details-20260908.md]
 confidence: high
 ---
 
@@ -36,6 +36,14 @@ confidence: high
 - 장기 로드맵 가시성 개선 — 2028년까지 기술 확보 계획 명확
 - [[semiconductor-industry|반도체 산업]] 내 삼성의 기술 경쟁력 유지 신호
 - 단기: 복지 축소 → 직원 만족도·생산성 영향 가능
+
+### 2차 업데이트: 상세 기술 정보 (2026-09-08 18:37)
+- **협의체 구성:** 삼성전자 + TSMC + 인텔 참여, SK하이닉스 참여 긍정 검토 ^[raw/articles/samsung-asml-euv-details-20260908.md]
+- **High-NA EUV 사양:** 개구수(NA) 0.33→0.55, 회로 선폭 8nm 수준
+- **12인치 전환 이유:** 기존 6인치 마스크 시 노광 면적 절반 → 다이 스티칭 공정 필수 → 생산 기간 연장, 불량률/원가 상승
+- **12인치 효과:** 스티칭 제약 해소, AI/데이터센터용 팹 생산성 대폭 향상, 제조 비용 절감
+- **경쟁사 로드맵:** TSMC 2031년 파일럿, 2033년 양산; 삼성 2028년 세계 최초 D램 양산 적용
+- **의의:** 수백억 개 트랜지스터 정밀 배치하는 AI 반도체 팹 생산성 직접 향상
 
 ## 미해결 질문
 - High-NA EUV 2028년 도입이 경쟁사 대비 시기적절한가?

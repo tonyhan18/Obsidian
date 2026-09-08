@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/mistral-3b-funding-20260908.md]
+sources: [raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-mistral-investment-20260908.md]
 confidence: high
 ---
 
@@ -30,6 +30,14 @@ confidence: high
 - Mistral은 유럽의 챔피언 AI 기업으로 부상
 - EU AI 법안 환경에서 오픈소스 중심 전략으로 차별화
 - 미국 빅테크(OpenAI, Anthropic) 대안으로 유럽 시장 주도
+
+### 삼성전자 협력 심화 (2026-09-08 2차) ^[raw/articles/samsung-mistral-investment-20260908.md]
+- 삼성전자 투자금액 1조원 미만, 주요 투자자로 참여
+- 전영현 DS부문장이 4월 화성캠퍼스에서 멘슈 CEO 면담 — AI 반도체 공급망 논의
+- **전방위 협력:** HBM/D램 메모리 공급 + 미스트랄 AI 모델을 삼성 반도체 제조 현장 적용
+- **소버린 AI:** 외부 반출 없는 자체 환경 AI — 반도체 민감 데이터 보호
+- 미스트랄 데이터센터(프랑스/스웨덴) + 사우디 휴메인 협력 → HBM 수요 확대
+- 마이크로소프트, 엔비디아, ASML 동반 투자 — 글로벌 전략적 합의
 
 ## 미해결 질문
 - 삼성의 Mistral 투자가 파운드리 고객 유치로 이어질 것인가?

@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 65
+> Last updated: 2026-09-08 | Total pages: 68
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -66,6 +66,9 @@
 - [[photonics-ai-20260908|포토닉스: AI 다음 수혜주 (2026-09-08)]] — 터틀캐피탈 8조 운용사가 찍은 광통신 칩, AI 인프라 차세대 계층
 - [[dark-factory-platform-20260908|KT 다크팩토리 플랫폼 (2026-09-08)]] — KT+다임리서치 무인공장 플랫폼, 로봇 비용 붕괴 구체화
 - [[sgc-ai-datacenter-20260908|AI 데이터센터 에너지 인프라 (2026-09-08)]] — SGC에너지+버티브 협력, AI 전력·냉각 인프라 수요
+- [[ai-game-asset-generation-20260908|AI 게임 에셋 생성: stage-gen (2026-09-08)]] — 아트 디렉션+참고 이미지로 2D 게임 에셋 자동 생성, AI 창작 파이프라인 확장
+- [[samsung-sds-robot-orchestration-20260908|삼성SDS 로봇 오케스트레이션 플랫폼 (2026-09-08)]] — 이기종 로봇 통합 제어 SW, 25년 MES 노하우+피지컬AI, 2027년 출시
+- [[national-ai-strategy-1yr-20260908|국가 AI 전략위 1주년: 실용화 단계 전환 (2026-09-08)]] — 제도 마련→실제 활용, AI 풀스택 생태계, GPU 통합 관리
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

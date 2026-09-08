@@ -239,3 +239,25 @@
   - concepts/ai-sector-expansion-20260908.md — 네이버 의료AI 조직 신설, KT 다크팩토리, SGC AI센터 추가
   - concepts/korea-gni-40k-202609.md — 명목 GDP 26.4% 증가, 반도체 견인 GNI 4만弗 업데이트
 - 총 65페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제·GeekNews RSS 7건 추가 수집 — 삼성SDS/국가AI/미스트랄/ASML/원전/AI가격
+- RSS 피드: 한국경제(IT/경제), GeekNews
+- 수집된 글 7건, 키워드 필터 통과
+- Raw 소스 7건 생성:
+  - raw/articles/stage-gen-2d-game-assets-20260908.md — stage-gen 2D 게임 에셋 AI 생성 (1건)
+  - raw/articles/samsung-sds-robot-platform-20260908.md — 삼성SDS 로봇 오케스트레이션, AX/RX (1건)
+  - raw/articles/national-ai-strategy-1yr-20260908.md — 국가AI전략위 1주년, 실용화 전환 (1건)
+  - raw/articles/samsung-asml-euv-details-20260908.md — 12인치 포토마스크 상세, High-NA EUV (1건)
+  - raw/articles/nuclear-wec-stake-20260908.md — WEC 지분 인수, 원전 8기 APR1400 (1건)
+  - raw/articles/samsung-mistral-investment-20260908.md — 삼성 미스트랄 투자 상세, 소버린 AI (1건)
+  - raw/articles/ai-price-competition-shift-20260908.md — 토큰 단가→총비용 경쟁 기준 전환 (1건)
+- Concept 페이지 3건 생성:
+  - concepts/ai-game-asset-generation-20260908.md — AI 게임 에셋 생성, 안목과 AI 시대 연결
+  - concepts/samsung-sds-robot-orchestration-20260908.md — 로봇 오케스트레이션, 로봇 GPT 모멘트 연결
+  - concepts/national-ai-strategy-1yr-20260908.md — 국가 AI 전략 실용화, AI 조직 전환 연결
+- 기존 페이지 업데이트 4건:
+  - concepts/samsung-asml-euv-20260908.md — 12인치 포토마스크 상세, 경쟁사 로드맵 추가
+  - concepts/mistral-funding-20260908.md — 삼성 협력 심화, 소버린 AI, HBM 수요 추가
+  - concepts/gpt6-astra-token-economics-20260908.md — 가격 경쟁 기준 전환, 총비용 개념 추가
+  - concepts/us-investment-beneficiaries-20260908.md — WEC 지분 인수, APR1400 관철 추가
+- 총 68페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

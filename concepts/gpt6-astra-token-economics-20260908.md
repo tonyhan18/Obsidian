@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: concept
 tags: [인사이트]
-sources: [raw/articles/gpt6-astra-token-cost-20260908.md]
+sources: [raw/articles/gpt6-astra-token-cost-20260908.md, raw/articles/ai-price-competition-shift-20260908.md]
 confidence: high
 ---
 
@@ -49,6 +49,14 @@ GPT-6 Astra 출시와 함께 AI 모델 성능이 큰 폭으로 향상됨에 따�
 - AI 코딩 생산성 향상 → 청년 개발자 일자리 구조 흔들림
 - [[build-vs-buy-ai|Build vs Buy]] 논쟁의 새 층위 — AI가 코드를 대신 짤 때 인간의 역할 재정의
 - [[taste-and-ai|안목과 AI 시대]] — AI가 실무를 대신할 때 인간에게 남는 것
+
+### 가격 경쟁 기준 전환 (2026-09-08 2차) ^[raw/articles/ai-price-competition-shift-20260908.md]
+- AI 가격 경쟁 기준이 '토큰 단가'에서 **'성공한 작업당 총비용'**으로 전환
+- 아스트라: 토큰 단가 솔 대비 2.5배, BUT 코딩 평가에서 토큰 사용량 1/3
+- 아스트라 코딩지수 67점 vs 솔 65점, 클로드 페이블 5 67점 — 페이블 5 비용 절반 미만
+- OSWorld 2.0: 아스트라 40분/72.6% vs 솔 75분/65.7% — 시간 47% 단축, 점수 7점 높음
+- 중국 업체(알리바바, 문샷AI, 딥시크) 낮은 토큰 단가 모델 → 기업 선택 기준 복잡화
+- **총비용 = 성공률 + 재시도 + 처리시간 + 사람 검수 비용**
 
 ## 시사점
 1. **AI 비용 최적화가 새로운 역량:** 단순히 AI를 쓰는 것을 넘어, 토큰 사용을 최적화하는 능력이 경쟁력

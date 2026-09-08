@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: concept
 tags: [섹터분석, 매크로, 주식]
-sources: [raw/articles/us-investment-162t-20260908.md, raw/articles/nuclear-power-us-investment-20260908.md]
+sources: [raw/articles/us-investment-162t-20260908.md, raw/articles/nuclear-power-us-investment-20260908.md, raw/articles/nuclear-wec-stake-20260908.md]
 confidence: medium
 ---
 
@@ -35,6 +35,14 @@ confidence: medium
 - 두산에너빌리티 최대 4조원 수주 기대
 - 원전 8기 대미 수출 테마 지속 강세 — 초기 급등 이후에도 모멘텀 유지
 - 관련: [[securities-polarization-20260908|증권업계 양극화]] — 대형사가 원전 테마 수익 집중
+
+### WEC 지분 인수: 원전 수출 최종 관문 (2026-09-08 3차) ^[raw/articles/nuclear-wec-stake-20260908.md]
+- 미국 본토 대형 원전 8기 건설 — APR1400(한국형) 최소 2기 이상 관철
+- **최종 관문:** 웨스팅하우스(WEC) 지분 인수 — 한국전력이 브룩필드 경영권 WEC 지분 인수
+- **긍정:** 지식재산권 리스크 해소 (수출 권역 제한, 1기당 1조원 기술 사용료 면제 가능)
+- **우려:** 단순 재무적 투자에 그칠 경우 실익 부족; AP1000 위주 사업 → K원전 생태계 파급 제한
+- **핵심 조건:** 유의미한 지분 확보 → SMR 시장 파트너 지위, 글로벌 원전 분업 주도
+- 관련: [[samsung-asml-euv-20260908|삼성 ASML EUV]] — AI 반도체와 원전이 대미 투자 양대 축
 
 ## 미해결 질문
 - 162조원 투자가 실제 실행될 비율은?
