@@ -324,3 +324,13 @@
   - concepts/mistral-funding-20260908.md — 삼성전자 투자 규모 "수천억원" 재확인 섹션 추가 (3차 업데이트)
   - entities/samsung-electronics.md — 미스트랄 수천억원 투자 재확인 섹션 추가
 - 총 75페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | GeekNews RSS 1건 수집 — AI 시대의 사무실 복귀 강요 (RTO) 풍자
+- RSS 피드: GeekNews
+- 수집된 글 1건, 키워드 필터(AI) 통과
+- Raw 소스 1건 생성:
+  - raw/articles/ai-rto-satire-20260909.md — AI 버튼 클릭 노동 vs 사무실 복귀 강요, Mondo Mayo 풍자 (1건)
+- Concept 페이지 1건 생성:
+  - concepts/ai-rto-satire-20260909.md — AI 시대의 RTO 강요 역설, 조직 권위와 AI 결합, 버튼 클릭 노동, AI 조직 전환·부바부·안목과 AI·생산자 몰입·LLM 인지 영향·LibreOffice AI 비탑재 연결
+- 기존 페이지 업데이트: 없음
+- 총 76페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (6개 아웃바운드 링크)
