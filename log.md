@@ -96,3 +96,15 @@
   - entities/gpt-6-astra.md — Claude Code 혼합 사용 사례, 과학 vs 엔지니어링 링크 추가
   - entities/samsung-electronics.md — 2026-09-08 폴더블폰 경쟁 본격화 섹션 추가
 - 총 32페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 2건 수집 — AI 테마주/초고수 동향, 카카오뱅크 플랫폼 확장
+- RSS 피드: 한국경제(증권/경제)
+- 수집된 글 2건, 키워드 필터(AI, 주식) 통과
+- Raw 소스 2건 생성:
+  - raw/articles/openai-product-stocks-202609.md — 오픈AI 신제품 출시, 초고수 투자자 동향 (1건)
+  - raw/articles/kakaobank-platform-expansion-202609.md — 카카오뱅크 자동차 대출 비교 + 주식 투자 기능 (1건)
+- Concept 페이지 1건 생성:
+  - concepts/ai-theme-investor-flow-202609.md — AI 테마주 투자 동향, 오픈AI 신제품 → 초고수 매수 종목
+- Entity 페이지 1건 생성:
+  - entities/kakaobank.md — 인터넷 전문은행, 종합 금융 플랫폼 확장 (자동차 대출 비교, 주식 투자)
+- 총 34페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

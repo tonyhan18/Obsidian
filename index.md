@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 32
+> Last updated: 2026-09-08 | Total pages: 34
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -11,6 +11,7 @@
 - [[gold|금]] — 전통적 안전자산, 달러 헤지 수단
 - [[bitcoin|비트코인]] — 디지털 금, 달러 약세기 강세 자산
 - [[gpt-6-astra|GPT-6 Astra]] — 2026.09 기준 다방면 능력 평가: 수능 만점, 하네스 격차, 로봇 제어, AAII v4.2
+- [[kakaobank|카카오뱅크]] — 인터넷 전문은행, 종합 금융 플랫폼 확장 (자동차 대출 비교, 주식 투자)
 
 ## Concepts
 - [[top-down-selection|Top-Down 선택법]] — 시장→산업→회사 순으로 선택하는 전략
@@ -35,6 +36,7 @@
 - [[science-vs-engineering-hype|과학 vs 엔지니어링: 기술 과장과 검증]] — Theranos에서 AI CEO까지, 공학적 난도 착각과 독립적 검증의 중요성
 - [[foldable-phone-competition-202609|폴더블폰 경쟁 (2026-09)]] — 삼성 vs 샤오미 vs 애플, 하드웨어 차별화 전략 경쟁사 모방 단계 진입
 - [[right-to-repair-autonomy|수리권과 소비자 하드웨어 자립]] — EU 수리 정보 공개 규제, 규제 집행의 과제, 하드웨어 통제권
+- [[ai-theme-investor-flow-202609|AI 테마주 투자 동향 (2026-09)]] — 오픈AI 신제품 출시에 따른 초고수 투자자 동향, AI 수혜주 재평가
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
