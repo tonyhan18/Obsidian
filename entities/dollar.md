@@ -36,8 +36,17 @@ confidence: high
 - 원화 강세로 수출주(자동차 등) 마진 악화 — [[auto-sector-dual-risk|자동차주 이중고]]
 - 관련: [[korea-gni-40k-202609|한국 GNI 4만달러 시대]]
 
+## 업데이트 (2026-09-08 오후)
+- 원/달러 환율 하락 — 코스피 상승과 동시 진행 ^[raw/articles/kospi-eps-warning-20260908.md]
+- 달러 약세가 한국 증시 지지 패턴 지속
+- 일본 국채 10년물 3% 돌파 — 엔 캐리 트레이드 청산 우려 (글로벌 금리 상승 맥락)
+- 연금계좌(DC·IRP) 국채 청약 개시 — 안전자산 수요 증가 ^[raw/articles/pension-bond-krx-acga-20260908.md]
+- 관련: [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]], [[pension-bond-institutional-20260908|연금계좌 국채 투자]]
+
 ## 관계
 - 헤지 자산: [[금]], [[비트코인]]
 - 영향 받는 자산: [[S&P-500]], [[semiconductor-industry|반도체 산업]]
 - 전략: [[dollar-hedge|달러 헤지]], [[core-satellite|Core-Satellite 배분]]
 - 환율 영향: [[korea-gni-40k-202609|한국 GNI 4만달러 시대]], [[auto-sector-dual-risk|자동차주 이중고]]
+- 시황 연관: [[kospi-7000-202609|코스피 7천피 재탈환]], [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]
+- 금융 연관: [[pension-bond-institutional-20260908|연금계좌 국채 투자 & 기관투자자 거버넌스]]

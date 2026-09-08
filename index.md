@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 37
+> Last updated: 2026-09-08 | Total pages: 39
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -27,7 +27,9 @@
 - [[ai-safety-alignment|AI 정렬과 안전성]] — AI 지능이 통제를 넘어설 위험, 과정이 중요한 영역에서 AI가 답만 줄 때의 손실
 - [[self-hosting-digital-autonomy|셀프 호스팅과 디지털 자립]] — 데이터 주권과 인프라 자율성 확보, AI 스크래핑 방어, 독립 인프라 지속성
 - [[ai-cognitive-management|AI 시대의 인지 관리]] — 브레인롯 위험, AI 대기 시간의 창의적 활용, AI 스크래핑 방어 인프라
-- [[kospi-7000-202609|코스피 7천피 재탈환 (2026-09-08)]] — 반도체 훈풍으로 코스피 7,000선 재탈환, 9월 CPI가 방향성 결정
+- [[kospi-7000-202609|코스피 7천피 재탈환 (2026-09-08)]] — 반도체 훈풍으로 코스피 7,000선 재탈환, 오후 7,100선 돌파, 9월 CPI가 방향성 결정
+- [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고 (2026-09-08)]] — EPS 증가율 97%→50% 반토막, 이익 둔화 경고, ROE 중심 투자 부각
+- [[pension-bond-institutional-20260908|연금계좌 국채 투자 & 기관투자자 거버넌스]] — DC·IRP 국채 청약, KRX-ACGA 라운드테이블, 밸류업 공시 756개사
 - [[korea-gni-40k-202609|한국 GNI 4만달러 시대 (2026)]] — 한은 발표 GNI 4만 달러 돌파 가능성, 달러 약세 견인
 - [[agent-execution-logging|에이전트 실행 기록과 로컬 우선 워크스페이스]] — Apache Maka, 에이전트 실행 투명성, 로컬 우선, AI 안전성
 - [[auto-sector-dual-risk|자동차주 이중고]] — 판매 둔화 + 원화 강세, 반도체와 대조되는 섹터

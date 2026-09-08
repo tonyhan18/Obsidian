@@ -1,10 +1,10 @@
 ---
 title: SK 하이닉스
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-08
 type: entity
 tags: [섹터분석, 주식]
-sources: [raw/transcripts/mentoring-session.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/kospi-eps-warning-20260908.md]
 confidence: medium
 ---
 
@@ -22,3 +22,4 @@ confidence: medium
 - 경쟁사: [[삼성전자]]
 - 상위 산업: [[반도체-산업]]
 - 투자 전략: [[Core-Satellite-배분]]
+- 시황: [[kospi-7000-202609|코스피 7천피 재탈환]], [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]

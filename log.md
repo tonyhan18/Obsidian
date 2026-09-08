@@ -122,3 +122,18 @@
   - concepts/inverse-retail-betting-202609.md — 인버스 베팅과 개인 투자자 행태, 조정 대비 vs 헤지 전략
 - 기존 페이지 업데이트: 없음
 - 총 37페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 5건 수집 — 코스피 EPS 둔화/환율/국채/기관투자자
+- RSS 피드: 한국경제-증권
+- 수집된 글 5건, 키워드 필터(투자, 증권, 코스피, 반도체, 환율, 기관) 통과
+- Raw 소스 2건 생성 (그룹화):
+  - raw/articles/kospi-eps-warning-20260908.md — EPS 둔화 경고, 환율 하락, 코스피 7100선, SK하이닉스 5%↑ (3건)
+  - raw/articles/pension-bond-krx-acga-20260908.md — NH투자증권 DC·IRP 국채 청약, KRX-ACGA 라운드테이블 (2건)
+- Concept 페이지 2건 생성:
+  - concepts/kospi-eps-slowdown-20260908.md — EPS 증가율 97%→50% 반토막, 이익 둔화 경고, ROE 중심 투자, 고금리 고착화
+  - concepts/pension-bond-institutional-20260908.md — 연금계좌 국채 투자, KRX-ACGA 기관투자자 라운드테이블, 밸류업 공시 756개사
+- 기존 페이지 업데이트:
+  - concepts/kospi-7000-202609.md — 오후 장 7,100선 돌파, SK하이닉스 5%↑, EPS 둔화 경고 추가
+  - entities/sk-hynix.md — 2026-09-08 시황 wikilinks 추가
+  - entities/dollar.md — 환율 하락, 일본 국채 3%, 연금계좌 국채 청약 추가
+- 총 39페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
