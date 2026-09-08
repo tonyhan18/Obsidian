@@ -108,3 +108,17 @@
 - Entity 페이지 1건 생성:
   - entities/kakaobank.md — 인터넷 전문은행, 종합 금융 플랫폼 확장 (자동차 대출 비교, 주식 투자)
 - 총 34페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | GeekNews 1건 + 한국경제 2건 수집 — AI 구독 선택, 건설주 수혜, 인버스 베팅
+- RSS 피드: GeekNews, 한국경제(증권)
+- 수집된 글 3건, 키워드 필터(GPT, 기관, 코스피) 통과
+- Raw 소스 3건 생성:
+  - raw/articles/ai-subscription-choice-202609.md — Ask GN: Claude vs GPT 단일 구독 선택 질문 (1건)
+  - raw/articles/construction-public-relocation-202609.md — 공공기관 이도향촌, 건자재·건설주 강세 (1건)
+  - raw/articles/inverse-retail-202609.md — 코스피 상승장에서 개미 2,000억 인버스 매수 (1건)
+- Concept 페이지 3건 생성:
+  - concepts/ai-subscription-choice-202609.md — AI 구독 단일 선택 딜레마, Claude vs GPT, 사이드프로젝트용 AI 비교
+  - concepts/construction-sector-202609.md — 공공기관 이도향촌 → 건설주 수혜, 정책 드라이브 섹터 분석
+  - concepts/inverse-retail-betting-202609.md — 인버스 베팅과 개인 투자자 행태, 조정 대비 vs 헤지 전략
+- 기존 페이지 업데이트: 없음
+- 총 37페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

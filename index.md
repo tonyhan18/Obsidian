@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 34
+> Last updated: 2026-09-08 | Total pages: 37
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -37,6 +37,9 @@
 - [[foldable-phone-competition-202609|폴더블폰 경쟁 (2026-09)]] — 삼성 vs 샤오미 vs 애플, 하드웨어 차별화 전략 경쟁사 모방 단계 진입
 - [[right-to-repair-autonomy|수리권과 소비자 하드웨어 자립]] — EU 수리 정보 공개 규제, 규제 집행의 과제, 하드웨어 통제권
 - [[ai-theme-investor-flow-202609|AI 테마주 투자 동향 (2026-09)]] — 오픈AI 신제품 출시에 따른 초고수 투자자 동향, AI 수혜주 재평가
+- [[ai-subscription-choice-202609|AI 구독 선택: Claude vs GPT]] — 비용 제약 하의 AI 도구 단일 구독 선택 딜레마, 사이드프로젝트용 AI 비교
+- [[construction-sector-202609|공공기관 이도향촌과 건설주 수혜]] — 공공기관 수도권 복귀 → 건자재·건설사 강세, 정책 드라이브 섹터 분석
+- [[inverse-retail-betting-202609|인버스 베팅과 개인 투자자 행태]] — 코스피 상승장에서 개미 2,000억 인버스 매수, 조정 대비 vs 헤지 전략
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
