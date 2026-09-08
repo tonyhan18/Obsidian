@@ -179,3 +179,32 @@
   - concepts/kospi-7000-202609.md — 오후 하락 반전 링크 추가
   - concepts/ai-sector-expansion-20260908.md — 화웨이·소상공인·중국 수출 링크 추가
 - 총 49페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | RSS 2차 수집 — 14건 인제스트
+- Raw 소스 14건 인제스트:
+  - raw/articles/mistral-3b-funding-20260908.md — Mistral 30억 유로 투자, 삼성 주도
+  - raw/articles/us-investment-162t-20260908.md — 대미 투자 162조원, JP모건 톱픽
+  - raw/articles/nuclear-power-us-investment-20260908.md — 원전 8기 수혜 종목 30% 급등
+  - raw/articles/pension-bond-8pct-20260908.md — 퇴직연금 국채 연 8%대
+  - raw/articles/mirae-asset-ai-pension-20260908.md — 미래에셋 AI 연금 자산배분
+  - raw/articles/nh-private-equity-fund-20260908.md — NH 사모펀드 분산투자 공모펀드
+  - raw/articles/asia-memory-etf-20260908.md — 아시아 메모리 초집중 ETF
+  - raw/articles/robotics-gpt-moment-20260908.md — 로봇 GPT 모멘트, 비용 붕괴 임박
+  - raw/articles/dividend-stock-season-20260908.md — 배당주 시즌, 분리과세
+  - raw/articles/high-dividend-etf-semi-20260908.md — 고배당 ETF 반도체 편차
+  - raw/articles/valueup-shareholder-return-20260908.md — 밸류업지수 vs 진짜 주주환원주
+  - raw/articles/samsung-tsmc-niche-20260908.md — 삼성·TSMC 틈새 파운드리 기업
+  - raw/articles/samsung-employee-housing-20260908.md — 삼성 주거지원금 축소 우려
+  - raw/articles/samsung-asml-euv-20260908.md — 삼성 ASML 12인치 포토마스크, 2028 EUV
+- Concept 페이지 8건 생성:
+  - concepts/mistral-funding-20260908.md — Mistral 30억 유로 투자 유치
+  - concepts/us-investment-beneficiaries-20260908.md — 대미 투자 162조원 수혜주와 원전 수출
+  - concepts/pension-ai-bond-20260908.md — 퇴직연금 국채 8%대·AI 자산배분
+  - concepts/asia-memory-etf-20260908.md — 아시아 메모리 초집중 ETF
+  - concepts/robotics-gpt-moment-20260908.md — 로봇 GPT 모멘트
+  - concepts/dividend-shareholder-season-20260908.md — 배당주·주주환원 시즌
+  - concepts/samsung-tsmc-niche-20260908.md — 삼성·TSMC 틈새 파운드리 기업
+  - concepts/samsung-asml-euv-20260908.md — 삼성 ASML 12인치 포토마스크·차세대 EUV
+- 기존 페이지 업데이트:
+  - entities/samsung-electronics.md — Mistral 투자 주도, ASML EUV 도입, 복지 리스크 섹션 추가
+- 총 57페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

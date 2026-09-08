@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 49
+> Last updated: 2026-09-08 | Total pages: 57
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -51,6 +51,14 @@
 - [[gpt6-astra-token-economics-20260908|GPT-6 Astra 토큰 경제학 (2026-09-08)]] — 에이전트 코딩 최대 1,000배 토큰 소비, 2028년 AI 코딩 비용 > 개발자 연봉 전망
 - [[traditional-store-ai-adoption-20260908|전통 소상공인 AI 도입 (2026-09-08)]] — 백년가게 AI CCTV 도입, 변하지 않는 가치를 지키기 위한 변화
 - [[china-ai-export-20260908|중국 AI 수출 호조와 반도체 가격 폭등 (2026-09-08)]] — 수출 +25%, 집적회로 금액 +129.83%, 반도체 가격 최대 700% 상승
+- [[mistral-funding-20260908|Mistral 30억 유로 투자 유치 (2026-09-08)]] — 삼성 주도 시리즈 D, 기업가치 210억 유로, 유럽 기술기업 사상 최대 지분 투자
+- [[us-investment-beneficiaries-20260908|대미 투자 162조원 수혜주와 원전 수출 (2026-09-08)]] — JP모건 톱픽, 원전 8기 수혜 종목 30% 급등
+- [[pension-ai-bond-20260908|퇴직연금 국채 8%대·AI 자산배분 (2026-09-08)]] — DC·IRP 국채 청약, 미래에셋 AI 자산배분, NH 사모펀드 공모화
+- [[asia-memory-etf-20260908|아시아 메모리 초집중 ETF (2026-09-08)]] — 한국+일본+대만 메모리 기업 초집중 ETF 출시
+- [[robotics-gpt-moment-20260908|로봇 GPT 모멘트 (2026-09-08)]] — 휴머노이드 비용 붕괴 임박, 물리적 작업 비용 붕괴 예상
+- [[dividend-shareholder-season-20260908|배당주·주주환원 시즌 (2026-09-08)]] — 분리과세·밸류업·고배당 ETF, 진짜 주주환원주 판별 기준
+- [[samsung-tsmc-niche-20260908|삼성·TSMC 틈새 파운드리 기업 (2026-09-08)]] — 양대 강자가 포기한 틈새 공정에서 성공한 기업
+- [[samsung-asml-euv-20260908|삼성 ASML 12인치 포토마스크·차세대 EUV (2026-09-08)]] — 2028년 D램 High-NA EUV 도입, 주거지원금 축소 리스크
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

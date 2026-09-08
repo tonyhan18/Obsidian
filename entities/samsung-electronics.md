@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-08
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md]
 confidence: high
 ---
 
@@ -67,3 +67,15 @@ confidence: high
 - AI 칩 수요 증가 → 파운드리 비즈니스 성장 신호
 - 메모리 중심에서 AI 비메모리·파운드리로 수요 다변화
 - 관련 컨셉: [[ai-sector-expansion-20260908]] — AI 도메인 확장: 파운드리 수혜
+
+### 2026-09-08 Mistral AI 30억 유로 투자 주도
+- 삼성전자가 프랑스 AI 스타트업 Mistral 시리즈 D 투자 주도
+- 투자 후 가치 210억 유로 — 유럽 기술기업 사상 최대 지분 투자
+- AI 모델 생태계 확보 → 파운드리 고객 유치·온디바이스 AI 전략
+- 관련 컨셉: [[mistral-funding-20260908]] — Mistral 30억 유로 투자 유치
+
+### 2026-09-08 ASML 12인치 포토마스크·차세대 EUV 도입
+- ASML과 12인치 포토마스크 공동 개발, 2028년 D램에 High-NA EUV 첫 도입
+- D램 미세화 한계 돌파, 장비 투자 가시성 확보
+- 주거지원금(월 70만원) 축소 가능성 → 직원 우려, 인재 이탈 리스크
+- 관련 컨셉: [[samsung-asml-euv-20260908]] — ASML EUV 도입과 복지 리스크
