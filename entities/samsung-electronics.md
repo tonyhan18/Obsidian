@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-09
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md, raw/articles/ai-model-competition-samsung-20260909.md]
 confidence: high
 ---
 
@@ -49,6 +49,12 @@ confidence: high
 - **비추천:** 삼성 계열사 내 이동 (SDS → 전자)
 - 학사 취업 시 **반드시 인턴 거칠 것**
 - 관련: [[입사-전략]], [[역산-로드맵]]
+
+### 2026-09-09 AI 모델 경쟁 격화 → 최대 수혜주
+- 글로벌 AI 기업들의 모델 경쟁 격화 → HBM·파운드리 수요 증가 → 삼성전자 최대 수혜
+- 증권사 목표가 상향 조정 움직임 — 컨센서스 상향 톱5에 포함
+- 메모리(HBM) + 파운드리(AI 칩 제조) 양쪽 수혜 — 반도체 내 포지션 강화
+- 관련 컨셉: [[ai-model-competition-samsung-20260909|AI 모델 경쟁과 삼성 수혜]]
 
 ## 관계
 - 경쟁사: [[sk-hynix]]

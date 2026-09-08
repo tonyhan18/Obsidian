@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [매크로, 시황, 달러]
-sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md]
+sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ confidence: medium
 - **발생일:** 2026-09-08 (뉴욕 현지시간)
 
 ## 분석
+
+### 모건스탠리 경고: "모멘텀의 마지막 불꽃" (2026-09-09 업데이트)
+- 유가 100달러 역풍에도 반도체가 급등했으나, 모건스탠리는 이를 "모멘텀의 마지막 불꽃"으로 평가
+- 반도체 강세가 지속 가능한지에 대한 의문 제기 — 트레이딩 기반 모멘텀 vs 펀더멘털 회복 구분 필요
+- [[securities-consensus-top5-20260909|증권가 컨센서스 톱5]]: 증권사 컨센서스 상향과 MS 경고가 상충 — 방향성 확인 필요
+- [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]와 일맥상통 — 모멘텀 주도 랠리의 지속성 의문
+^[raw/articles/ms-semiconductor-momentum-20260909.md]
 
 ### 중동 리스크의 시장 전파 경로
 중동 충돌 → 유가 급등 → 인플레이션 우려 → 금리 인상 압력 → 주식 하락. 이 경로가 FOMC 직전 CPI 발표와 겹치면서 위험회피 심리 극대화.

@@ -356,3 +356,29 @@
   - concepts/oil-surge-semiconductor-rebound-20260909.md — 중동 충돌 상세(후티, 이란), 유가 수치, 구리 강세, CPI/FOMC 리스크 추가, 출처 확장
   - entities/samsung-electronics.md — 로봇청소기 시장 1위 달성 & LG 경쟁 섹션 추가, 소스 확장
 - 총 78페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 9건 수집 — AI 에이전트/이미지/증권/환율 (스크립트 오류 수동 실행)
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류로 `python3`가 경로의 일부로 해석됨. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제(증권/경제)
+- 수집된 글 9건, 키워드 필터 통과 9건, 도메인 부적합 스킵 1건(떡지순례 — 투자/커리어/자산관리 무관)
+- Raw 소스 8건 생성:
+  - raw/articles/navier-stokes-buckmaster-20260909.md — Buckmaster의 OpenAI 협의 과정 공개, LLM 활용 개인 공동연구
+  - raw/articles/chatgpt-images-2-5-20260909.md — ChatGPT Images 2.5, 주 30억 장, 참조 재현도 향상, 지연 50% 단축
+  - raw/articles/davinci-resolve-21-1-20260909.md — DaVinci Resolve 21.1, Claude·Codex 연동, 자연어 영상 편집
+  - raw/articles/meta-muse-agent-20260909.md — Meta Muse 개인 AI 에이전트, Secure VM, WhatsApp 연동
+  - raw/articles/ai-model-competition-samsung-20260909.md — AI 모델 경쟁 격화, 삼성전자 최대 수혜
+  - raw/articles/ms-semiconductor-momentum-20260909.md — 유가 100달러 속 반도체 급등, MS "마지막 불꽃" 경고
+  - raw/articles/securities-consensus-top5-20260909.md — 증권사 컨센서스 상향 톱5, 유의점
+  - raw/articles/currency-war-japan-india-20260909.md — 일본 15조엔·인도 150억달러 환율 개입
+- Concept 페이지 6건 생성:
+  - concepts/chatgpt-images-2-5-20260909.md — 이미지 생성 품질·속도 동시 개선, AI 도구 경쟁 확장 (4개 아웃바운드 링크)
+  - concepts/davinci-resolve-21-1-20260909.md — AI 어시스턴트 영상 편집 통합, 자연어 인터페이스 확장 (4개 아웃바운드 링크)
+  - concepts/meta-muse-agent-20260909.md — 개인 AI 에이전트, Secure VM 아키텍처, 에이전트 투명성·안전성 (4개 아웃바운드 링크)
+  - concepts/ai-model-competition-samsung-20260909.md — AI 경쟁→반도체 수요 파이프라인, 삼성 포지션 (7개 아웃바운드 링크)
+  - concepts/securities-consensus-top5-20260909.md — 컨센서스 상향 의미, 밸류에이션 함정 (4개 아웃바운드 링크)
+  - concepts/currency-war-japan-india-20260909.md — 환율 전쟁 전파 경로, 일본·인도 개입 맥락 (6개 아웃바운드 링크)
+- 기존 페이지 업데이트 3건:
+  - concepts/navier-stokes-millennium-openai-20260909.md — Buckmaster 협의 과정 공개 섹션 추가, 소스 확장
+  - concepts/oil-surge-semiconductor-rebound-20260909.md — MS "마지막 불꽃" 경고 섹션 추가, 소스 확장
+  - entities/samsung-electronics.md — AI 모델 경쟁 최대 수혜주 섹션 추가, 소스 확장
+- 총 84페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

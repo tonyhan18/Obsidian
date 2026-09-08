@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 78
+> Last updated: 2026-09-09 | Total pages: 84
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -79,6 +79,12 @@
 - [[libreoffice-ai-free-20260909|LibreOffice 26.8: AI 비탑재가 차별점 (2026-09-09)]] — AI 없음을 마케팅 포인트로 100만 다운로드, AI 의존 거부·데이터 주권·인지 자율성 흐름
 - [[ai-rto-satire-20260909|AI 시대의 사무실 복귀 강요 (RTO) (2026-09-09)]] — AI 버튼 클릭 노동 vs 사무실 복귀 강요, 조직 권위와 AI 결합의 역설
 - [[navier-stokes-millennium-openai-20260909|Navier–Stokes 밀레니엄 문제와 AI 증명 (2026-09-09)]] — OpenAI의 3D 유체 특이점 증명 + Lean 형식화, AI 능력이 순수 수학으로 확장
+- [[chatgpt-images-2-5-20260909|ChatGPT Images 2.5 (2026-09-09)]] — 주 30억 장 생성 규모, 참조 이미지 재현도·편집 정확도 향상, 지연 시간 50% 단축
+- [[davinci-resolve-21-1-20260909|DaVinci Resolve 21.1 (2026-09-09)]] — Claude·ChatGPT Codex 연동, 자연어 영상 편집, AI 크리에이티브 스택 통합
+- [[meta-muse-agent-20260909|Meta Muse 개인 AI 에이전트 (2026-09-09)]] — 웹 다단계 작업 자동 수행, Secure VM 아키텍처, WhatsApp 연동
+- [[ai-model-competition-samsung-20260909|AI 모델 경쟁과 삼성 수혜 (2026-09-09)]] — AI 모델 경쟁 격화 → HBM·파운드리 수요 증가 → 삼성전자 최대 수혜
+- [[securities-consensus-top5-20260909|증권가 컨센서스 상향 톱5 (2026-09-09)]] — 증권사 일제히 상위 5개 종목 컨센서스 상향, 펀더멘털 개선 vs 모멘텀 추격 구분 필요
+- [[currency-war-japan-india-20260909|환율 전쟁: 일본·인도 대규모 개입 (2026-09-09)]] — 일본 15조엔·인도 150억달러 환율 개입, 글로벌 자산 가격 재평가 압력
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

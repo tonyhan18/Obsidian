@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/navier-stokes-openai-proof-20260909.md]
+sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ confidence: medium
 - [[gpt-6-astra|GPT-6 Astra]] 시대에 AI 능력이 자연어·코딩을 넘어 순수 수학으로 확장
 - 밀레니엄 상금 문제 부분 해결은 AI가 단순 패턴 매칭이 아닌 깊은 수학적 추론 가능함을 시사
 - [[ai-safety-alignment|AI 정렬과 안전성]] 논의에 새로운 차원: AI가 기초 과학 자체를 변화시킬 수 있는 능력
+
+### 수학자 Buckmaster의 OpenAI 협의 과정 공개 (2026-09-09 업데이트)
+- 수학자 Tristan Buckmaster가 Levent Alpöge와 진행한 유체 방정식 연구를 공개하면서, OpenAI 발표 전 협의 과정을 성명으로 밝힘
+- 두 사람의 연구는 기존 수학자들의 접근법을 LLM(Claude, OpenAI 모델)의 도움으로 발전시킨 개인 공동연구
+- OpenAI의 발표 전 두 연구팀 간 교류가 있었음 — AI 증명의 독립성에 대한 미묘한 쟁점
+- [[science-vs-engineering-hype|과학 vs 엔지니어링]]의 원칙: 협의 과정 공개는 투명성 강화이나 독립 검증과는 구분 필요
+^[raw/articles/navier-stokes-buckmaster-20260909.md]
 
 ## 미해결 질문
 - 증명이 수학계 전체의 동료 심사를 통과할 수 있는가?
