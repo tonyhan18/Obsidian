@@ -1,10 +1,10 @@
 ---
 title: 삼성전자
 created: 2026-08-23
-updated: 2026-09-08
+updated: 2026-09-09
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md]
 confidence: high
 ---
 
@@ -79,3 +79,8 @@ confidence: high
 - D램 미세화 한계 돌파, 장비 투자 가시성 확보
 - 주거지원금(월 70만원) 축소 가능성 → 직원 우려, 인재 이탈 리스크
 - 관련 컨셉: [[samsung-asml-euv-20260908]] — ASML EUV 도입과 복지 리스크
+
+### 2026-09-09 미스트랄 수천억원 투자 규모 재확인
+- 한국경제 추가 보도에서 삼성전자 미스트랄 투자를 "수천억원" 규모로 재확인
+- 시리즈D 주도 투자에 이은 지분 확대 — AI 모델+반도체 수직 통합 전략 지속
+- 관련 컨셉: [[mistral-funding-20260908]] — Mistral 30억 유로 투자 유치 (3차 업데이트)

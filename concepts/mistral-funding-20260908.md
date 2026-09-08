@@ -1,10 +1,10 @@
 ---
 title: Mistral AI 30억 유로 투자 유치 (2026-09-08)
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-mistral-investment-20260908.md]
+sources: [raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-mistral-investment-20260908.md, raw/articles/samsung-mistral-investment-20260909.md]
 confidence: high
 ---
 
@@ -38,6 +38,11 @@ confidence: high
 - **소버린 AI:** 외부 반출 없는 자체 환경 AI — 반도체 민감 데이터 보호
 - 미스트랄 데이터센터(프랑스/스웨덴) + 사우디 휴메인 협력 → HBM 수요 확대
 - 마이크로소프트, 엔비디아, ASML 동반 투자 — 글로벌 전략적 합의
+
+### 삼성전자 투자 규모 재확인 (2026-09-09 3차) ^[raw/articles/samsung-mistral-investment-20260909.md]
+- 한국경제 추가 보도에서 삼성전자 미스트랄 투자 규모를 "수천억원"으로 재확인
+- 기존 시리즈D 참여에 이은 지분 확대 지속 — 삼성벤처투자(2024년) → 삼성전자 본사 투자
+- AI 반도체 수직 통합 전략 지속 가속: 모델([[mistral-funding-20260908|미스트랄]]) + 하드웨어([[samsung-electronics|삼성전자]]) + 공급망([[semiconductor-industry|반도체 산업]])
 
 ## 미해결 질문
 - 삼성의 Mistral 투자가 파운드리 고객 유치로 이어질 것인가?

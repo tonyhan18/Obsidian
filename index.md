@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 74
+> Last updated: 2026-09-09 | Total pages: 75
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -75,6 +75,7 @@
 - [[china-lithography-equipment-20260908|중국 노광장비 자립화와 반도체 밸류체인 재편 (2026-09-08)]] — 화웨이·SMIC·위량성 DUV 노광장비 개발, ASML 독점 위협, 밸류체인 최상단 자립화
 - [[arm-physical-ai-ecosystem-20260909|Arm 피지컬 AI 생태계 협업 (2026-09-09)]] — 80개 기업 참여, 전 스택 협업으로 피지컬 AI 개발 가속, 로봇 비용 붕괴 가속
 - [[oil-surge-semiconductor-rebound-20260909|유가급등 속 반도체 반등 (2026-09-09)]] — 뉴욕증시 하락 속 반도체주 반등, AI 수요가 매크로 헤드윈드 상쇄
+- [[libreoffice-ai-free-20260909|LibreOffice 26.8: AI 비탑재가 차별점 (2026-09-09)]] — AI 없음을 마케팅 포인트로 100만 다운로드, AI 의존 거부·데이터 주권·인지 자율성 흐름
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

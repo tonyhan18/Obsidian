@@ -311,3 +311,16 @@
 - 기존 페이지 업데이트 1건:
   - entities/semiconductor-industry.md — 피지컬 AI 생태계 협업 섹션 + 매크로 헤드윈드 속 반도체 반등 섹션 추가
 - 총 74페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | GeekNews·한국경제 RSS 2건 수집 — LibreOffice AI 비탑재 & 삼성-미스트랄 투자 재확인
+- RSS 피드: GeekNews, 한국경제-경제
+- 수집된 글 2건, 키워드 필터(AI, 투자, 삼성) 통과
+- Raw 소스 2건 생성:
+  - raw/articles/libreoffice-ai-free-20260909.md — LibreOffice 26.8 AI 비탑재, 100만 다운로드, 프라이버시 차별점 (1건)
+  - raw/articles/samsung-mistral-investment-20260909.md — 삼성전자 미스트랄 수천억원 투자 규모 재확인 (1건)
+- Concept 페이지 1건 생성:
+  - concepts/libreoffice-ai-free-20260909.md — AI 비탑재를 차별점으로 100만 다운로드, AI 의존 거부·데이터 주권·인지 자율성 흐름, 셀프 호스팅·AI 인지 관리·Build vs Buy·안목과 AI·AI 구독 선택 연결
+- 기존 페이지 업데이트 2건:
+  - concepts/mistral-funding-20260908.md — 삼성전자 투자 규모 "수천억원" 재확인 섹션 추가 (3차 업데이트)
+  - entities/samsung-electronics.md — 미스트랄 수천억원 투자 재확인 섹션 추가
+- 총 75페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
