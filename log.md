@@ -298,3 +298,16 @@
   - entities/semiconductor-industry.md — 중국 노광장비 자립화 링크 추가
   - concepts/huawei-ai-chip-geopolitics-20260908.md — 칩 설계 자립화 → 장비 자립화 확장 링크 추가
 - 총 72페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | GeekNews·한국경제 RSS 2건 수집 — Arm 피지컬 AI 생태계 & 유가급등 속 반도체 반등
+- RSS 피드: GeekNews, 한국경제-경제
+- 수집된 글 2건, 키워드 필터(AI, 반도체) 통과
+- Raw 소스 2건 생성:
+  - raw/articles/arm-physical-ai-ecosystem-20260909.md — Arm Total Design for Physical AI, 80개 기업 참여, 전 스택 협업 (1건)
+  - raw/articles/oil-surge-ny-market-dip-20260909.md — 유가급등·무역긴장으로 뉴욕증시 하락, 반도체주 반등 (1건)
+- Concept 페이지 2건 생성:
+  - concepts/arm-physical-ai-ecosystem-20260909.md — 피지컬 AI 생태계 협업, 로봇 비용 붕괴 가속, AI 인프라 확장·로봇 GPT 모멘트·삼성SDS 로봇 오케스트레이션 연결
+  - concepts/oil-surge-semiconductor-rebound-20260909.md — 매크로 헤드윈드 속 반도체 반등, AI 수요가 펀더멘털 회복력 근거, 중국 AI 수출·코스피 시황 연결
+- 기존 페이지 업데이트 1건:
+  - entities/semiconductor-industry.md — 피지컬 AI 생태계 협업 섹션 + 매크로 헤드윈드 속 반도체 반등 섹션 추가
+- 총 74페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

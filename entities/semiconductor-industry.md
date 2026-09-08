@@ -1,7 +1,7 @@
 ---
 title: 반도체 산업
 created: 2026-08-23
-updated: 2026-09-08
+updated: 2026-09-09
 type: entity
 tags: [섹터분석, 매크로]
 sources: [raw/transcripts/mentoring-session.md, raw/articles/medical-ai-defense-ai-20260908.md]
@@ -51,6 +51,17 @@ confidence: high
 - AI 인프라 투자 → 반도체 공급 부족 → 가격 급등 사이클
 - 중국 수출 +25%, 대미 수출 +34.4% — 미국 관세 불확실성으로 선주문 효과
 - 관련: [[china-ai-export-20260908|중국 AI 수출 호조]], [[huawei-ai-chip-geopolitics-20260908|화웨이 AI 칩 지정학]]
+
+## 피지컬 AI 생태계 협업 (2026-09-09)
+- Arm이 80개 이상 기업 참여하는 **Arm Total Design for Physical AI** 발표 ^[raw/articles/arm-physical-ai-ecosystem-20260909.md]
+- AI 모델→소프트웨어→센서→컴퓨팅 하드웨어→가상 플랫폼→디지털 트윈 전 스택 협업
+- Arm 아키텍처 기반 칩 설계 증가 → AI 비메모리·파운드리 수요 다변화 가속
+- 관련: [[arm-physical-ai-ecosystem-20260909|Arm 피지컬 AI 생태계 협업]]
+
+## 매크로 헤드윈드 속 반도체 반등 (2026-09-09)
+- 유가 급등·무역 긴장으로 뉴욕증시 하락 속 반도체주 반등 ^[raw/articles/oil-surge-ny-market-dip-20260909.md]
+- AI 수요·중국 수출 호조가 매크로 리스크 상쇄 → 펀더멘털 기반 회복력 확인
+- 관련: [[oil-surge-semiconductor-rebound-20260909|유가급등 속 반도체 반등]]
 
 ## 관계
 - 핵심 기업: [[삼성전자]], [[sk-hynix]]
