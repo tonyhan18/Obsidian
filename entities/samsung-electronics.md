@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-08
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md]
 confidence: high
 ---
 
@@ -61,3 +61,9 @@ confidence: high
 - 1위 삼성의 점유율을 턱밑까지 추격, 폴더블 아이폰 출시로 성장세 주도 예상
 - 하드웨어 차별화 전략이 경쟁사 모방 단계에 진입
 - 관련 컨셉: [[foldable-phone-competition-202609]] — 폴더블폰 경쟁 구도 상세
+
+### 2026-09-08 파운드리 AI칩 양산 수혜
+- 세미파이브가 삼성 파운드리 4나노 공정으로 AI칩 첫 양산 — AI칩 대량생산 본격화
+- AI 칩 수요 증가 → 파운드리 비즈니스 성장 신호
+- 메모리 중심에서 AI 비메모리·파운드리로 수요 다변화
+- 관련 컨셉: [[ai-sector-expansion-20260908]] — AI 도메인 확장: 파운드리 수혜

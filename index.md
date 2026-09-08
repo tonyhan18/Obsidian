@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 39
+> Last updated: 2026-09-08 | Total pages: 42
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -12,6 +12,7 @@
 - [[bitcoin|비트코인]] — 디지털 금, 달러 약세기 강세 자산
 - [[gpt-6-astra|GPT-6 Astra]] — 2026.09 기준 다방면 능력 평가: 수능 만점, 하네스 격차, 로봇 제어, AAII v4.2
 - [[kakaobank|카카오뱅크]] — 인터넷 전문은행, 종합 금융 플랫폼 확장 (자동차 대출 비교, 주식 투자)
+- [[hanwha-aerospace|한화에어로스페이스]] — 방산·우주 계열사, 국방 AI 개발용 GPU 팜 구축
 
 ## Concepts
 - [[top-down-selection|Top-Down 선택법]] — 시장→산업→회사 순으로 선택하는 전략
@@ -42,6 +43,7 @@
 - [[ai-subscription-choice-202609|AI 구독 선택: Claude vs GPT]] — 비용 제약 하의 AI 도구 단일 구독 선택 딜레마, 사이드프로젝트용 AI 비교
 - [[construction-sector-202609|공공기관 이도향촌과 건설주 수혜]] — 공공기관 수도권 복귀 → 건자재·건설사 강세, 정책 드라이브 섹터 분석
 - [[inverse-retail-betting-202609|인버스 베팅과 개인 투자자 행태]] — 코스피 상승장에서 개미 2,000억 인버스 매수, 조정 대비 vs 헤지 전략
+- [[ai-sector-expansion-20260908|AI 도메인 확장: 의료·국방·파운드리]] — 네이버 의료 AI, 한화 국방 AI GPU 팜, 세미파이브 삼성 4나노 AI칩 양산
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

@@ -137,3 +137,17 @@
   - entities/sk-hynix.md — 2026-09-08 시황 wikilinks 추가
   - entities/dollar.md — 환율 하락, 일본 국채 3%, 연금계좌 국채 청약 추가
 - 총 39페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 3건 수집 — 의료 AI/국방 AI/AI칩 양산
+- RSS 피드: 한국경제-IT, 한국경제-경제
+- 수집된 글 3건, 키워드 필터(AI, 조직, 삼성) 통과
+- Raw 소스 1건 생성:
+  - raw/articles/medical-ai-defense-ai-20260908.md — 네이버 의료 AI 조직 신설, 한화 GPU 팜, 세미파이브 4나노 양산 (3건)
+- Entity 페이지 1건 생성:
+  - entities/hanwha-aerospace.md — 한화에어로스페이스, 국방 AI GPU 팜 구축
+- Concept 페이지 1건 생성:
+  - concepts/ai-sector-expansion-20260908.md — AI 도메인 확장: 의료·국방·파운드리
+- 기존 페이지 업데이트:
+  - entities/samsung-electronics.md — 파운드리 4나노 AI칩 양산 수혜 섹션 추가
+  - entities/semiconductor-industry.md — AI칩 양산 시대 진입 섹션 추가
+- 총 42페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

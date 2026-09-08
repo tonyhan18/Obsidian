@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-08
 type: entity
 tags: [섹터분석, 매크로]
-sources: [raw/transcripts/mentoring-session.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/medical-ai-defense-ai-20260908.md]
 confidence: high
 ---
 
@@ -38,6 +38,12 @@ confidence: high
 - DB하이텍 4%대 강세: 중국 수요 증가 → 8인치 파운드리 공급 부족
 - 9월 CPI 발표가 반도체 랠리 재개 여부 결정 핵심 이벤트
 - 관련: [[kospi-7000-202609|코스피 7천피 재탈환]]
+
+## AI칩 양산 시대 진입 (2026-09-08)
+- 세미파이브가 [[samsung-electronics|삼성전자]] 파운드리 4나노 공정으로 AI칩 첫 양산
+- AI 칩이 프로토타입 단계 → 대량생산 단계 진입 → 파운드리 수요 본격 창출
+- 메모리 중심 산업 구조에서 AI 비메모리·파운드리로 수요 다변화
+- 관련: [[ai-sector-expansion-20260908|AI 도메인 확장]]
 
 ## 관계
 - 핵심 기업: [[삼성전자]], [[sk-hynix]]
