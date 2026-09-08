@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 76
+> Last updated: 2026-09-09 | Total pages: 77
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -77,6 +77,7 @@
 - [[oil-surge-semiconductor-rebound-20260909|유가급등 속 반도체 반등 (2026-09-09)]] — 뉴욕증시 하락 속 반도체주 반등, AI 수요가 매크로 헤드윈드 상쇄
 - [[libreoffice-ai-free-20260909|LibreOffice 26.8: AI 비탑재가 차별점 (2026-09-09)]] — AI 없음을 마케팅 포인트로 100만 다운로드, AI 의존 거부·데이터 주권·인지 자율성 흐름
 - [[ai-rto-satire-20260909|AI 시대의 사무실 복귀 강요 (RTO) (2026-09-09)]] — AI 버튼 클릭 노동 vs 사무실 복귀 강요, 조직 권위와 AI 결합의 역설
+- [[navier-stokes-millennium-openai-20260909|Navier–Stokes 밀레니엄 문제와 AI 증명 (2026-09-09)]] — OpenAI의 3D 유체 특이점 증명 + Lean 형식화, AI 능력이 순수 수학으로 확장
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

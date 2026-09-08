@@ -334,3 +334,12 @@
   - concepts/ai-rto-satire-20260909.md — AI 시대의 RTO 강요 역설, 조직 권위와 AI 결합, 버튼 클릭 노동, AI 조직 전환·부바부·안목과 AI·생산자 몰입·LLM 인지 영향·LibreOffice AI 비탑재 연결
 - 기존 페이지 업데이트: 없음
 - 총 76페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (6개 아웃바운드 링크)
+
+## [2026-09-09] ingest | Navier–Stokes 밀레니엄 문제와 OpenAI AI 증명
+- 수집된 글 1건, 키워드 필터(AI) 통과
+- Raw 소스 1건 생성:
+  - raw/articles/navier-stokes-openai-proof-20260909.md — OpenAI의 3D Navier–Stokes 특이점 증명, Lean 형식화, 밀레니엄 상금 문제 C·D 입증 주장 (1건)
+- Concept 페이지 1건 생성:
+  - concepts/navier-stokes-millennium-openai-20260909.md — AI의 순수 수학 증명 능력, Lean 형식적 검증, AI 능력 범위 확장, 과학 vs 엔지니어링·RSA 인수분해·GPT-6 Astra·AI 정렬과 안전성 연결
+- 기존 페이지 업데이트: 없음
+- 총 77페이지, 신규 페이지 4개 아웃바운드 wikilinks로 기존 페이지와 연결됨
