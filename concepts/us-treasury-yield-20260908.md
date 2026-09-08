@@ -46,3 +46,4 @@ confidence: medium
 - 관련 컨셉: [[dollar-hedge|달러 헤지]] — 헤지 전략에서 채권 역할 재검토
 - 관련 컨셉: [[core-satellite|Core-Satellite 배분]] — 전통 배분 모델 수정 필요
 - 관련 컨셉: [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략]] — 변동성 시대 현금 운용 대안
+- 관련 컨셉: [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세]] — 미·일 금리 격차 축소, 글로벌 금리 상승 동일 맥락

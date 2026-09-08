@@ -43,6 +43,12 @@ confidence: high
 - 연금계좌(DC·IRP) 국채 청약 개시 — 안전자산 수요 증가 ^[raw/articles/pension-bond-krx-acga-20260908.md]
 - 관련: [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]], [[pension-bond-institutional-20260908|연금계좌 국채 투자]]
 
+## 업데이트 (2026-09-08 야간)
+- BOJ 금리 인상 가시화(9월 확률 97%)로 엔화 급등 — 달러당 152.89엔, 2월 이후 최고치 ^[raw/articles/yen-carry-trade-20260908.md]
+- 미·일 금리 격차 축소 → 엔캐리 트레이드 청산 진행 중
+- 달러 약세와 엔화 강세 동시 진행 — 기축 통화 지위 재평가 압력
+- 관련: [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세]]
+
 ## 관계
 - 헤지 자산: [[금]], [[비트코인]]
 - 영향 받는 자산: [[S&P-500]], [[semiconductor-industry|반도체 산업]]
@@ -50,3 +56,4 @@ confidence: high
 - 환율 영향: [[korea-gni-40k-202609|한국 GNI 4만달러 시대]], [[auto-sector-dual-risk|자동차주 이중고]]
 - 시황 연관: [[kospi-7000-202609|코스피 7천피 재탈환]], [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]
 - 금융 연관: [[pension-bond-institutional-20260908|연금계좌 국채 투자 & 기관투자자 거버넌스]]
+- 엔화 연관: [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세]] — 달러 약세 + 엔화 강세 동시 진행
