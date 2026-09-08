@@ -261,3 +261,14 @@
   - concepts/gpt6-astra-token-economics-20260908.md — 가격 경쟁 기준 전환, 총비용 개념 추가
   - concepts/us-investment-beneficiaries-20260908.md — WEC 지분 인수, APR1400 관철 추가
 - 총 68페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 1건 수집 — 비트코인 블록체인 해킹 4300억 증발
+- RSS 피드: 한국경제-경제
+- 수집된 글 1건, 키워드 필터(비트코인) 통과
+- Raw 소스 1건 생성:
+  - raw/articles/bitcoin-blockchain-hack-20260908.md — 비트코인 블록체인 해킹, 4300억원 증발 (1건)
+- Concept 페이지 1건 생성:
+  - concepts/bitcoin-blockchain-exploit-20260908.md — 블록체인 보안 리스크, 디지털 금 서사의 한계, 코인 비중 재평가
+- 기존 페이지 업데이트:
+  - entities/bitcoin.md — 보안 리스크 섹션 추가, tags에 리스크관리 추가, sources에 해킹 기사 추가
+- 총 69페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

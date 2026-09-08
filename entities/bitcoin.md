@@ -1,10 +1,10 @@
 ---
 title: 비트코인
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-08
 type: entity
-tags: [코인, 자산배분, 매크로]
-sources: [raw/articles/dollar-gold-btc-chart.md]
+tags: [코인, 자산배분, 매크로, 리스크관리]
+sources: [raw/articles/dollar-gold-btc-chart.md, raw/articles/bitcoin-blockchain-hack-20260908.md]
 confidence: medium
 ---
 
@@ -29,7 +29,22 @@ confidence: medium
 - 단기 변동성 높음 → 리스크 관리 필수
 - 관련: [[달러-헤지]], [[자산-배분]]
 
+## 보안 리스크 (2026-09-08)
+
+### 블록체인 해킹 사고
+- 2026-09-08: 비트코인 블록체인에서 약 4,300억원 증발 (대규모 보안 사고)
+- "또 털려" — 반복적 보안 사고 패턴 확인
+- 디지털 자산의 근본적 취약성: 물리적 안전자산(금)과 달리 해킹 리스크 내재
+- 관련: [[bitcoin-blockchain-exploit-20260908|비트코인 블록체인 해킹 (2026-09-08)]]
+
+### 투자 시사점
+- "디지털 금" 서사 vs 현실의 보안 취약성 괴리
+- [[gold-vs-bitcoin|금 vs 비트코인]] 비교 시 보안 차원 리스크 추가 필요
+- [[dollar-hedge|달러 헤지]] 전략에서 코인 비중 재평가 필요
+- [[core-satellite|Core-Satellite 배분]] 위성 헤지의 리스크 팩터
+
 ## 관계
 - 헤지 대상: [[달러]]
 - 연관 자산: [[금]]
 - 전략: [[자산-배분]], [[달러-헤지]]
+- 보안 리스크: [[bitcoin-blockchain-exploit-20260908|블록체인 해킹 (2026-09-08)]]

@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 68
+> Last updated: 2026-09-08 | Total pages: 69
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -9,7 +9,7 @@
 - [[semiconductor-industry|반도체 산업]] — 한국 섹터 1등, 사이클이 강한 산업
 - [[dollar|달러]] — 기축 통화, 현재 약세 → 금/비트코인 강세 유발
 - [[gold|금]] — 전통적 안전자산, 달러 헤지 수단
-- [[bitcoin|비트코인]] — 디지털 금, 달러 약세기 강세 자산
+- [[bitcoin|비트코인]] — 디지털 금, 달러 약세기 강세 자산; 2026-09-08 블록체인 해킹(4300억 증발)으로 보안 리스크 부각
 - [[gpt-6-astra|GPT-6 Astra]] — 2026.09 기준 다방면 능력 평가: 수능 만점, 하네스 격차, 로봇 제어, AAII v4.2
 - [[kakaobank|카카오뱅크]] — 인터넷 전문은행, 종합 금융 플랫폼 확장 (자동차 대출 비교, 주식 투자)
 - [[hanwha-aerospace|한화에어로스페이스]] — 방산·우주 계열사, 국방 AI 개발용 GPU 팜 구축
@@ -69,6 +69,7 @@
 - [[ai-game-asset-generation-20260908|AI 게임 에셋 생성: stage-gen (2026-09-08)]] — 아트 디렉션+참고 이미지로 2D 게임 에셋 자동 생성, AI 창작 파이프라인 확장
 - [[samsung-sds-robot-orchestration-20260908|삼성SDS 로봇 오케스트레이션 플랫폼 (2026-09-08)]] — 이기종 로봇 통합 제어 SW, 25년 MES 노하우+피지컬AI, 2027년 출시
 - [[national-ai-strategy-1yr-20260908|국가 AI 전략위 1주년: 실용화 단계 전환 (2026-09-08)]] — 제도 마련→실제 활용, AI 풀스택 생태계, GPU 통합 관리
+- [[bitcoin-blockchain-exploit-20260908|비트코인 블록체인 해킹: 4300억원 증발 (2026-09-08)]] — 대규모 보안 사고, 디지털 금 서사의 한계, 코인 비중 재평가 필요
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
