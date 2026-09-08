@@ -1,7 +1,7 @@
 ---
 title: 달러
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-08
 type: entity
 tags: [달러, 매크로, 자산배분]
 sources: [raw/articles/dollar-gold-btc-chart.md]
@@ -30,7 +30,14 @@ confidence: high
 - 손해를 보더라도 자산 배분 측면에서 금 일부 보유 권장
 - 관련: [[달러-헤지]], [[자산-배분]]
 
+## 업데이트 (2026-09-08)
+- 미국이 1,200억 달러 규모 원전 투자 제안 → 대규모 달러 유동성 공급 신호 ^[raw/articles/macro-dollar-202609.md]
+- 한국은행 "올해 1인당 GNI 4만 달러 넘을 가능성 매우 커져" — 달러 약세(원화 강세)가 GNI 상승 견인
+- 원화 강세로 수출주(자동차 등) 마진 악화 — [[auto-sector-dual-risk|자동차주 이중고]]
+- 관련: [[korea-gni-40k-202609|한국 GNI 4만달러 시대]]
+
 ## 관계
 - 헤지 자산: [[금]], [[비트코인]]
-- 영향 받는 자산: [[S&P-500]], [[반도체-산업]]
-- 전략: [[달러-헤지]], [[자산-배분]]
+- 영향 받는 자산: [[S&P-500]], [[semiconductor-industry|반도체 산업]]
+- 전략: [[dollar-hedge|달러 헤지]], [[core-satellite|Core-Satellite 배분]]
+- 환율 영향: [[korea-gni-40k-202609|한국 GNI 4만달러 시대]], [[auto-sector-dual-risk|자동차주 이중고]]

@@ -58,3 +58,21 @@
 - 기존 페이지 업데이트:
   - concepts/taste-and-ai.md — 3개 신규 wikilinks 추가 (llm-cognitive-impact, ai-cognitive-management, ai-safety-alignment)
 - 총 23페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 10건 + GeekNews 1건 수집 — 반도체/매크로/달러/AI 에이전트
+- RSS 피드: 한국경제(증권/IT/경제), GeekNews
+- 수집된 글 11건, 키워드 필터(반도체, 코스피, 달러, 투자, AI, 파운드리, S&P) 통과
+- Raw 소스 4건 생성 (그룹화):
+  - raw/articles/semiconductor-rally-202609.md — 코스피 7천피 재탈환, 삼전하닉 급등, 9월 CPI, DB하이텍 파운드리 (5건)
+  - raw/articles/macro-dollar-202609.md — 미국 1200억달러 원전 투자, 미 대학기금 S&P500 능가, GNI 4만달러, 릴리 1조달러 (4건)
+  - raw/articles/apache-maka-agent-workspace.md — Apache Maka 로컬 우선 에이전트 워크스페이스 (1건)
+  - raw/articles/auto-krw-202609.md — 자동차주 이중고: 판매 둔화 + 원화 강세 (1건)
+- Concept 페이지 4건 생성:
+  - concepts/kospi-7000-202609.md — 코스피 7천피 재탈환, 반도체 훈풍, 9월 CPI가 결정할 방향
+  - concepts/korea-gni-40k-202609.md — 한국 GNI 4만달러 시대, 달러 약세 견인, 원전 투자, 릴리 전략
+  - concepts/agent-execution-logging.md — 에이전트 실행 기록과 로컬 우선 워크스페이스 (Apache Maka)
+  - concepts/auto-sector-dual-risk.md — 자동차주 이중고, 판매 둔화 + 원화 강세, 반도체와 대조
+- 기존 페이지 업데이트:
+  - entities/semiconductor-industry.md — 2026-09-08 시장 흐름 추가 (코스피 7천피, DB하이텍, 9월 CPI)
+  - entities/dollar.md — 2026-09-08 업데이트 (원전 1200억달러, GNI 4만달러, 원화 강세 영향)
+- 총 27페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

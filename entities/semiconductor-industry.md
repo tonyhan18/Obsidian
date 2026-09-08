@@ -1,7 +1,7 @@
 ---
 title: 반도체 산업
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-09-08
 type: entity
 tags: [섹터분석, 매크로]
 sources: [raw/transcripts/mentoring-session.md]
@@ -31,6 +31,13 @@ confidence: high
 - 반도체 강세 일단락 → 횡보/하락 구간 진입 가능
 - 급등주로 갈아타기 지양 → 장기 우량 자산 인내 전략 유효
 - 순환매 타이밍: [[금]]이나 소프트웨어처럼 소외 과정 후 재진입
+
+## 시장 흐름 업데이트 (2026-09-08)
+- 코스피 7,000선 재탈환 — 반도체 업종 강세 견인 ^[raw/articles/semiconductor-rally-202609.md]
+- [[samsung-electronics|삼성전자]]·[[sk-hynix|SK하이닉스]] 급등, 소부장 동반 상승
+- DB하이텍 4%대 강세: 중국 수요 증가 → 8인치 파운드리 공급 부족
+- 9월 CPI 발표가 반도체 랠리 재개 여부 결정 핵심 이벤트
+- 관련: [[kospi-7000-202609|코스피 7천피 재탈환]]
 
 ## 관계
 - 핵심 기업: [[삼성전자]], [[sk-hynix]]
