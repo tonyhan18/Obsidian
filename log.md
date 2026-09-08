@@ -208,3 +208,34 @@
 - 기존 페이지 업데이트:
   - entities/samsung-electronics.md — Mistral 투자 주도, ASML EUV 도입, 복지 리스크 섹션 추가
 - 총 57페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | RSS 3차 수집 — 12건 인제스트, 반도체/AI 인프라/증권/암호학
+- RSS 피드: GeekNews, 한국경제(증권/IT/경제)
+- 수집된 글 12건, 키워드 필터(기관, 증권, 투자, 반도체, AI, 코스피, 연기금, 다크팩토리) 통과
+- 1건 제외: 하나은행 캠페인 포토 기사 (위키 도메인 범위 외)
+- Raw 소스 11건 생성:
+  - raw/articles/rsa-key-factorization-20260908.md — 512비트 RSA 키 인수분해, CADO-NFS (1건)
+  - raw/articles/securities-polarization-20260908.md — 빅5 순익 62%, 증권업 양극화 (1건)
+  - raw/articles/nuclear-rally-20260908.md — 한전기술 30% 급등, 두산에너빌 4조 수주 (1건)
+  - raw/articles/sk-innovation-pension-20260908.md — SK이노 연매출 100조, 연기금 1000억 매수 (1건)
+  - raw/articles/semiconductor-rebalancing-20260908.md — 반도체 지수 리밸런싱, 소부장 재분배 (1건)
+  - raw/articles/retail-exit-20260908.md — 개미 본전 심리, 코스피 7000 탈환 실패 (1건)
+  - raw/articles/photonics-ai-20260908.md — 터틀캐피탈 포토닉스 집중, AI 차세대 수혜 (1건)
+  - raw/articles/naver-medical-ai-20260908.md — 네이버 CEO 직속 헬스케어 조직 신설 (1건)
+  - raw/articles/kt-dark-factory-20260908.md — KT+다임리서치 다크팩토리 플랫폼 (1건)
+  - raw/articles/semiconductor-gni-40k-20260908.md — 명목 GDP 26.4% 증가, GNI 4만弗 (1건)
+  - raw/articles/sgc-ai-datacenter-20260908.md — SGC에너지+버티브 AI센터 인프라 (1건)
+- Concept 페이지 7건 생성:
+  - concepts/rsa-key-factorization-20260908.md — 512비트 RSA 인수분해, 암호학적 안전성의 시간 의존성
+  - concepts/securities-polarization-20260908.md — 증권업 빅5 순익 62%, 자기자본 규모가 사업 자격 결정
+  - concepts/sk-innovation-pension-20260908.md — SK이노 연기금 베팅, 배터리 호실적
+  - concepts/semiconductor-rebalancing-20260908.md — 반도체 지수 리밸런싱, 삼전닉스→소부장
+  - concepts/photonics-ai-20260908.md — 포토닉스 AI 다음 수혜, AI 인프라 계층도
+  - concepts/dark-factory-platform-20260908.md — KT 다크팩토리, 로봇 비용 붕괴 구체화
+  - concepts/sgc-ai-datacenter-20260908.md — AI 데이터센터 에너지 인프라, SGC+버티브
+- 기존 페이지 업데이트:
+  - concepts/us-investment-beneficiaries-20260908.md — 원전주 동반 랠리 업데이트 (한전기술 30%, 두산에너빌 4조)
+  - concepts/kospi-afternoon-dip-20260908.md — 개미 본전 심리 손절 매물, 7000 탈환 실패 추가
+  - concepts/ai-sector-expansion-20260908.md — 네이버 의료AI 조직 신설, KT 다크팩토리, SGC AI센터 추가
+  - concepts/korea-gni-40k-202609.md — 명목 GDP 26.4% 증가, 반도체 견인 GNI 4만弗 업데이트
+- 총 65페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

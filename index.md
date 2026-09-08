@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 57
+> Last updated: 2026-09-08 | Total pages: 65
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -59,6 +59,13 @@
 - [[dividend-shareholder-season-20260908|배당주·주주환원 시즌 (2026-09-08)]] — 분리과세·밸류업·고배당 ETF, 진짜 주주환원주 판별 기준
 - [[samsung-tsmc-niche-20260908|삼성·TSMC 틈새 파운드리 기업 (2026-09-08)]] — 양대 강자가 포기한 틈새 공정에서 성공한 기업
 - [[samsung-asml-euv-20260908|삼성 ASML 12인치 포토마스크·차세대 EUV (2026-09-08)]] — 2028년 D램 High-NA EUV 도입, 주거지원금 축소 리스크
+- [[rsa-key-factorization-20260908|RSA 키 인수분해: 512비트 보안의 붕괴 (2026-09-08)]] — 1990년대 RSA 루트 인증서 데스크톱에서 인수분해, 암호학적 안전성의 시간 의존성
+- [[securities-polarization-20260908|증권업계 양극화: 빅5 순익 62% (2026-09-08)]] — 대형사 위주 재편, 자기자본 규모가 사업 자격 결정
+- [[sk-innovation-pension-20260908|SK이노베이션 연기금 베팅 (2026-09-08)]] — 연매출 100조 임박, 연기금 1000억 순매수, 배터리 호실적
+- [[semiconductor-rebalancing-20260908|반도체 지수 리밸런싱 (2026-09-08)]] — 삼전닉스 비중 축소, 소부장 재분배, 1.3조 매도 전망
+- [[photonics-ai-20260908|포토닉스: AI 다음 수혜주 (2026-09-08)]] — 터틀캐피탈 8조 운용사가 찍은 광통신 칩, AI 인프라 차세대 계층
+- [[dark-factory-platform-20260908|KT 다크팩토리 플랫폼 (2026-09-08)]] — KT+다임리서치 무인공장 플랫폼, 로봇 비용 붕괴 구체화
+- [[sgc-ai-datacenter-20260908|AI 데이터센터 에너지 인프라 (2026-09-08)]] — SGC에너지+버티브 협력, AI 전력·냉각 인프라 수요
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

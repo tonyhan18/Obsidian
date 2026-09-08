@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-08
 type: concept
 tags: [매크로, 경제]
-sources: [raw/articles/macro-dollar-202609.md]
+sources: [raw/articles/macro-dollar-202609.md, raw/articles/semiconductor-gni-40k-20260908.md]
 confidence: medium
 ---
 
@@ -39,6 +39,12 @@ confidence: medium
 ### 릴리의 1조 달러 이후
 - 비만 시장(OG 및 GLP-1)이 제약 섹터의 새로운 거대 사이클 창출
 - "다음 성장축" 탐색 = 단일 히트제품 의존에서 벗어나려는 전략
+
+### 2026-09-08 업데이트: 반도체가 견인하는 GNI 4만 달러
+- 명목 GDP 26.4% 증가 — 47년 만에 최고 성장률 ^[raw/articles/semiconductor-gni-40k-20260908.md]
+- 반도체 수출 호황이 GNI 4만 달러 돌파의 핵심 동력
+- [[semiconductor-industry|반도체 산업]]의 국가 소득 견인 역할 재확인
+- 관련: [[semiconductor-rebalancing-20260908|반도체 지수 리밸런싱]] — 반도체 강세의 구조적 영향
 
 ## 미해결 질문
 - GNI 4만 달러 달성이 환율 효과인지, 실물 성장 기반인지?
