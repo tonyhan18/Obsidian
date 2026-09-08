@@ -151,3 +151,31 @@
   - entities/samsung-electronics.md — 파운드리 4나노 AI칩 양산 수혜 섹션 추가
   - entities/semiconductor-industry.md — AI칩 양산 시대 진입 섹션 추가
 - 총 42페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 9건 수집 — AI 칩 지정학/미 채권/코스피/증권사/GPT-6/소상공인/중국 수출
+- RSS 피드: 한국경제-증권, 한국경제-IT, 한국경제-경제
+- 수집된 글 9건, 키워드 필터(AI, 주식, 코스피, 삼성, 증권, 투자, 반도체) 통과
+- Raw 소스 9건 생성:
+  - raw/articles/huawei-ai-chip-malaysia-20260908.md — 말레이시아 화웨이 어센드 910C 도입 검토
+  - raw/articles/us-treasury-yield-20260908.md — 미 10년물 4.8%, 장기채 ETF 마이너스
+  - raw/articles/kospi-dip-20260908.md — 코스피 0.58% 하락 마감
+  - raw/articles/kb-securities-commercial-paper-20260908.md — KB증권 발행어음 AA+ 신용
+  - raw/articles/samsung-securities-support-20260908.md — 삼성증권 주식·금현물 지원금
+  - raw/articles/shinhan-light-products-20260908.md — 신한투자증권 Light 수수료 제로
+  - raw/articles/gpt6-astra-token-cost-20260908.md — GPT-6 Astra 토큰 비용, 에이전트 1000배 소비
+  - raw/articles/traditional-store-ai-cctv-20260908.md — 백년가게 AI CCTV 도입
+  - raw/articles/china-ai-export-20260908.md — 중국 수출 +25%, 반도체 가격 700% 상승
+- Concept 페이지 7건 생성:
+  - concepts/huawei-ai-chip-geopolitics-20260908.md — 화웨이 AI 칩 지정학
+  - concepts/us-treasury-yield-20260908.md — 미 장기채 금리 상승과 안전자산 논쟁
+  - concepts/securities-firm-cash-strategy-20260908.md — 증권사 현금 관리 전략 (3사 통합)
+  - concepts/kospi-afternoon-dip-20260908.md — 코스피 오후 하락 반전
+  - concepts/gpt6-astra-token-economics-20260908.md — GPT-6 Astra 토큰 경제학
+  - concepts/traditional-store-ai-adoption-20260908.md — 전통 소상공인 AI 도입
+  - concepts/china-ai-export-20260908.md — 중국 AI 수출 호조와 반도체 가격 폭등
+- 기존 페이지 업데이트:
+  - entities/gpt-6-astra.md — 토큰 비용 현실 섹션 추가, 토큰 경제학 링크
+  - entities/semiconductor-industry.md — 반도체 가격 폭등·중국 수출 섹션 추가
+  - concepts/kospi-7000-202609.md — 오후 하락 반전 링크 추가
+  - concepts/ai-sector-expansion-20260908.md — 화웨이·소상공인·중국 수출 링크 추가
+- 총 49페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

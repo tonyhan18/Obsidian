@@ -35,9 +35,17 @@ confidence: high
 - 에이전트 지식 업무, 전문 문서 추론 평가 포함
 - 비공개 테스트 확대로 오염 방지
 
+## 토큰 비용 현실 (2026-09-08 업데이트)
+- OS월드 2.0 오프라인 72.6%, 오토메이션벤치 41.4%로 GPT-5.6 솔 능가 ^[raw/articles/gpt6-astra-token-cost-20260908.md]
+- API 가격: 입력 $10/1M토큰, 출력 $50/1M토큰
+- 에이전트형 코딩이 단순 채팅보다 최대 1,000배 토큰 소비 (스탠퍼드 연구)
+- 가트너: 2028년 AI 코딩 비용이 개발자 연봉 초과 가능성
+- 관련: [[gpt6-astra-token-economics-20260908|GPT-6 Astra 토큰 경제학]]
+
 ## 관계
 - 관련 컨셉: [[taste-and-ai]] — AI 능력 향상이 인간의 안목 형성 기회를 어떻게 위협하는지와 연결
 - 관련 컨셉: [[llm-cognitive-impact]] — 모델 능력 강화가 사회적 의존 심화와 맞물리는 지점
 - 관련 컨셉: [[ai-org-transformation]] — 하네스(인프라)가 제품 경쟁력을 결정한다는 점에서 조직 인프라와 유사
 - 관련 컨셉: [[build-vs-buy-ai]] — Claude Code에서 GPT-6 Astra를 메인으로 섞어 쓰는 사례; 하네스(인프라) 선택이 제품 경쟁력을 결정
 - 관련 컨셉: [[science-vs-engineering-hype]] — AI 모델 능력 주장의 독립적 검증 필요성
+- 관련 컨셉: [[gpt6-astra-token-economics-20260908]] — 토큰 비용 현실과 AI 코딩 비용 전망

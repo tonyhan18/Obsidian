@@ -46,3 +46,6 @@ AI 기술이 인터넷 서비스·개발 도구를 넘어 의료, 국방, 반도
 - 관련 엔티티: [[semiconductor-industry]] — AI칩 수요로 산업 구조 다변화
 - 관련 컨셉: [[ai-org-transformation]] — AI 도입의 조직적 과제 패턴 반복
 - 관련 컨셉: [[kospi-7000-202609|코스피 7천피 재탈환]] — 반도체 강세 맥락에서 AI 확장
+- 관련 컨셉: [[huawei-ai-chip-geopolitics-20260908|화웨이 AI 칩 지정학]] — AI 인프라가 국가 차원으로 확장
+- 관련 컨셉: [[traditional-store-ai-adoption-20260908|전통 소상공인 AI 도입]] — AI가 일상 공간으로 확장
+- 관련 컨셉: [[china-ai-export-20260908|중국 AI 수출 호조]] — AI 인프라 투자의 산업적 파급

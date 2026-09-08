@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 42
+> Last updated: 2026-09-08 | Total pages: 49
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -44,6 +44,13 @@
 - [[construction-sector-202609|공공기관 이도향촌과 건설주 수혜]] — 공공기관 수도권 복귀 → 건자재·건설사 강세, 정책 드라이브 섹터 분석
 - [[inverse-retail-betting-202609|인버스 베팅과 개인 투자자 행태]] — 코스피 상승장에서 개미 2,000억 인버스 매수, 조정 대비 vs 헤지 전략
 - [[ai-sector-expansion-20260908|AI 도메인 확장: 의료·국방·파운드리]] — 네이버 의료 AI, 한화 국방 AI GPU 팜, 세미파이브 삼성 4나노 AI칩 양산
+- [[huawei-ai-chip-geopolitics-20260908|화웨이 AI 칩 지정학 (2026-09-08)]] — 말레이시아 화웨이 어센드 910C 도입 검토, 미국산 대신 중국산 첫 사례 가능성
+- [[us-treasury-yield-20260908|미 장기채 금리 상승과 안전자산 논쟁 (2026-09-08)]] — 10년물 4.8%, 장기채 ETF 마이너스, 주식-채권 상관관계 붕괴 논쟁
+- [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략 (2026-09-08)]] — KB증권 발행어음, 삼성증권 지원금, 신한 Light 상품 — 변동성 시대 현금 운용
+- [[kospi-afternoon-dip-20260908|코스피 오후 하락 반전 (2026-09-08)]] — 7,100선 돌파 후 0.58% 하락 마감, 반도체 강세 후 조정
+- [[gpt6-astra-token-economics-20260908|GPT-6 Astra 토큰 경제학 (2026-09-08)]] — 에이전트 코딩 최대 1,000배 토큰 소비, 2028년 AI 코딩 비용 > 개발자 연봉 전망
+- [[traditional-store-ai-adoption-20260908|전통 소상공인 AI 도입 (2026-09-08)]] — 백년가게 AI CCTV 도입, 변하지 않는 가치를 지키기 위한 변화
+- [[china-ai-export-20260908|중국 AI 수출 호조와 반도체 가격 폭등 (2026-09-08)]] — 수출 +25%, 집적회로 금액 +129.83%, 반도체 가격 최대 700% 상승
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
