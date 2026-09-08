@@ -60,3 +60,4 @@ confidence: high
 - 중국 수출/가격: [[china-ai-export-20260908|중국 AI 수출 호조]]
 - AI 칩 지정학: [[huawei-ai-chip-geopolitics-20260908|화웨이 AI 칩 지정학]]
 - 시황 연관: [[kospi-afternoon-dip-20260908|코스피 오후 하락 반전]]
+- 중국 노광장비 자립화: [[china-lithography-equipment-20260908|중국 노광장비 자립화]]

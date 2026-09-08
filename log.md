@@ -284,3 +284,17 @@
   - entities/dollar.md — 엔화 강세·엔캐리 청산 섹션 추가, 달러 약세+엔화 강세 동시 진행
   - concepts/us-treasury-yield-20260908.md — 엔캐리 트레이드 링크 추가, 미·일 금리 격차 맥락 연결
 - 총 70페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-08] ingest | 한국경제 RSS 2건 수집 — AI 학업능력 저하 & 중국 노광장비 자립화
+- RSS 피드: 한국경제-경제
+- 수집된 글 2건, 키워드 필터(AI, 반도체) 통과
+- Raw 소스 2건 생성:
+  - raw/articles/ai-homework-academic-decline-20260908.md — 한국 학생 동아시아 최저 학업능력, AI 숙제 의촉 1.5년 뒤처짐 (1건)
+  - raw/articles/china-lithography-equipment-20260908.md — 화웨이·SMIC·위량성 DUV 노광장비 개발, ASML 독점 위협 (1건)
+- Concept 페이지 2건 생성:
+  - concepts/ai-homework-academic-decline-20260908.md — AI 숙제 의존과 학업능력 저하, 인지 바이러스의 교육적 실증, LLM 인지 영향·AI 정렬·안목과 AI 연결
+  - concepts/china-lithography-equipment-20260908.md — 중국 노광장비 자립화와 반도체 밸류체인 재편, 화웨이 AI 칩 지정학·삼성 ASML EUV·중국 AI 수출 연결
+- 기존 페이지 업데이트 2건:
+  - entities/semiconductor-industry.md — 중국 노광장비 자립화 링크 추가
+  - concepts/huawei-ai-chip-geopolitics-20260908.md — 칩 설계 자립화 → 장비 자립화 확장 링크 추가
+- 총 72페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

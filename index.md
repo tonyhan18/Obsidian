@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-08 | Total pages: 70
+> Last updated: 2026-09-08 | Total pages: 72
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -71,6 +71,8 @@
 - [[national-ai-strategy-1yr-20260908|국가 AI 전략위 1주년: 실용화 단계 전환 (2026-09-08)]] — 제도 마련→실제 활용, AI 풀스택 생태계, GPU 통합 관리
 - [[bitcoin-blockchain-exploit-20260908|비트코인 블록체인 해킹: 4300억원 증발 (2026-09-08)]] — 대규모 보안 사고, 디지털 금 서사의 한계, 코인 비중 재평가 필요
 - [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세 (2026-09-08)]] — BOJ 금리 인상(97% 확률)으로 엔화 급등(152.89엔), 2024년과 달리 점진적 청산, 3조 달러 규모 엔캐리 자금
+- [[ai-homework-academic-decline-20260908|AI 숙제 의존과 학업능력 저하 (2026-09-08)]] — 한국 학생 동아시아 최저 하락, AI 매일 사용 시 1.5년 뒤처짐, 인지 바이러스의 교육적 실증
+- [[china-lithography-equipment-20260908|중국 노광장비 자립화와 반도체 밸류체인 재편 (2026-09-08)]] — 화웨이·SMIC·위량성 DUV 노광장비 개발, ASML 독점 위협, 밸류체인 최상단 자립화
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

@@ -44,3 +44,4 @@ confidence: medium
 - 관련 컨셉: [[ai-sector-expansion-20260908|AI 도메인 확장]] — AI 인프라가 국가 차원으로 확장
 - 관련 컨셉: [[kospi-7000-202609|코스피 7천피 재탈환]] — 반도체 주가와 AI 칩 지정학 연동
 - 관련 컨셉: [[dollar-hedge|달러 헤지]] — 미중 기술 패권 경쟁과 달러 체제 동향 연관
+- 관련 컨셉: [[china-lithography-equipment-20260908|중국 노광장비 자립화]] — 칩 설계 자립화에서 장비 자립화로 확장
