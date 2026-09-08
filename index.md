@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 77
+> Last updated: 2026-09-09 | Total pages: 78
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -74,7 +74,8 @@
 - [[ai-homework-academic-decline-20260908|AI 숙제 의존과 학업능력 저하 (2026-09-08)]] — 한국 학생 동아시아 최저 하락, AI 매일 사용 시 1.5년 뒤처짐, 인지 바이러스의 교육적 실증
 - [[china-lithography-equipment-20260908|중국 노광장비 자립화와 반도체 밸류체인 재편 (2026-09-08)]] — 화웨이·SMIC·위량성 DUV 노광장비 개발, ASML 독점 위협, 밸류체인 최상단 자립화
 - [[arm-physical-ai-ecosystem-20260909|Arm 피지컬 AI 생태계 협업 (2026-09-09)]] — 80개 기업 참여, 전 스택 협업으로 피지컬 AI 개발 가속, 로봇 비용 붕괴 가속
-- [[oil-surge-semiconductor-rebound-20260909|유가급등 속 반도체 반등 (2026-09-09)]] — 뉴욕증시 하락 속 반도체주 반등, AI 수요가 매크로 헤드윈드 상쇄
+- [[oil-surge-semiconductor-rebound-20260909|중동 충돌·유가 100달러 육박 속 반도체 반등 (2026-09-09)]] — 중동 충돌로 유가 100달러 육박, 뉴욕증시 하락 속 반도체주 유일 반등, FOMC·CPI 리스크 전면
+- [[samsung-lg-robot-vacuum-20260909|삼성 vs LG 로봇청소기 경쟁 (2026-09-09)]] — 귀곰 리뷰: 회피력 차이로 삼성 우세, 국내 브랜드의 중국 브랜드 반격 가시화
 - [[libreoffice-ai-free-20260909|LibreOffice 26.8: AI 비탑재가 차별점 (2026-09-09)]] — AI 없음을 마케팅 포인트로 100만 다운로드, AI 의존 거부·데이터 주권·인지 자율성 흐름
 - [[ai-rto-satire-20260909|AI 시대의 사무실 복귀 강요 (RTO) (2026-09-09)]] — AI 버튼 클릭 노동 vs 사무실 복귀 강요, 조직 권위와 AI 결합의 역설
 - [[navier-stokes-millennium-openai-20260909|Navier–Stokes 밀레니엄 문제와 AI 증명 (2026-09-09)]] — OpenAI의 3D 유체 특이점 증명 + Lean 형식화, AI 능력이 순수 수학으로 확장

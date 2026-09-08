@@ -333,7 +333,7 @@
 - Concept 페이지 1건 생성:
   - concepts/ai-rto-satire-20260909.md — AI 시대의 RTO 강요 역설, 조직 권위와 AI 결합, 버튼 클릭 노동, AI 조직 전환·부바부·안목과 AI·생산자 몰입·LLM 인지 영향·LibreOffice AI 비탑재 연결
 - 기존 페이지 업데이트: 없음
-- 총 76페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (6개 아웃바운드 링크)
+- 총 77페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
 
 ## [2026-09-09] ingest | Navier–Stokes 밀레니엄 문제와 OpenAI AI 증명
 - 수집된 글 1건, 키워드 필터(AI) 통과
@@ -343,3 +343,16 @@
   - concepts/navier-stokes-millennium-openai-20260909.md — AI의 순수 수학 증명 능력, Lean 형식적 검증, AI 능력 범위 확장, 과학 vs 엔지니어링·RSA 인수분해·GPT-6 Astra·AI 정렬과 안전성 연결
 - 기존 페이지 업데이트: 없음
 - 총 77페이지, 신규 페이지 4개 아웃바운드 wikilinks로 기존 페이지와 연결됨
+
+## [2026-09-09] ingest | 한국경제 RSS 2건 — 중동 유가 충돌 & 삼성 vs LG 로봇청소기
+- RSS 피드: 한국경제 (증권/경제)
+- 수집된 글 2건
+- Raw 소스 2건 생성:
+  - raw/articles/middle-east-oil-100-20260909.md — 중동 충돌(후티 아람코 공격, 이란 유조선 미군 공격), 유가 100달러 육박, 3대 지수 하락, 반도체 반등, CPI/FOMC 리스크
+  - raw/articles/samsung-lg-robot-vacuum-20260909.md — 귀곰 리뷰 삼성 vs LG 로봇청소기 9항목 비교, 회피력 차이 결정적, 국내 브랜드 중국 반격
+- Concept 페이지 1건 생성:
+  - concepts/samsung-lg-robot-vacuum-20260909.md — 삼성 vs LG 로봇청소기 경쟁, 회피력 핵심 차별화, 중국 브랜드 반격, 피지컬 AI 응용 (6개 아웃바운드 링크)
+- 기존 페이지 업데이트 2건:
+  - concepts/oil-surge-semiconductor-rebound-20260909.md — 중동 충돌 상세(후티, 이란), 유가 수치, 구리 강세, CPI/FOMC 리스크 추가, 출처 확장
+  - entities/samsung-electronics.md — 로봇청소기 시장 1위 달성 & LG 경쟁 섹션 추가, 소스 확장
+- 총 78페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-09
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md]
 confidence: high
 ---
 
@@ -79,6 +79,14 @@ confidence: high
 - D램 미세화 한계 돌파, 장비 투자 가시성 확보
 - 주거지원금(월 70만원) 축소 가능성 → 직원 우려, 인재 이탈 리스크
 - 관련 컨셉: [[samsung-asml-euv-20260908]] — ASML EUV 도입과 복지 리스크
+
+### 2026-09-09 로봇청소기 시장 1위 달성 & LG와 경쟁
+- 귀곰(유튜브 115만 구독자) 비교 리뷰에서 회피력 우위로 "후한 점수" 획득
+- 9개 항목 중 4개 우세(물걸레·회피력·문턱·머리카락 방지), LG는 5개 우세
+- 회피력 성공률 삼성 91% vs LG 43% — 2배 이상 차이가 결정적
+- 2026년 6월 로보락 제치고 국내 로봇청소기 시장 점유율 1위 달성
+- 독자 투표 63% 지지 — 브랜드 파워·AS 신뢰가 중국 브랜드 반격 무기
+- 관련 컨셉: [[samsung-lg-robot-vacuum-20260909]] — 삼성 vs LG 로봇청소기 경쟁
 
 ### 2026-09-09 미스트랄 수천억원 투자 규모 재확인
 - 한국경제 추가 보도에서 삼성전자 미스트랄 투자를 "수천억원" 규모로 재확인
