@@ -638,3 +638,24 @@
 - concepts/oil-surge-semiconductor-rebound-20260909.md — 미·이란 공습 확대 섹션 추가, 브렌트유 100달러 재돌파, 소스 1건 추가, updated 갱신
 
 ### 총 158페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 3건 수집 — Wave 언어/Tesla Solar Roof 단종/AI 실존적 위험 10% (8차)
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제-경제
+- 수집된 글 3건, 키워드 필터(백엔드, 투자, 달러, AI) 통과
+- 웹 도구(Firecrawl) 비활성화로 기사 본문 추출 불가 — RSS 메타데이터로 페이지 생성
+
+### Raw article 생성 3건
+- raw/articles/wave-programming-language-20260909.md — Wave 프로그래밍 언어, C/Rust 영감, LLVM 백엔드, 시스템 프로그래밍 (GeekNews)
+- raw/articles/tesla-solar-roof-discontinuation-20260909.md — Tesla Solar Roof 단종, 7년 3,000개 설치, 설치업체 수십만 달러 손실 (GeekNews)
+- raw/articles/anthropic-researcher-existential-risk-20260909.md — Anthropic 전 연구원, AI 10년 내 전 인류 사망 10% 경고 (한국경제-경제)
+
+### Concept 페이지 2건 생성
+- concepts/wave-programming-language-20260909.md — Wave 프로그래밍 언어, AI 시대 새 언어 진입 장벽, 시스템 프로그래밍 경쟁 구도 (3개 아웃바운드 링크)
+- concepts/tesla-solar-roof-discontinuation-20260909.md — Tesla Solar Roof 단종, 플랫폼 의존 리스크, 과장 목표 vs 현실, 매몰 비용 (4개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 2건
+- concepts/anthropic-resignation-safety-20260909.md — 실존적 위험 경고 10% 섹션 추가, 소스 1건 추가, updated 갱신
+- concepts/ai-safety-alignment.md — 실존적 위험 정량화 섹션 추가, 소스 1건 추가
+
+### 총 160페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

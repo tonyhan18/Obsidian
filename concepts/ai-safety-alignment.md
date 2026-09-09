@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/ai-safety-alignment.md, raw/articles/anthropic-resignation-ai-safety-20260909.md]
+sources: [raw/articles/ai-safety-alignment.md, raw/articles/anthropic-resignation-ai-safety-20260909.md, raw/articles/anthropic-researcher-existential-risk-20260909.md]
 confidence: high
 ---
 
@@ -26,6 +26,12 @@ AI 지능이 발전함에 따라 인간의 통제 능력을 넘어설 위험과,
 - 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손
 - Navier-Stokes 문제를 인간 수학자가 AI와 함께 시행착오하며 풀면 유체역학 깊이 이해의 계기
 - AI가 답만 주면 그 통찰 기회가 사라짐
+
+### 실존적 위험의 정량화 (2026-09-09 업데이트)
+- Anthropic 전 연구원이 AI가 10년 내 전 인류 사망 확률을 10%로 추정
+- 추상적 우려에서 구체적 확률 추정으로 전환 — 경고의 설득력 상향
+- "10%"라는 숫자가 시사하는 바: 낮아 보이지만 절대적 영향력이 무한대이므로 기대값은 감당 불가
+- [[anthropic-resignation-safety-20260909|Anthropic 연구자 사직과 AI 안전성 비판]]의 연장선 — 사직 후 더 직접적 경고
 
 ## 미해결 질문
 - RSI 임계점을 사전에 감지할 수 있는가?

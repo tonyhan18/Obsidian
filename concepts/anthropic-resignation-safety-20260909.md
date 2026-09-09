@@ -3,8 +3,8 @@ title: "Anthropic 연구자 사직과 AI 안전성 내부 비판"
 created: 2026-09-09
 updated: 2026-09-09
 type: concept
-tags: [인사이트]
-sources: [raw/articles/anthropic-resignation-ai-safety-20260909.md]
+tags: [인사이트, 리스크관리]
+sources: [raw/articles/anthropic-resignation-ai-safety-20260909.md, raw/articles/anthropic-researcher-existential-risk-20260909.md]
 confidence: high
 ---
 
@@ -31,7 +31,15 @@ OpenAI와 Anthropic에서 사전학습 연구를 수행한 Jacob Coxon이 사직
 - 규제 외에 시장 내 안전성 인센티브를 만들 수 있는가?
 - 사직하는 연구자가 늘어도 경쟁 속도가 늦춰지는가?
 
+### 실존적 위험 경고: 10년 내 10% (2026-09-09 업데이트)
+- Anthropic 전 연구원이 AI가 10년 이내에 전 인류를 죽일 가능성을 10%로 추정
+- 추상적 우려에서 구체적 확률 추정으로 경고 수위 상향
+- 사직한 연구자가 단순 비판을 넘어 정량적 위험 평가를 공론화
+- 이는 [[tesla-solar-roof-discontinuation-20260909|Tesla Solar Roof 단종]]과 유사한 패턴 — 리더의 비전과 실행의 괴리가 AI 안전성에서는 실존적 규모로 확대
+
 ## 관계
 - [[ai-safety-alignment|AI 정렬과 안전성]] — 안전성 문제의 구체적 실증
 - [[ai-org-transformation|AI 조직 전환]] — 조직의 안전성 vs 속도 딜레마
 - [[gpt-6-astra|GPT-6 Astra]] — 능력 향상이 안전성 문제를 시급하게 만듦
+- [[science-vs-engineering-hype-20260909|과학 vs 엔지니어링]] — AI 능력에 대한 과장과 안전성 검증의 부재
+^[raw/articles/anthropic-researcher-existential-risk-20260909.md]

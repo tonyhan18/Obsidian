@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 158
+> Last updated: 2026-09-09 | Total pages: 160
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -101,6 +101,10 @@
 - [[paramount-grassroots-merger-20260909|Paramount 합병 위장 풀뿌리 캠페인 (2026-09-09)]] — 1,110억 달러 합병 지지 여론 조성을 위한 astroturfing 적발
 - [[sangsan-securities-listing-20260909|상상인증권 액면병합 첫날 급락 (2026-09-09)]] — 변경상장 첫날 9%대 급락, 중소 증권사 입지 약화
 - [[hem-pharma-ai-health-20260909|HEM파마 AI 자율건강관리 바이그널 검증 (2026-09-09)]] — 글로벌 전자기업과 AI 헬스케어 실사용 검증, 의료 AI 상용화 진전
+
+## Concepts (2026-09-09 8차 추가)
+- [[wave-programming-language-20260909|Wave 프로그래밍 언어: LLVM 기반 시스템 프로그래밍 (2026-09-09)]] — C/Rust 영감의 새 언어, LLVM 백엔드, AI 시대 새 언어 진입 장벽 변화
+- [[tesla-solar-roof-discontinuation-20260909|Tesla Solar Roof 단종과 플랫폼 의존 리스크 (2026-09-09)]] — 7년 3,000개 설치, 주당 21~32건 vs 목표 1,000건, 파트너 매몰 비용 리스크
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
