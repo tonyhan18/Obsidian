@@ -1,10 +1,10 @@
 ---
 title: "증권업계 양극화: 빅5 순익 62% (2026-09-08)"
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-10
 type: concept
 tags: [섹터분석, 주식]
-sources: [raw/articles/securities-polarization-20260908.md]
+sources: [raw/articles/securities-polarization-20260908.md, raw/articles/securities-q2-record-profit-20260910.md]
 confidence: high
 ---
 
@@ -48,3 +48,11 @@ confidence: high
 - 투자 전략: [[top-down-selection|Top-Down 선택법]] — 산업 내 1등 기업 선택 원칙
 - 금융 플랫폼: [[kakaobank|카카오뱅크]] — 온라인 증권 진입 가능성
 ^[raw/articles/securities-polarization-20260908.md]
+
+### 2분기 순익 5.2조 사상 최대 (2026-09-10 업데이트)
+- 증권사 2분기 순익 5.2조원 — 사상 최대 기록, 전년비 82% 급증
+- 증시 활황·거래대금 증가·IB 수익 확대가 복합 수익 견인
+- 빅5 중심 양극화 더욱 심화 — 대형사 수익 집중도 강화
+- 위탁매매·신용융자·펀딩 수익 모두 동반 성장 — 섹터 전반 재평가
+- [[kospi-7000-202609|코스피 7천피]] 상승장이 증권사 실적 직접 견인
+^[raw/articles/securities-q2-record-profit-20260910.md]

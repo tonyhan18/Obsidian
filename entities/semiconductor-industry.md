@@ -1,10 +1,10 @@
 ---
 title: 반도체 산업
 created: 2026-08-23
-updated: 2026-09-09
+updated: 2026-09-10
 type: entity
 tags: [섹터분석, 매크로]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/medical-ai-defense-ai-20260908.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/semiconductor-revenue-2012t-20260910.md]
 confidence: high
 ---
 
@@ -71,4 +71,13 @@ confidence: high
 - 중국 수출/가격: [[china-ai-export-20260908|중국 AI 수출 호조]]
 - AI 칩 지정학: [[huawei-ai-chip-geopolitics-20260908|화웨이 AI 칩 지정학]]
 - 시황 연관: [[kospi-afternoon-dip-20260908|코스피 오후 하락 반전]]
+- 관련 링크: [[oil-surge-semiconductor-rebound-20260909|유가급등 속 반도체 반등]]
 - 중국 노광장비 자립화: [[china-lithography-equipment-20260908|중국 노광장비 자립화]]
+
+## 반도체 매출 2,012조원 시대: 메모리 왕좌 (2026-09-10)
+- 반도체 매출 2,012조원 파격 전망 — 메모리 반도체가 산업 전체 '왕좌' 차지 ^[raw/articles/semiconductor-revenue-2012t-20260910.md]
+- AI 인프라 투자 → HBM·DDR5 수요 폭증으로 메모리 중심 수요 확대
+- 산업 구조 재편: 비메모리 비중 축소, 메모리 주도 성장
+- [[samsung-electronics|삼성전자]]·[[sk-hynix|SK하이닉스]] 메모리 양대 산맥 수혜 최대
+- 반도체 사이클 상향 지속 — 2026년 메모리 슈퍼사이클 가능성
+- 관련: [[bigtech-stock-options-ai-supply-20260910|빅테크 주식매수권과 AI 공급망 재편]]

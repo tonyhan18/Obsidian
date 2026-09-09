@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/apple-iphone-duo-foldable-20260910.md]
+sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md]
 confidence: medium
 ---
 
@@ -47,3 +47,11 @@ confidence: medium
 - [[semiconductor-industry|반도체 산업]] — 폴더블 확대에 따른 부품 수요 증가
 
 ^[raw/articles/apple-iphone-duo-foldable-20260910.md]
+
+### 2,000달러 스마트폰 시대: 디스플레이株 주목 (2026-09-10 업데이트)
+- 아이폰 듀오 1,999달러 → 2,000달러 스마트폰 시대 진입
+- 폴더블 대중화 핵심 부품은 디스플레이 — OLED 패널 수혜주 재평가
+- 삼성디스플레이·BOE 등 폴더블 OLED 패널 제조사 직접 수혜
+- 프리미엄 가격대 유지 → 부품사 마진 개선 기대
+- [[semiconductor-industry|반도체 산업]]과 연결: 디스플레이 드라이버 IC·메모리 수요 동반 확대
+^[raw/articles/iphone-duo-display-stocks-20260910.md]

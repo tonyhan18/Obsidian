@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 177
+> Last updated: 2026-09-10 | Total pages: 181
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -201,3 +201,9 @@
 - [[anthropic-activist-surveillance-20260910|Anthropic 예측형 감시 시스템과 AI 기업의 모순 (2026-09-10)]] — AI 안전성 표방 vs 반대자 예측형 감시 구축
 - [[us-treasury-buyback-rates-20260910|미 재무부 바이백 60억달러, 금리 더 올라 (2026-09-10)]] — 바이백에도 금리 상승 지속, 시장 기대 선행
 - [[apple-iphone-duo-foldable-20260910|애플 첫 폴더블 '아이폰 듀오' 1999달러 (2026-09-10)]] — 경쟁 3국면 완성, 폴더블 대중화 과도기
+
+## Concepts (2026-09-10 4차 추가)
+- [[iphone-18-pro-variable-aperture-20260910|iPhone 18 Pro 가변 조리개와 A20 Pro 2나노 (2026-09-10)]] — 스마트폰 최초 가변 조리개, 2나노 A20 Pro GPU 40% 향상
+- [[airpods-5-anc-20260910|AirPods 5 ANC 대중화 (2026-09-10)]] — 기본 모델 ANC 탑재, 노이즈 캔슬링 기본 사양 전환
+- [[bessent-ai-agent-meta-doom-20260910|베선트 AI 에이전트 경제와 메타 멸망 10% (2026-09-10)]] — 금리 정책 한계, 에이전트 경제, AI 안전성 경고
+- [[bigtech-stock-options-ai-supply-20260910|빅테크 주식매수권과 AI 공급망 재편 (2026-09-10)]] — 구매→자본·지분 결합, AI 인프라 독점화 가속

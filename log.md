@@ -766,3 +766,34 @@
 - concepts/anthropic-resignation-safety-20260909.md — 예측형 감시 시스템 링크 추가, updated 갱신
 
 ### 총 177페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 9건 수집 — iPhone 18 Pro/AirPods 5/베선트 AI에이전트/정유주/증권사 순익/반도체 2012조/빅테크 주식매수권
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews(2), 한국경제-증권(4), 한국경제-경제(2), 한국경제-IT(1)
+- 수집된 글 9건, 키워드 필터(AI, 반도체, 금리, 달러, 투자, 주식) 통과 9건
+- 웹 도구(Firecrawl) 비활성화로 기사 본문 추출 불가 — RSS 메타데이터로 페이지 생성
+
+### Raw article 생성 9건
+- raw/articles/iphone-18-pro-variable-aperture-20260910.md — iPhone 18 Pro 가변 조리개 48MP, A20 Pro 2나노 GPU 40% 향상 (GeekNews)
+- raw/articles/airpods-5-anc-20260910.md — AirPods 5 기본 모델 ANC 탑재, AirPods 4 대비 50% 소음 제거 (GeekNews)
+- raw/articles/iphone-duo-display-stocks-20260910.md — 아이폰 듀오 2000달러 시대, 디스플레이株 주목 (한국경제-증권)
+- raw/articles/bessent-ai-agent-meta-doom-20260910.md — 베선트 금리 정책 한계, 메타 AI 에이전트 시대, 인류 멸망 10% (한국경제-증권)
+- raw/articles/oil-surge-refining-stocks-20260910.md — 유가 급등에 정유주 반색, 투자전략 (한국경제-증권)
+- raw/articles/ny-market-oil-treasury-dip-20260910.md — 뉴욕증시 사흘째 하락, 유가+국채금리 복합 압력 (한국경제-증권)
+- raw/articles/securities-q2-record-profit-20260910.md — 증권사 2분기 순익 5.2조 사상 최대, 전년비 82% 급증 (한국경제-증권)
+- raw/articles/semiconductor-revenue-2012t-20260910.md — 반도체 매출 2012조원 전망, 메모리 왕좌 (한국경제-경제)
+- raw/articles/bigtech-stock-options-ai-supply-20260910.md — 빅테크 주식매수권 요구, AI 공급망 재편 (한국경제-경제)
+
+### Concept 페이지 4건 생성
+- concepts/iphone-18-pro-variable-aperture-20260910.md — 가변 조리개 + 2나노 A20 Pro, 하드웨어 차별화 (4개 아웃바운드 링크)
+- concepts/airpods-5-anc-20260910.md — ANC 대중화, 적응형 EQ 온디바이스 AI (4개 아웃바운드 링크)
+- concepts/bessent-ai-agent-meta-doom-20260910.md — 금리 정책 한계 + 에이전트 경제 + p(doom) 10% (5개 아웃바운드 링크)
+- concepts/bigtech-stock-options-ai-supply-20260910.md — 구매→자본·지분 결합, AI 인프라 독점화 (5개 아웃바운드 링크)
+
+### 기존 페이지 업데이트 4건
+- concepts/apple-iphone-duo-foldable-20260910.md — 디스플레이株 섹션 추가, 소스 1건 추가, updated 갱신
+- concepts/oil-surge-semiconductor-rebound-20260909.md — 정유주 투자전략+뉴욕증시 사흘째 하락 섹션 추가, 소스 2건 추가, updated 갱신
+- concepts/securities-polarization-20260908.md — 2분기 순익 5.2조 사상 최대 섹션 추가, 소스 1건 추가, updated 갱신
+- entities/semiconductor-industry.md — 반도체 매출 2012조원 메모리 왕좌 섹션 추가, 소스 1건 추가, updated 갱신
+
+### 총 181페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

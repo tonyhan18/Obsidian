@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [매크로, 시황, 달러]
-sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md, raw/articles/oil-100-rate-hike-20260910.md]
+sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md, raw/articles/oil-100-rate-hike-20260910.md, raw/articles/oil-surge-refining-stocks-20260910.md, raw/articles/ny-market-oil-treasury-dip-20260910.md]
 confidence: medium
 updated: 2026-09-10
 ---
@@ -90,3 +90,18 @@ updated: 2026-09-10
 - 미국 증시 하락 지속 — 매크로 헤드윈드가 반도체 섹터에도 부담
 - [[us-treasury-yield-20260908|미 장기채 금리 상승]]: 유가 인플레이션 → 장기채 금리 상승 압력 가속
 ^[raw/articles/oil-100-rate-hike-20260910.md]
+
+### 정유주 반색과 투자전략 (2026-09-10 업데이트)
+- 유가 급등에 정유주 반색 — 정유업 수익성 개선 시그널
+- 향후 변수: 중동 정세, OPEC+ 공급 정책, 글로벌 수요 회복 속도
+- 투자전략: 유가 사이클에 따른 진입/청산 타이밍 중요 — [[core-satellite|Core-Satellite 배분]] 원자재 편입
+- 정밀화 마진 개선 여부가 추가 상승 모멘텀
+- S-Oil, GS칼텍스, 현대오일뱅크 등 섹터 내 개별주 차별화
+^[raw/articles/oil-surge-refining-stocks-20260910.md]
+
+### 뉴욕증시 사흘째 하락: 유가+국채금리 복합 압력 (2026-09-10 업데이트)
+- 뉴욕증시 3대 지수 사흘째 하락 마감 — 유가 급등 + 미 국채금리 상승 복합 압력
+- 유가 상승 → 인플레이션 우려 → 국채금리 상승 → 주식 밸류에이션 부담 가속
+- 금리 인하 기대 축소 → 기술주·성장주 중심 조정
+- 9/11 CPI 발표 직전 매크로 불확실성 극대화 — [[us-treasury-yield-20260908|미 장기채 금리 상승]] 트렌드 지속
+^[raw/articles/ny-market-oil-treasury-dip-20260910.md]
