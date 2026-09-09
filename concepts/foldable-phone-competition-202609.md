@@ -1,10 +1,10 @@
 ---
 title: "폴더블폰 경쟁과 삼성의 하드웨어 차별화 (2026-09)"
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/foldable-phone-202609.md]
+sources: [raw/articles/foldable-phone-202609.md, raw/articles/galaxy-foldable-pre-iphone-20260909.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ confidence: medium
 - 하지만 경쟁사 진입으로 차별화 압력 증가
 - 폴더블폰 시장 확대는 삼성전자에 기회이자 도전
 
+### 폴더블 아이폰 D-1 견제구 (2026-09-09)
+- 삼성, 폴더블 아이폰 공개 하루 전 갤럭시 8세대 폴더블 기술력 강조 ^[raw/articles/galaxy-foldable-pre-iphone-20260909.md]
+- "일반 폰보다 가벼운 갤럭시 폴더블" — 가벼움을 핵심 차별점으로 어필
+- 하드웨어 경쟁이 가벼움·두께·내구성으로 세분화
+- [[samsung-precision-health-20260909|삼성 0.001g 정밀가공]] 기술이 뒷받침하는 하드웨어 경쟁력
+
 ## 관계
 - 관련 엔티티: [[samsung-electronics]] — 폴더블폰 시장 경쟁 본격화가 삼성전자 하드웨어 차별화 전략에 미치는 영향
 - 관련 컨셉: [[kospi-7000-202609]] — 반도체 훈풍과 함께 삼성전자 주가 동향의 변수
 - 관련 엔티티: [[semiconductor-industry]] — 폴더블폰 확대는 반도체 수요 증가와 연결
+- 관련 컨셉: [[samsung-precision-health-20260909|삼성 0.001g 정밀가공]] — 정밀 가공 기술이 폴더블 차별화의 원천

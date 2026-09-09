@@ -492,3 +492,33 @@
 - 기존 컨셉 페이지 업데이트 1건:
   - concepts/ai-safety-alignment.md — Anthropic 사직 소스 추가, confidence medium→high, 새 링크 2개 추가
 - 총 116페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## 2026-09-09 3차 업데이트 (15:44)
+
+### 수집
+- RSS 수집 스크립트 실행: 8개 새 글 수집
+- 소스: GeekNews(1), 한국경제-증권(4), 한국경제-경제(3)
+
+### Raw article 생성 8건
+- raw/articles/chatgpt-pro-subscription-pause-20260909.md — ChatGPT Pro 신규 구독 일시 중단 가능성
+- raw/articles/aftermarket-opening-20260909.md — 거래소 주식 애프터마켓 개설
+- raw/articles/samsung-securities-commercial-paper-20260909.md — 삼성증권 발행어음 시장 진출
+- raw/articles/us-etf-record-leverage-20260909.md — 美 ETF 출시 역대 최대, 레버리지·인버스 비중
+- raw/articles/holtec-smr-ipo-20260909.md — 홀텍 SMR IPO 9억달러 조달 추진
+- raw/articles/galaxy-foldable-pre-iphone-20260909.md — 갤럭시 폴더블 경쟁력 강조, 폴더블 아이폰 D-1
+- raw/articles/kb-infrastructure-finance-20260909.md — KB금융 BS그룹 업무협약, 인프라 금융 확대
+- raw/articles/export-1trillion-trade-finance-20260909.md — 수출 1조 달러 정조준, 중기 무역금융 140조
+
+### Concept 페이지 7건 생성
+- concepts/chatgpt-pro-pause-infra-bottleneck-20260909.md — ChatGPT Pro 구독 중단과 AI 인프라 병목 (4개 아웃바운드 링크)
+- concepts/aftermarket-opening-20260909.md — 주식 애프터마켓 개설과 시장 구조 변화 (3개 아웃바운드 링크)
+- concepts/samsung-securities-paper-market-20260909.md — 삼성증권 발행어음 진출과 증권사 수익 다변화 (3개 아웃바운드 링크)
+- concepts/us-etf-record-leverage-20260909.md — 美 ETF 역대 최대 출시와 레버리지·인버스 비중 급증 (4개 아웃바운드 링크)
+- concepts/holtec-smr-ipo-nuclear-export-20260909.md — 홀텍 SMR IPO와 원전 수출 테마 가속 (4개 아웃바운드 링크)
+- concepts/kb-infrastructure-finance-20260909.md — KB금융 인프라 금융 확대와 AI 데이터센터 자금 흐름 (4개 아웃바운드 링크)
+- concepts/export-1trillion-trade-finance-20260909.md — 수출 1조 달러 정조준과 중기 무역금융 140조 (4개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 1건
+- concepts/foldable-phone-competition-202609.md — 폴더블 아이폰 D-1 견제구 섹션 추가, 소스 1건 추가, updated 갱신, wikilink 1개 추가
+
+### 총 124페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

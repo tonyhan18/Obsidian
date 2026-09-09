@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 116
+> Last updated: 2026-09-09 | Total pages: 124
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -127,3 +127,11 @@
 - [[ipo-rush-retail-dilemma-20260909|IPO 러시 속 개인 투자자의 선택 딜레마 (2026-09-09)]] — IPO 과잉 공급, AI 유니콘 상장 러시, 개인 투자자 긴장
 - [[samsung-precision-health-20260909|삼성 0.001g 정밀가공: 여권폰 경쟁력의 원천 (2026-09-09)]] — 정밀 가공→폴더블폰 차별화, 웨어러블 건강 기기 생명 구조
 - [[sk-hynix-fullstack-ai-memory-20260909|SK하이닉스 풀스택 AI 메모리 전략 (2026-09-09)]] — HBM→풀스택(DDR5/LPDDR/CXL) 확장, "골든타임" 선점 승부수
+## Concepts (2026-09-09 3차 추가)
+- [[chatgpt-pro-pause-infra-bottleneck-20260909|ChatGPT Pro 구독 중단 가능성과 AI 인프라 병목 (2026-09-09)]] — Pro 구독 수요 폭증→신규 중단, AI 인프라 병목 증거, 반도체 수혜 연결
+- [[aftermarket-opening-20260909|주식 애프터마켓 개설과 시장 구조 변화 (2026-09-09)]] — 14일부터 야간거래 개설, ETF·ETN 제외, 추석 휴장, 기관투자자 라운드테이블
+- [[samsung-securities-paper-market-20260909|삼성증권 발행어음 진출과 증권사 수익 다변화 (2026-09-09)]] — 금융위 인가, 하반기 실적 악화 속 새 수익원, 리서치 경쟁력
+- [[us-etf-record-leverage-20260909|美 ETF 역대 최대 출시와 레버리지·인버스 비중 급증 (2026-09-09)]] — 1023개 신규 상장, 4개 중 1개 레버리지·인버스, 채권형 ETF 수요 증가
+- [[holtec-smr-ipo-nuclear-export-20260909|홀텍 SMR IPO와 원전 수출 테마 가속 (2026-09-09)]] — 9억달러 조달, 기업가치 102억달러, 현대건설 파트너, AI 전력 대안
+- [[kb-infrastructure-finance-20260909|KB금융 인프라 금융 확대와 AI 데이터센터 자금 흐름 (2026-09-09)]] — BS그룹 협약, 재생에너지·데이터센터 자금 공급, 인프라 투자 새 성장동력
+- [[export-1trillion-trade-finance-20260909|수출 1조 달러 정조준과 중기 무역금융 140조 (2026-09-09)]] — 248일 만에 작년 돌파, 1+3 금융패키지, 무역보험법 개정
