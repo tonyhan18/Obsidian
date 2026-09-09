@@ -1,7 +1,7 @@
 ---
 title: 달러
 created: 2026-08-23
-updated: 2026-09-08
+updated: 2026-09-09
 type: entity
 tags: [달러, 매크로, 자산배분]
 sources: [raw/articles/dollar-gold-btc-chart.md]
@@ -57,3 +57,9 @@ confidence: high
 - 시황 연관: [[kospi-7000-202609|코스피 7천피 재탈환]], [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]
 - 금융 연관: [[pension-bond-institutional-20260908|연금계좌 국채 투자 & 기관투자자 거버넌스]]
 - 엔화 연관: [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세]] — 달러 약세 + 엔화 강세 동시 진행
+
+## 업데이트 (2026-09-09)
+- 두 달 새 11% 급락한 원/달러 환율 — 삼성 등 수출 기업 내년 계획 전면 재검토 ^[raw/articles/samsung-plan-overhaul-fx-20260909.md]
+- 삼성증권 내년 말 1,250원 하락 전망 — 원화 강세 가속화
+- 널뛰기 환율 → 기업 실적 예측성 악화 → 투자 불확실성 증가
+- 관련: [[samsung-plan-overhaul-fx-20260909|삼성 내년 계획 전면 재검토: 환율 널뛰기 비상]]

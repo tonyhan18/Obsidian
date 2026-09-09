@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-09
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md, raw/articles/ai-model-competition-samsung-20260909.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md, raw/articles/ai-model-competition-samsung-20260909.md, raw/articles/samsung-plan-overhaul-fx-20260909.md]
 confidence: high
 ---
 
@@ -98,3 +98,9 @@ confidence: high
 - 한국경제 추가 보도에서 삼성전자 미스트랄 투자를 "수천억원" 규모로 재확인
 - 시리즈D 주도 투자에 이은 지분 확대 — AI 모델+반도체 수직 통합 전략 지속
 - 관련 컨셉: [[mistral-funding-20260908]] — Mistral 30억 유로 투자 유치 (3차 업데이트)
+
+### 2026-09-09 내년 계획 전면 재검토: 환율 널뛰기 비상
+- 두 달 새 11% 급락한 원/달러 환율 → 삼성 내년 수주·원가율·인력계획 전면 재점검
+- 삼성증권 내년 말 환율 1,250원 하락 전망 — 원화 강세 시 수출 마진 악화 우려
+- 널뛰기 환율로 기업 실적 예측성 악화 → 투자 불확실성 증가
+- 관련 컨셉: [[samsung-plan-overhaul-fx-20260909|삼성 내년 계획 전면 재검토: 환율 널뛰기 비상]]

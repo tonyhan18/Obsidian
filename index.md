@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 100
+> Last updated: 2026-09-09 | Total pages: 105
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -107,3 +107,10 @@
 
 ## Queries
 - [[market-analysis-202608-week2|시황 2026-08 2주차]] — 미 증시, 섹터, 매크로 분석
+
+## Concepts (2026-09-09 추가)
+- [[copperhead-pcb-ai-20260909|Copperhead: 회로 기판을 위한 AI 코파일럿 (2026-09-09)]] — KiCad 파일 직접 수정하는 오픈소스 AI EDA 도구, 8단계 설계 파이프라인
+- [[ai-infra-rally-expansion-20260909|AI 인프라 랠리 키워드 확장: CPU·광통신·전력 (2026-09-09)]] — 삼전닉스 외 CPU·광통신·전력 섹터로 AI 랠리 확산
+- [[pension-etf-guide-20260909|퇴직연금 ETF 매수 실전 가이드 (2026-09-09)]] — DC·IRP 계좌에서 ETF 직접 매수, 세제 혜택+투자 수익 동시 확보
+- [[samsung-plan-overhaul-fx-20260909|삼성 내년 계획 전면 재검토: 환율 널뛰기 비상 (2026-09-09)]] — 11% 환율 급락으로 삼성 수주·원가·인력계획 전면 재점검
+- [[daishin-creon-customer-20260909|대신증권 크레온 비대면 고객 유치 경쟁 (2026-09-09)]] — 최대 6만원 지급 프로모션, 증권업계 디지털 고객 유치 경쟁 가속

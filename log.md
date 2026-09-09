@@ -434,3 +434,22 @@
 - 기존 엔티티 페이지 업데이트 1건:
   - entities/hanwha-aerospace.md — GPU 팜 소스 추가, wikilink 개선, 업데이트 이력 추가
 - 총 100페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+## [2026-09-09] ingest | RSS 수집 — 5건 신규
+- RSS 피드: GeekNews, 한국경제(증권)
+- 수집된 글 5건, 키워드 필터 통과 5건
+- Raw 소스 5건 생성:
+  - raw/articles/copperhead-pcb-ai-20260909.md — Copperhead 회로 기판 AI (GeekNews)
+  - raw/articles/ai-infra-rally-cpu-optical-power-20260909.md — AI 인프라 랠리 CPU·광통신·전력 (한국경제)
+  - raw/articles/pension-etf-guide-20260909.md — 퇴직연금 ETF 매수 가이드 (한국경제)
+  - raw/articles/samsung-plan-overhaul-fx-20260909.md — 삼성 내년 계획 전면 재검토 환율 비상 (한국경제)
+  - raw/articles/daishin-creon-customer-20260909.md — 대신증권 크레온 비대면 고객 유치 (한국경제)
+- Concept 페이지 5건 생성:
+  - concepts/copperhead-pcb-ai-20260909.md — 회로 기판 AI 코파일럿 (3개 아웃바운드 링크)
+  - concepts/ai-infra-rally-expansion-20260909.md — AI 인프라 랠리 키워드 확장 (4개 아웃바운드 링크)
+  - concepts/pension-etf-guide-20260909.md — 퇴직연금 ETF 매수 가이드 (3개 아웃바운드 링크)
+  - concepts/samsung-plan-overhaul-fx-20260909.md — 삼성 환율 널뛰기 비상 (4개 아웃바운드 링크)
+  - concepts/daishin-creon-customer-20260909.md — 대신증권 비대면 고객 유치 (4개 아웃바운드 링크)
+- 기존 엔티티 페이지 업데이트 2건:
+  - entities/samsung-electronics.md — 환율 널뛰기 리스크 소스 추가, 내년 계획 재검토 섹션 추가
+  - entities/dollar.md — 2026-09-09 환율 11% 급락 업데이트 추가, 삼성 계획 재검토 연결
+- 총 105페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
