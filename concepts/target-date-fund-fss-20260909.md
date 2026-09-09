@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [투자철학, 자산배분]
-sources: [raw/articles/target-date-fund-fss-20260909.md]
+sources: [raw/articles/target-date-fund-fss-20260909.md, raw/articles/target-date-fund-cost-burden-20260909.md]
 confidence: medium
 ---
 
@@ -29,6 +29,14 @@ confidence: medium
 - [[core-satellite|Core-Satellite 배분]]: 코어 자산으로 펀드 활용
 - [[pension-etf-guide-20260909|퇴직연금 ETF 매수 실전 가이드]]: 수수료 구조 이해의 중요성
 
+### 투자자 비용 부담 확대 (2026-09-09 업데이트)
+- 목표전환형 펀드에 대한 주의보 발령 — 투자자 비용 부담 커져
+- 수수료 구조와 전환 시점에 따른 예상치 못한 비용 발생 가능성
+- 금감원 가이드 이후에도 비용 투명성 문제 지속
+- [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략]] 맥락: 금융상품 비용 구조 투명성 전반 문제
+^[raw/articles/target-date-fund-cost-burden-20260909.md]
+
 ## 관계
 - [[core-satellite|Core-Satellite 배분]] — 자산배분 전략
 - [[pension-etf-guide-20260909|퇴직연금 ETF 매수 실전 가이드]] — 금융상품 선택
+- [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략]] — 금융상품 비용 구조 투명성

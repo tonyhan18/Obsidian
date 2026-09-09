@@ -549,3 +549,26 @@
 - concepts/kospi-7000-202609.md — 9/9 재탈환 업데이트 섹션 추가, 소스 1건 추가, wikilink 1개 추가, updated 갱신
 
 ### 총 132페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 6건 수집 — 3건 업데이트, 3건 신규 (5차)
+- 소스: GeekNews(1), 한국경제-증권(2), 한국경제-경제(3)
+
+### Raw article 생성 6건
+- raw/articles/navier-stokes-buckmaster-credibility-20260909.md — Buckmaster–Alpöge 연구 선취·데이터 사용 논란
+- raw/articles/target-date-fund-cost-burden-20260909.md — 목표전환형 펀드 투자자 비용 부담 확대 주의보
+- raw/articles/kospi-7000-ai-confidence-20260909.md — 삼성 제자리걸음에도 코스피 7000선 탈환, AI 확신론 재확대
+- raw/articles/fitch-korea-fiscal-deficit-20260909.md — 피치 반도체 사이클 종료 시 재정적자 확대 우려
+- raw/articles/korea-creditor-nation-fx-20260909.md — 이창용 대외채권국 선언, 환율 패러다임 전환
+- raw/articles/samsung-yokohama-ai-semiconductor-20260909.md — 삼성전자 요코하마 AI 반도체 연구 거점
+
+### 기존 컨셉 페이지 업데이트 3건
+- concepts/navier-stokes-millennium-openai-20260909.md — Buckmaster–Alpöge 연구 선취 논란 섹션 추가, 소스 1건 추가, wikilink 1개 추가
+- concepts/target-date-fund-fss-20260909.md — 투자자 비용 부담 확대 섹션 추가, 소스 1건 추가, wikilink 1개 추가
+- concepts/kospi-7000-recovery-20260909.md — AI 확신론 재확대 섹션 추가, 소스 1건 추가, wikilink 2개 추가
+
+### Concept 페이지 3건 생성
+- concepts/fitch-korea-fiscal-deficit-20260909.md — 피치 반도체 사이클 종료 시 재정적자 확대 우려 (5개 아웃바운드 링크)
+- concepts/korea-creditor-nation-fx-20260909.md — 한국 대외채권국 전환과 환율 패러다임 (5개 아웃바운드 링크)
+- concepts/samsung-yokohama-ai-semiconductor-20260909.md — 삼성전자 요코하마 AI 반도체 연구 거점 (5개 아웃바운드 링크)
+
+### 총 135페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

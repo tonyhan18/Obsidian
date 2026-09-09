@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [시황, 섹터분석, 주식]
-sources: [raw/articles/kospi-petrochemical-rebound-20260909.md]
+sources: [raw/articles/kospi-petrochemical-rebound-20260909.md, raw/articles/kospi-7000-ai-confidence-20260909.md]
 confidence: medium
 ---
 
@@ -42,6 +42,14 @@ confidence: medium
 - 9/8 탈환-하락-9/9 재탈환 패턴 = 7,000선이 지지선으로 작동할 가능성
 - [[kospi-eps-slowdown-20260908|코스피 EPS 둔화 경고]]의 상쇄 요인: 섹터 확장이 EPS 우려를 덮을 수 있는가?
 - 9월 CPI 발표가 여전히 핵심 변수
+
+### AI 확신론 재확대 (2026-09-09 업데이트)
+- 삼성전자 제자리걸음에도 코스피 7,000선 탈환 — 개별주 실적 부진을 섹터 AI 기대감이 상쇄
+- "AI 확신론" 다시 커짐: 반도체 펀더멘털보다 AI 테마 신뢰가 시장 견인
+- [[samsung-electronics|삼성전자]] 개별 실적 vs 시장 괴리: AI 수혜 기대감이 주가 결정
+- [[ai-model-competition-samsung-20260909|AI 모델 경쟁과 삼성 수혜]] 맥락: AI 경쟁 격화 → HBM/파운드리 수혜 기대
+- 리스크: AI 기대감이 실적으로 검증되지 않을 경우 조정 위험
+^[raw/articles/kospi-7000-ai-confidence-20260909.md]
 
 ## 미해결 질문
 - 7,000선이 확고한 지지선으로 정착할 것인가?

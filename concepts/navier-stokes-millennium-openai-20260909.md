@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md]
+sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md, raw/articles/navier-stokes-buckmaster-credibility-20260909.md]
 confidence: medium
 contested: true
 ---
@@ -47,6 +47,13 @@ contested: true
 - `contested: true`로 표시 — 증명의 독립성과 연구 우선권에 대한 쟁점 존재
 - 관련: [[openai-math-fairness-20260909|OpenAI 수학 난제 해결 공정성 논란]]
 ^[raw/articles/openai-math-fairness-20260909.md]
+
+### Buckmaster–Alpöge 연구 선취 논란 심화 (2026-09-09 2차 업데이트)
+- Tristan Buckmaster와 Levent Alpöge가 8개월간 Claude/Codex를 사용해 동일 문제 연구 수행
+- OpenAI가 미공개 모델로 해법 발표 — 두 수학자의 연구 데이터 사용 및 선취 의혹 본격화
+- AI 기업의 비공개 모델 접근권 + 연구자 데이터 활용의 정보 비대칭 구조 부각
+- [[anthropic-resignation-safety-20260909|Anthropic 연구자 사직과 AI 안전성]]과 맥락: AI 기업 내부 투명성 문제
+^[raw/articles/navier-stokes-buckmaster-credibility-20260909.md]
 
 ## 미해결 질문
 - 증명이 수학계 전체의 동료 심사를 통과할 수 있는가?
