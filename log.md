@@ -382,3 +382,22 @@
   - concepts/oil-surge-semiconductor-rebound-20260909.md — MS "마지막 불꽃" 경고 섹션 추가, 소스 확장
   - entities/samsung-electronics.md — AI 모델 경쟁 최대 수혜주 섹션 추가, 소스 확장
 - 총 84페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | 한국경제 RSS 6건 수집 — 코스피 시황/삼성 계열사/고유가 수혜/위안화/노바티스/AI 회사채
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: 한국경제(증권/경제)
+- 수집된 글 6건, 키워드 필터 통과 6건
+- Raw 소스 5건 생성:
+  - raw/articles/kospi-kosdaq-morning-20260909.md — 코스피 강보합·코스닥 1%대 상승 & 초고수 삼성 계열사 회전 매매 (2건)
+  - raw/articles/high-oil-beneficiaries-20260909.md — 고유가 수혜주·피해주 양극화 (1건)
+  - raw/articles/china-yuan-borrowing-20260909.md — 중국 저금리, 위안화 채권 1500억달러 육박 (1건)
+  - raw/articles/novartis-drug-failure-20260909.md — 노바티스 120억달러 근육질환 신약 임상 실패 (1건)
+  - raw/articles/ai-ipo-corporate-bond-20260909.md — 오픈AI·앤스로픽 상장 후 회사채 시장 진입 (1건)
+- Concept 페이지 3건 생성:
+  - concepts/kospi-kosdaq-session-20260909.md — 코스피 시황 & 삼성 계열사 초고수 회전 매매 (6개 아웃바운드 링크)
+  - concepts/china-yuan-borrowing-20260909.md — 중국 위안화 차입 급증과 글로벌 자본 흐름 (4개 아웃바운드 링크)
+  - concepts/novartis-drug-failure-20260909.md — 노바티스 신약 좌초, 바이오 투자 리스크 (3개 아웃바운드 링크)
+  - concepts/ai-ipo-corporate-bond-20260909.md — AI 유니콘 자본 구조 성숙, 에쿼티+뎁트 결합 (6개 아웃바운드 링크)
+- 기존 페이지 업데이트 1건:
+  - concepts/oil-surge-semiconductor-rebound-20260909.md — 수혜주·피해주 양극화 섹션 추가, 소스 확장
+- 총 88페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

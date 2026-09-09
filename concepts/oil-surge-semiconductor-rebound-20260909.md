@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [매크로, 시황, 달러]
-sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md]
+sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ confidence: medium
 - 유가 100달러 돌파 시 인플레이션 재점화 → 금리 인하 사이클 지연 가능성?
 - 중동 충돌 장기화 시 글로벌 공급망에 미치는 영향은?
 - 구리 강세가 AI 데이터센터 인프라 비용에 미치는 영향은?
+
+### 수혜주·피해주 양극화 (2026-09-09 업데이트)
+- 유가 100달러 육박 → 섹터 간 희비 갈림: 정유·에너지 섹터 수혜, 항공·운송·화학 섹터 피해
+- 고유가 시대 섹터 양극화 심화 — 포트폴리오 내 섹터 분산 리스크 관리 필요
+- [[core-satellite|Core-Satellite 배분]]: 원자재 편입으로 인플레이션 헤지 고려
+^[raw/articles/high-oil-beneficiaries-20260909.md]
 
 ## 관계
 - 반도체 산업: [[semiconductor-industry|반도체 산업]]
