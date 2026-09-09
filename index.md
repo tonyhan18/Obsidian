@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 135
+> Last updated: 2026-09-09 | Total pages: 155
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -147,3 +147,23 @@
 - [[fitch-korea-fiscal-deficit-20260909|피치: 반도체 사이클 종료 시 한국 재정적자 확대 우려 (2026-09-09)]] — 반도체 의존 세수 구조의 지속가능성 경고, 신용평가기관의 구조적 리스크 지적
 - [[korea-creditor-nation-fx-20260909|한국 대외채권국 전환과 환율 패러다임 (2026-09-09)]] — 이창용 총재 대외채권국 선언, 환율 시선 변화, 원화 강세 구조적 요인
 - [[samsung-yokohama-ai-semiconductor-20260909|삼성전자 요코하마 AI 반도체 연구 거점 (2026-09-09)]] — 일본 재료/장비 + 한국 설계/제조 결합, 글로벌 R&D 네트워크 확장
+
+## Concepts (2026-09-09 6차 추가)
+- [[ai-consciousness-hard-problem-20260909|AI 의식과 '어려운 문제' (2026-09-09)]] — 차머스 의식의 어려운 문제, AI 발전으로 의식 논쟁 현실화, AI 도덕적 지위 문제
+- [[distributed-ai-inference-infrastructure-20260909|분산형 AI 추론 인프라 (2026-09-09)]] — 유휴 PC 자원으로 AI 추론, 분산형 컴퓨팅 상업화, 보안 과제
+- [[mirae-asset-japan-semiconductor-etf-20260909|미래에셋 일본 ETF 출격 (2026-09-09)]] — 도쿄증권거래소 한국 반도체 톱10 ETF 상장, 신NISA 공략, 일본 증권사 인수
+- [[us-etf-record-leverage-anthropic-20260909|美 ETF 역대 최대 출시와 레버리지 확산 (2026-09-09)]] — 134개 신규 ETF, 25% 레버리지·인버스, 디렉시온 한국 2배 ETF 검토, 앤트로픽 ETF
+- [[kospi-7000-recovery-ai-20260909|코스피 7천피 재탈환 — AI 확신론 회귀 (2026-09-09)]] — 33거래일 만 7000선 탈환, 아스트라 에이전틱 AI가 밸류체인 전반 확대
+- [[samsung-securities-paper-market-2-20260909|삼성증권 발행어음 진출 (2026-09-09)]] — 신청 9년 만 인가, 652조 리테일 자산, 56조 시장 경쟁 합류
+- [[hong-ra-hee-samsung-stock-transfer-20260909|홍라희 삼성전자 지분 매도 (2026-09-09)]] — 1.9조 지분 이재용에게 양도, 상속세 대출금 상환, 지분율 1.47%→1.58%
+- [[target-date-fund-short-term-cost-20260909|목표전환형 펀드 단기 비용 경고 (2026-09-09)]] — 71.8% A클래스 가입, 단기 달성 시 선취수수료 부담 확대
+- [[fx-three-variables-20260909|원·달러 환율 3대 변수 (2026-09-09)]] — 삼전닉스 달러 매도·대미투자·미국 금리, 1,337원 최저, 1,300원대 적정
+- [[leverage-etf-retail-regulation-20260909|레버리지 ETF 규제 형평성 논란 (2026-09-09)]] — 개인 93% 수수료 감소 vs HFT 42%, 3,000만원 예탁금 규제
+- [[chatgpt-enterprise-korea-28x-20260909|한국 기업 챗GPT 28배 급증 (2026-09-09)]] — 엔터프라이즈 28배, 에이전트 AI 확산, 삼성·서울대 도입
+- [[atm-decline-cashless-transition-20260909|ATM 인프라 축소와 현금 사회 전환 (2026-09-09)]] — 은행·편의점 ATM 2년 3,500대 감소, 영업점 축소, 디지털 전환
+- [[kia-pbv-robot-automation-20260909|기아 PBV 로봇 자동화 (2026-09-09)]] — 에보 플랜트 연 20만대, 다차종 유연 생산, 용접 100% 자동화
+- [[oecd-fintax-differential-20260909|OECD 핀셋 증세: 은행 vs AI·방산 (2026-09-09)]] — 산업별 차등 과세, 은행 증세·AI 방산 세제 지원, 부채 GDP 111%
+- [[krw-jpy-fx-divergence-20260909|원·엔 환율 동조화 깨짐과 반등 (2026-09-09)]] — 상관계수 0.9→-0.6, SK하이닉스 ADR 전환점, 엔화 강세 회복
+- [[sk-hynix-future-forum-ax-20260909|SK하이닉스 미래포럼: 풀스택 AI 메모리 (2026-09-09)]] — 3D 적층 D램·HBM·HBF 조합, 가이아 AI 플랫폼, 반도체 AX
+- [[jr-reits-belgium-cash-trap-20260909|제이알리츠 벨기에 캐시트랩 (2026-09-09)]] — 영국 법원 패소, LTV 61%, 해외 리츠 구조적 위험, 금감원 공시 강화
+- [[korea-air-cargo-day-20260909|한국 항공화물 산업 KOREA AIR CARGO DAY (2026-09-09)]] — KIFFA·IATA 공동 주최, 데이터 연결·지속가능 물류, 전자상거래 트렌드

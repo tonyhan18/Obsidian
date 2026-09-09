@@ -572,3 +572,49 @@
 - concepts/samsung-yokohama-ai-semiconductor-20260909.md — 삼성전자 요코하마 AI 반도체 연구 거점 (5개 아웃바운드 링크)
 
 ### 총 135페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 수집 6차 — 20건 새 글 인제스트
+
+### Raw article 생성 19건
+- raw/articles/ai-consciousness-hard-problem-20260909.md — 차머스 의식의 어려운 문제, AI 의식 논쟁
+- raw/articles/distributed-computing-ai-inference-20260909.md — 유휴 PC 자원 AI 추론 분산 인프라
+- raw/articles/mirae-asset-japan-korea-semiconductor-etf-20260909.md — 미래에셋 일본 도쿄 상장 한국 반도체 ETF
+- raw/articles/us-etf-record-leverage-inverse-20260909.md — 미국 ETF 역대 최대 출시, 25% 레버리지
+- raw/articles/direxion-korea-2x-etf-anthropic-20260909.md — 디렉시온 한국 2배 ETF, 앤트로픽 ETF
+- raw/articles/kospi-7000-recovery-ai-20260909.md — 코스피 33거래일 7000선 탈환, AI 확신론
+- raw/articles/samsung-securities-commercial-paper-20260909.md — 삼성증권 발행어음 9년 만 인가
+- raw/articles/hong-ra-hee-samsung-stock-sale-20260909.md — 홍라희 1.9조 삼성전자 지분 매도
+- raw/articles/hong-ra-hee-samsung-stock-sale-2-20260909.md — (속보) 동일 사안
+- raw/articles/target-date-fund-cost-short-term-20260909.md — 목표전환형 펀드 단기 비용 경고
+- raw/articles/fx-three-variables-samsung-daemi-rate-20260909.md — 원·달러 환율 3대 변수
+- raw/articles/leverage-etf-retail-regulation-20260909.md — 레버리지 ETF 규제 형평성
+- raw/articles/chatgpt-enterprise-korea-28x-20260909.md — 한국 챗GPT 28배 급증
+- raw/articles/atm-decline-bank-convenience-20260909.md — ATM 인프라 축소
+- raw/articles/kia-pbv-robot-automation-20260909.md — 기아 PBV 로봇 자동화
+- raw/articles/oecd-fintax-ai-defense-bank-20260909.md — OECD 핀셋 증세
+- raw/articles/krw-jpy-fx-divergence-20260909.md — 원·엔 동조화 깨짐
+- raw/articles/sk-hynix-future-forum-ax-memory-20260909.md — SK하이닉스 미래포럼
+- raw/articles/jr-reits-belgium-cash-trap-20260909.md — 제이알리츠 캐시트랩
+- raw/articles/korea-air-cargo-day-20260909.md — KOREA AIR CARGO DAY
+
+### Concept 페이지 19건 생성 (홍라희 사안 2개 기사 1페이지 통합)
+- concepts/ai-consciousness-hard-problem-20260909.md — AI 의식 논쟁 (3개 아웃바운드 링크)
+- concepts/distributed-ai-inference-infrastructure-20260909.md — 분산형 AI 추론 (3개 링크)
+- concepts/mirae-asset-japan-semiconductor-etf-20260909.md — 미래에셋 일본 ETF (4개 링크)
+- concepts/us-etf-record-leverage-anthropic-20260909.md — 美 ETF 레버리지 확산 (3개 링크)
+- concepts/kospi-7000-recovery-ai-20260909.md — 코스피 7000 재탈환 (4개 링크)
+- concepts/samsung-securities-paper-market-2-20260909.md — 삼성증권 발행어음 (3개 링크)
+- concepts/hong-ra-hee-samsung-stock-transfer-20260909.md — 홍라희 지분 매도 (3개 링크)
+- concepts/target-date-fund-short-term-cost-20260909.md — 목표전환형 펀드 비용 (3개 링크)
+- concepts/fx-three-variables-20260909.md — 원·달러 환율 3대 변수 (3개 링크)
+- concepts/leverage-etf-retail-regulation-20260909.md — 레버리지 ETF 규제 (3개 링크)
+- concepts/chatgpt-enterprise-korea-28x-20260909.md — 챗GPT 28배 급증 (4개 링크)
+- concepts/atm-decline-cashless-transition-20260909.md — ATM 축소 (3개 링크)
+- concepts/kia-pbv-robot-automation-20260909.md — 기아 PBV 자동화 (3개 링크)
+- concepts/oecd-fintax-differential-20260909.md — OECD 핀셋 증세 (3개 링크)
+- concepts/krw-jpy-fx-divergence-20260909.md — 원·엔 동조화 (3개 링크)
+- concepts/sk-hynix-future-forum-ax-20260909.md — SK하이닉스 미래포럼 (4개 링크)
+- concepts/jr-reits-belgium-cash-trap-20260909.md — 제이알리츠 캐시트랩 (3개 링크)
+- concepts/korea-air-cargo-day-20260909.md — 항공화물 산업 (3개 링크)
+
+### 총 155페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
