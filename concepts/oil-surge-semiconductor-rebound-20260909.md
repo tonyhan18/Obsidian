@@ -4,9 +4,9 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [매크로, 시황, 달러]
-sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md]
+sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md, raw/articles/oil-100-rate-hike-20260910.md]
 confidence: medium
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
 # 중동 충돌·유가 100달러 육박 속 반도체 반등
@@ -83,3 +83,10 @@ updated: 2026-09-09
 - 반도체 리밸런싱: [[semiconductor-rebalancing-20260908|반도체 지수 리밸런싱]]
 ^[raw/articles/middle-east-oil-100-20260909.md]
 ^[raw/articles/oil-surge-ny-market-dip-20260909.md]
+
+### 유가 100달러 돌파, 금리인하 우려 확대 (2026-09-10 업데이트)
+- 유가가 배럴당 100달러를 넘어서며 금리인하 사이클 지연 우려 확대
+- 유가 상승 → 인플레이션 압력 → 금리 정책 경로에 불확실성 가중
+- 미국 증시 하락 지속 — 매크로 헤드윈드가 반도체 섹터에도 부담
+- [[us-treasury-yield-20260908|미 장기채 금리 상승]]: 유가 인플레이션 → 장기채 금리 상승 압력 가속
+^[raw/articles/oil-100-rate-hike-20260910.md]

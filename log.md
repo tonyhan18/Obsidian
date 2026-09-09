@@ -700,3 +700,24 @@
 - concepts/ai-infra-rally-expansion-20260909.md — 구글 핀란드 빅테크 투자 백링크 추가
 
 ### 총 166페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 4건 수집 — Google Ads 정지/Tailwind 합류/Claude scope creep/유가 금리우려
+- ⚠️ 크론 스크립트 오류: `Script not found` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews(3), 한국경제-경제(1)
+- 수집된 글 4건, 키워드 필터(달러, AI) 통과 4건
+
+### Raw article 생성 4건
+- raw/articles/google-ads-malvertising-20260910.md — Rust 터미널 멀티플렉서 RACE 홍보 시 Google Ads 정지 (GeekNews)
+- raw/articles/tailwind-shopify-20260910.md — Tailwind Labs가 Shopify에 합류 (GeekNews)
+- raw/articles/claude-scope-creep-satire-20260910.md — Opusfived: 버튼 색상 변경 요청이 AI scope creep로 번지는 인터랙티브 코미디 (GeekNews)
+- raw/articles/oil-100-rate-hike-20260910.md — 유가 100달러 돌파, 금리인하 우려, 미증시 하락 (한국경제-경제)
+
+### Concept 페이지 3건 생성
+- concepts/google-ads-malvertising-20260910.md — 플랫폼 불투명성과 소규모 개발자 취약성 (4개 아웃바운드 링크)
+- concepts/tailwind-shopify-20260910.md — 오픈소스 지속가능성, 프론트엔드 생태계 재편 (4개 아웃바운드 링크)
+- concepts/claude-scope-creep-satire-20260910.md — AI scope creep 문제, 에이전트 통제 한계 (4개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 1건
+- concepts/oil-surge-semiconductor-rebound-20260909.md — 유가 100달러 돌파 금리인하 우려 섹션 추가, 소스 1건 추가, updated 갱신
+
+### 총 169페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
