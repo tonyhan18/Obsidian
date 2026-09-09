@@ -4,8 +4,9 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md]
+sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md]
 confidence: medium
+contested: true
 ---
 
 # Navier–Stokes 밀레니엄 문제와 AI 증명
@@ -40,11 +41,19 @@ confidence: medium
 - [[science-vs-engineering-hype|과학 vs 엔지니어링]]의 원칙: 협의 과정 공개는 투명성 강화이나 독립 검증과는 구분 필요
 ^[raw/articles/navier-stokes-buckmaster-20260909.md]
 
+### 공정성 논란 (2026-09-09 업데이트)
+- OpenAI가 수학자들의 비공개 연구 진척 정보를 선점적으로 확보한 뒤 같은 난제에 뛰어들었다는 의혹 제기
+- AI 기업의 정보 비대칭 우위와 학술 연구 윤리 문제 대두
+- `contested: true`로 표시 — 증명의 독립성과 연구 우선권에 대한 쟁점 존재
+- 관련: [[openai-math-fairness-20260909|OpenAI 수학 난제 해결 공정성 논란]]
+^[raw/articles/openai-math-fairness-20260909.md]
+
 ## 미해결 질문
 - 증명이 수학계 전체의 동료 심사를 통과할 수 있는가?
 - AI가 다른 밀레니엄 난제(Riemann 가설, P vs NP 등)에도 접근할 수 있는가?
 - 수학 연구 패러다임이 AI-보조 증명 중심으로 전환하는 시점은?
 - AI 증명 능력이 [[ai-sector-expansion-20260908|AI 도메인 확장]]의 다음 단계를 나타내는가?
+- OpenAI의 정보 선점 의혹이 증명의 학계 수용에 미칠 영향은?
 
 ## 관계
 - 검증 원칙: [[science-vs-engineering-hype|과학 vs 엔지니어링]] — 독립적 검증의 중요성, AI가 Lean으로 자체 검증 경로 제공

@@ -522,3 +522,30 @@
 - concepts/foldable-phone-competition-202609.md — 폴더블 아이폰 D-1 견제구 섹션 추가, 소스 1건 추가, updated 갱신, wikilink 1개 추가
 
 ### 총 124페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## 2026-09-09 4차 업데이트 (16:52)
+
+### 수집
+- RSS 수집 스크립트 실행: 11개 새 글 수집
+- 소스: GeekNews(2), 한국경제-증권(8), 한국경제-경제(1)
+
+### Raw article 생성 5건 (그룹화)
+- raw/articles/openai-math-fairness-20260909.md — OpenAI 수학 난제 해결 경쟁에서 부당한 수단 의혹
+- raw/articles/ai-vision-fitness-20260909.md — AI 운동 카운터 iPhone 앱 (Show GN)
+- raw/articles/kospi-petrochemical-rebound-20260909.md — 코스피 7000선 탈환 & 정유·화학주 반등 (3건)
+- raw/articles/securities-etf-expansion-20260909.md — 삼성증권 8호 발행어음, 디렉시온 2배 ETF, HFT 수익, 미래에셋 일본 ETF (4건)
+- raw/articles/ai-optical-enterprise-20260909.md — 광통신주 급등 & ChatGPT 기업 이용자 28배 폭증 (2건)
+
+### Concept 페이지 5건 생성
+- concepts/openai-math-fairness-20260909.md — OpenAI 수학 난제 해결 공정성 논란 (4개 아웃바운드 링크)
+- concepts/ai-vision-fitness-20260909.md — AI 비전 운동 카운터: 일상 AI 응용 확장 (4개 아웃바운드 링크)
+- concepts/kospi-7000-recovery-20260909.md — 코스피 33거래일 만에 7000선 재탈환 & 정유·화학주 반등 (5개 아웃바운드 링크)
+- concepts/securities-etf-overseas-20260909.md — 증권사 수익 다변화 & ETF 해외 진출 가속 (5개 아웃바운드 링크)
+- concepts/ai-optical-enterprise-20260909.md — 광통신주 급등 & 엔터프라이즈 AI 채택 폭증 (6개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 3건
+- concepts/navier-stokes-millennium-openai-20260909.md — 공정성 논란 섹션 추가, contested: true 설정, 소스 1건 추가, wikilink 1개 추가
+- concepts/samsung-securities-paper-market-20260909.md — 8호 발행어음 사업자 지정 섹션 추가, 소스 1건 추가, wikilink 1개 추가
+- concepts/kospi-7000-202609.md — 9/9 재탈환 업데이트 섹션 추가, 소스 1건 추가, wikilink 1개 추가, updated 갱신
+
+### 총 132페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

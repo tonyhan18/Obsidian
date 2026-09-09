@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [시황, 섹터분석]
-sources: [raw/articles/samsung-securities-commercial-paper-20260909.md]
+sources: [raw/articles/samsung-securities-commercial-paper-20260909.md, raw/articles/securities-etf-expansion-20260909.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ confidence: medium
 - 관련 컨셉: [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략]] — 현금 운용에서 자금 중개로 전략 진화
 - 관련 컨셉: [[securities-polarization-20260908|증권업계 양극화]] — 빅5 중심 재편 속 삼성증권의 전략적 확장
 - 관련 컨셉: [[securities-consensus-top5-20260909|증권가 컨센서스 상향 톱5]] — 리서치 경쟁력이 증권사 차별화의 핵심
+
+## 8호 발행어음 사업자 지정 (2026-09-09 업데이트)
+- 삼성증권이 8호 발행어음 사업자로 최종 지정 — 9년 숙원 해결
+- 발행어음 시장 완전 진출 — 자금 중개 역할 본격화
+- 관련: [[securities-etf-overseas-20260909|증권사 수익 다변화 & ETF 해외 진출]] — 디렉시온 2배 ETF, HFT 수익 1400억, 미래에셋 일본 ETF와 함께 증권사 비즈니스 모델 진화
+^[raw/articles/securities-etf-expansion-20260909.md]
