@@ -618,3 +618,23 @@
 - concepts/korea-air-cargo-day-20260909.md — 항공화물 산업 (3개 링크)
 
 ### 총 155페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 3건 수집 — LLM 어텐션 시각화/삼성 비밀병기/미·이란 공습 유가 100달러 (7차)
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제(IT/경제)
+- 수집된 글 3건, 키워드 필터(LLM, 삼성, 달러) 통과
+- 웹 도구(Firecrawl) 비활성화로 기사 본문 추출 불가 — RSS 메타데이터로 페이지 생성
+
+### Raw article 생성 3건
+- raw/articles/llm-attention-visualization-20260909.md — LLM 어텐션 시각화 도구, 값 벡터 크기 반영, 전 헤드/레이어 통합 (GeekNews)
+- raw/articles/samsung-secret-weapon-challenge-20260909.md — 삼성 독주 흔드는 비밀병기, "비싸도 살 수밖에 없다" (한국경제-IT)
+- raw/articles/us-iran-strike-oil-100-20260909.md — 미·이란 공습 확대, 브렌트유 100달러 재돌파 (한국경제-경제)
+
+### Concept 페이지 2건 생성
+- concepts/llm-attention-visualization-20260909.md — LLM 어텐션 시각화, 해석가능성 도구, 값 벡터 크기 반영 (3개 아웃바운드 링크)
+- concepts/samsung-secret-weapon-challenge-20260909.md — 삼성 반도체 경쟁 구도 재편, 비용 프리미엄과 대체 불가능성 (4개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 1건
+- concepts/oil-surge-semiconductor-rebound-20260909.md — 미·이란 공습 확대 섹션 추가, 브렌트유 100달러 재돌파, 소스 1건 추가, updated 갱신
+
+### 총 158페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 155
+> Last updated: 2026-09-09 | Total pages: 158
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -167,3 +167,7 @@
 - [[sk-hynix-future-forum-ax-20260909|SK하이닉스 미래포럼: 풀스택 AI 메모리 (2026-09-09)]] — 3D 적층 D램·HBM·HBF 조합, 가이아 AI 플랫폼, 반도체 AX
 - [[jr-reits-belgium-cash-trap-20260909|제이알리츠 벨기에 캐시트랩 (2026-09-09)]] — 영국 법원 패소, LTV 61%, 해외 리츠 구조적 위험, 금감원 공시 강화
 - [[korea-air-cargo-day-20260909|한국 항공화물 산업 KOREA AIR CARGO DAY (2026-09-09)]] — KIFFA·IATA 공동 주최, 데이터 연결·지속가능 물류, 전자상거래 트렌드
+
+## Concepts (2026-09-09 7차 추가)
+- [[llm-attention-visualization-20260909|LLM 어텐션 시각화 도구 (2026-09-09)]] — 토큰 생성 시 참조 관계 시각화, 값 벡터 크기 반영, 해석가능성 도구
+- [[samsung-secret-weapon-challenge-20260909|삼성 독주를 위협하는 비밀병기 (2026-09-09)]] — 반도체 경쟁 구도 재편, 비용 프리미엄 수용, 대체 불가능성
