@@ -4,7 +4,7 @@ created: 2026-08-23
 updated: 2026-09-09
 type: entity
 tags: [섹터분석, 조직문화, 주식]
-sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md, raw/articles/ai-model-competition-samsung-20260909.md, raw/articles/samsung-plan-overhaul-fx-20260909.md]
+sources: [raw/transcripts/mentoring-session.md, raw/articles/foldable-phone-202609.md, raw/articles/medical-ai-defense-ai-20260908.md, raw/articles/mistral-3b-funding-20260908.md, raw/articles/samsung-asml-euv-20260908.md, raw/articles/samsung-employee-housing-20260908.md, raw/articles/samsung-mistral-investment-20260909.md, raw/articles/samsung-lg-robot-vacuum-20260909.md, raw/articles/ai-model-competition-samsung-20260909.md, raw/articles/samsung-plan-overhaul-fx-20260909.md, raw/articles/samsung-foldable-precision-20260909.md, raw/articles/samsung-health-tech-20260909.md]
 confidence: high
 ---
 
@@ -104,3 +104,9 @@ confidence: high
 - 삼성증권 내년 말 환율 1,250원 하락 전망 — 원화 강세 시 수출 마진 악화 우려
 - 널뛰기 환율로 기업 실적 예측성 악화 → 투자 불확실성 증가
 - 관련 컨셉: [[samsung-plan-overhaul-fx-20260909|삼성 내년 계획 전면 재검토: 환율 널뛰기 비상]]
+
+### 2026-09-09 정밀 가공 기술과 건강 기기 생명 구조
+- 0.001g 단위 정밀 가공 → 여권폰(폴더블폰) 경쟁력의 원천 기술
+- 갤럭시워치 '판정 불가' 알림 → 심장 질환 조기 발견 → 사용자 생명 구조
+- 정밀 가공 + 웨어러블 헬스케어 → 브랜드 신뢰와 소비자 충성도 강화
+- 관련 컨셉: [[samsung-precision-health-20260909|삼성 정밀 가공과 건강 기기]]

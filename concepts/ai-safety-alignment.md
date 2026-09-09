@@ -1,11 +1,11 @@
 ---
 title: AI 정렬과 안전성
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/ai-safety-alignment.md]
-confidence: medium
+sources: [raw/articles/ai-safety-alignment.md, raw/articles/anthropic-resignation-ai-safety-20260909.md]
+confidence: high
 ---
 
 # AI 정렬과 안전성
@@ -35,3 +35,5 @@ AI 지능이 발전함에 따라 인간의 통제 능력을 넘어설 위험과,
 - 관련 컨셉: [[taste-and-ai]] — AI가 인간의 과정을 대신할 때 상실하는 것의 본질과 연결
 - 관련 엔티티: [[gpt-6-astra]] — AI 능력의 급격한 향상이 정렬 문제를 더 시급하게 만듦
 - 관련 컨셉: [[llm-cognitive-impact]] — 사회적 의존 심화가 정렬 문제와 맞물리는 지점
+- 관련 컨셉: [[anthropic-resignation-safety-20260909|Anthropic 연구자 사직과 AI 안전성 비판]] — 내부자 비판 실증
+- 관련 컨셉: [[tao-math-mining-20260909|Tao 경고: AI가 수학 문제를 재생불가능 자원처럼 채굴]] — 과정의 가치 소실 경고

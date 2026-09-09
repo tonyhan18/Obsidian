@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 105
+> Last updated: 2026-09-09 | Total pages: 116
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -114,3 +114,16 @@
 - [[pension-etf-guide-20260909|퇴직연금 ETF 매수 실전 가이드 (2026-09-09)]] — DC·IRP 계좌에서 ETF 직접 매수, 세제 혜택+투자 수익 동시 확보
 - [[samsung-plan-overhaul-fx-20260909|삼성 내년 계획 전면 재검토: 환율 널뛰기 비상 (2026-09-09)]] — 11% 환율 급락으로 삼성 수주·원가·인력계획 전면 재점검
 - [[daishin-creon-customer-20260909|대신증권 크레온 비대면 고객 유치 경쟁 (2026-09-09)]] — 최대 6만원 지급 프로모션, 증권업계 디지털 고객 유치 경쟁 가속
+
+## Concepts (2026-09-09 2차 추가)
+- [[anthropic-resignation-safety-20260909|Anthropic 연구자 사직과 AI 안전성 내부 비판 (2026-09-09)]] — 사전학습 연구자 사직, OpenAI/Anthropic 안전성 미비 비판, RSI 경쟁 경고
+- [[ai-wrong-build-well-20260909|AI 개발의 진짜 위험: 잘못된 생각을 너무 잘 구현 (2026-09-09)]] — AI가 잘못된 가정도 구현, 검증 우선 워크플로우, Quiz Gate 코드 리뷰 도구
+- [[tao-math-mining-20260909|Tao 경고: AI가 수학 문제를 재생불가능 자원처럼 채굴 (2026-09-09)]] — 좋은 수학 문제의 희소성, 과정의 가치 소실, 난이도 지형
+- [[gpt6-astra-skills-prompts-20260909|GPT-6 Astra를 위한 스킬과 프롬프트 재설계 (2026-09-09)]] — 에이전트 능력 향상→프롬프트 과잉 영역 축소, 스킬 단일 목적화
+- [[programming-as-art-20260909|프로그래밍은 예술이다: AI 시대의 코딩 동기 (2026-09-09)]] — 동기별 AI 수용도 차이, 제품 중심 vs 과정 중심
+- [[kimi-k3-local-streaming-20260909|Kimi K3 2.8T 로컬 실행: SSD 스트리밍 (2026-09-09)]] — 2.8T MoE 모델 MacBook Pro 실행, SSD 스트리밍으로 메모리 한계 돌파
+- [[ge-aerospace-acquisition-20260909|GE에어로스페이스 CPP 117억달러 인수 (2026-09-09)]] — 항공엔진 부품기업 인수, 공급망 수직 통합
+- [[target-date-fund-fss-20260909|목표전환형 펀드와 C클래스 수수료 가이드 (2026-09-09)]] — 금감원 가이드, 단기 투자 C클래스 적합, 수수료 구조 이해
+- [[ipo-rush-retail-dilemma-20260909|IPO 러시 속 개인 투자자의 선택 딜레마 (2026-09-09)]] — IPO 과잉 공급, AI 유니콘 상장 러시, 개인 투자자 긴장
+- [[samsung-precision-health-20260909|삼성 0.001g 정밀가공: 여권폰 경쟁력의 원천 (2026-09-09)]] — 정밀 가공→폴더블폰 차별화, 웨어러블 건강 기기 생명 구조
+- [[sk-hynix-fullstack-ai-memory-20260909|SK하이닉스 풀스택 AI 메모리 전략 (2026-09-09)]] — HBM→풀스택(DDR5/LPDDR/CXL) 확장, "골든타임" 선점 승부수

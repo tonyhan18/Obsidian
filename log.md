@@ -453,3 +453,42 @@
   - entities/samsung-electronics.md — 환율 널뛰기 리스크 소스 추가, 내년 계획 재검토 섹션 추가
   - entities/dollar.md — 2026-09-09 환율 11% 급락 업데이트 추가, 삼성 계획 재검토 연결
 - 총 105페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 16건 수집 — AI 안전성/코딩 철학/메모리/IPO/정밀가공
+- RSS 피드: GeekNews (5건), 한국경제-증권 (3건), 한국경제-경제 (5건), 한국경제-IT (0건), 인프랩 (0건)
+- 수집된 글 16건, 키워드 필터(AI, GPT, 삼성, 메모리, 투자, 달러, 경제 등) 통과
+- Raw 소스 16건 생성:
+  - raw/articles/anthropic-resignation-ai-safety-20260909.md — Anthropic 연구자 사직, AI 안전성 비판
+  - raw/articles/ai-wrong-build-well-20260909.md — AI 개발의 진짜 위험: 잘못된 생각을 잘 구현
+  - raw/articles/quiz-gate-code-review-20260909.md — Quiz Gate: git diff 기반 코드 리뷰 퀴즈 앱
+  - raw/articles/tao-math-mining-20260909.md — Tao: AI가 수학 문제를 재생불가능 자원처럼 채굴
+  - raw/articles/gpt6-astra-skills-prompts-20260909.md — GPT-6 Astra 스킬과 프롬프트 재설계
+  - raw/articles/programming-as-art-20260909.md — 프로그래밍은 예술이다: AI 시대의 코딩 동기
+  - raw/articles/belgium-transit-webgl-20260909.md — 벨기에 대중교통 WebGL 이슈
+  - raw/articles/kimi-k3-macbook-streaming-20260909.md — Kimi K3 2.8T SSD 스트리밍 로컬 실행
+  - raw/articles/ge-aerospace-cpp-acquisition-20260909.md — GE에어로스페이스 CPP 117억달러 인수
+  - raw/articles/target-date-fund-fss-20260909.md — 목표전환형 펀드, 금감원 C클래스 가이드
+  - raw/articles/openai-ipo-retail-nervous-20260909.md — IPO 러시 속 개인 투자자 긴장
+  - raw/articles/samsung-foldable-precision-20260909.md — 삼성 0.001g 정밀가공, 여권폰 경쟁력
+  - raw/articles/samsung-health-tech-20260909.md — 삼성 기술 심장 살린 사례
+  - raw/articles/sk-hynix-fullstack-ai-memory-20260909.md — SK하이닉스 풀스택 AI 메모리 승부수
+  - raw/articles/economy-leap-committee-20260909.md — 경제대도약위원회 출범
+  - raw/articles/hyundai-flood-relief-20260909.md — 현대차 네팔 홍수 성금 50만 달러
+- Concept 페이지 11건 생성:
+  - concepts/anthropic-resignation-safety-20260909.md — Anthropic 연구자 사직과 AI 안전성 내부 비판 (3개 아웃바운드 링크)
+  - concepts/ai-wrong-build-well-20260909.md — AI 개발의 진짜 위험: 잘못된 생각을 너무 잘 구현 (5개 아웃바운드 링크)
+  - concepts/tao-math-mining-20260909.md — Tao 경고: AI가 수학 문제를 재생불가능 자원처럼 채굴 (3개 아웃바운드 링크)
+  - concepts/gpt6-astra-skills-prompts-20260909.md — GPT-6 Astra 스킬과 프롬프트 재설계 (3개 아웃바운드 링크)
+  - concepts/programming-as-art-20260909.md — 프로그래밍은 예술이다: AI 시대의 코딩 동기 (3개 아웃바운드 링크)
+  - concepts/kimi-k3-local-streaming-20260909.md — Kimi K3 2.8T 로컬 실행: SSD 스트리밍 (3개 아웃바운드 링크)
+  - concepts/ge-aerospace-acquisition-20260909.md — GE에어로스페이스 CPP 117억달러 인수 (2개 아웃바운드 링크)
+  - concepts/target-date-fund-fss-20260909.md — 목표전환형 펀드와 C클래스 수수료 가이드 (2개 아웃바운드 링크)
+  - concepts/ipo-rush-retail-dilemma-20260909.md — IPO 러시 속 개인 투자자의 선택 딜레마 (3개 아웃바운드 링크)
+  - concepts/samsung-precision-health-20260909.md — 삼성 0.001g 정밀가공: 여권폰 경쟁력의 원천 (3개 아웃바운드 링크)
+  - concepts/sk-hynix-fullstack-ai-memory-20260909.md — SK하이닉스 풀스택 AI 메모리 전략 (4개 아웃바운드 링크)
+- 기존 엔티티 페이지 업데이트 2건:
+  - entities/samsung-electronics.md — 정밀 가공 + 건강 기기 소스 추가, 새 섹션 추가
+  - entities/sk-hynix.md — 풀스택 AI 메모리 섹션 추가, wikilinks 개선
+- 기존 컨셉 페이지 업데이트 1건:
+  - concepts/ai-safety-alignment.md — Anthropic 사직 소스 추가, confidence medium→high, 새 링크 2개 추가
+- 총 116페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
