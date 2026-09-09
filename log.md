@@ -721,3 +721,22 @@
 - concepts/oil-surge-semiconductor-rebound-20260909.md — 유가 100달러 돌파 금리인하 우려 섹션 추가, 소스 1건 추가, updated 갱신
 
 ### 총 169페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 4건 수집 — Desert Ant Labs 로컬 모델/금리 동결/트럼프 에너지주/베선트 금리 베팅
+- ⚠️ 크론 스크립트 오류: `Script not found` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews(1), 한국경제-경제(3)
+- 수집된 글 4건, 키워드 필터(AI, 클라우드, 경제, 금리, 주식, 반도체) 통과 4건
+
+### Raw article 생성 4건
+- raw/articles/desert-ant-labs-on-device-models-20260910.md — Desert Ant Labs 기기 특화 로컬 모델 18종 공개 (GeekNews)
+- raw/articles/us-economists-rate-hold-20260910.md — 미 경제학자 70% 9월 금리 동결 예상, 시장과 정반대 (한국경제)
+- raw/articles/trump-energy-stock-trading-20260910.md — 트럼프 전쟁 중 에너지주식 매매 59억 수익 (한국경제)
+- raw/articles/bessent-rate-bet-yen-semiconductor-20260910.md — 베선트 금리 "나에게 베팅", 엔화 강세에 반도체 타격 (한국경제)
+
+### Concept 페이지 4건 생성
+- concepts/desert-ant-labs-on-device-models-20260910.md — 에지 AI 상용화, 로컬 AI 비용/프라이버시 우위 (4개 아웃바운드 링크)
+- concepts/us-economists-rate-hold-20260910.md — 시장 vs 전문가 금리 격차, 유가 인플레이션 -> 금리 인하 지연 (4개 아웃바운드 링크)
+- concepts/trump-energy-stock-trading-20260910.md — 정치적 이해상충, 내부자 거래, 시장 신뢰 훼손 (4개 아웃바운드 링크)
+- concepts/bessent-rate-bet-yen-semiconductor-20260910.md — 하우스 프레임 금리 확장, 엔화 강세 -> 반도체 이중 리스크 (4개 아웃바운드 링크)
+
+### 총 173페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

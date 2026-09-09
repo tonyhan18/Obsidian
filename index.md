@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 169
+> Last updated: 2026-09-10 | Total pages: 173
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -189,3 +189,9 @@
 ## Concepts (2026-09-09 10차 추가)
 - [[ai-math-breakthrough-controversy-20260909|AI 수학적 돌파구 논란 종합 (2026-09-09)]] — AI 수학 난제 해결의 공정성·독립성·검증 논쟁 종합 조망, 학술 윤리와 정보 비대칭
 - [[google-finland-datacenter-20260909|구글 핀란드 23조원 AI 데이터센터 투자 (2026-09-09)]] — 빅테크 유럽 AI 인프라 공격적 투자, '유럽의 텍사스' 핀란드 입지 경쟁력, 에너지 밸류체인 연계
+
+## Concepts (2026-09-10 2차 추가)
+- [[desert-ant-labs-on-device-models-20260910|Desert Ant Labs 기기 특화 로컬 모델 18종 공개 (2026-09-10)]] — 클라우드 없이 기기에서 실행되는 특화 모델, SDK 배포, 로컬 AI 상용화, 비용·프라이버시 우위
+- [[us-economists-rate-hold-20260910|미 경제학자 70% 9월 금리 동결 예상 — 시장과 정반대 (2026-09-10)]] — WSJ 설문 vs 시장 컨센서스 정반대, 유가 인플레이션 → 금리 인하 지연 우려
+- [[trump-energy-stock-trading-20260910|트럼프 전쟁 중 에너지주식 매매 59억 수익 — 정치적 이해상충 (2026-09-10)]] — 전쟁 중 에너지주 매매, 정치인 내부자 거래 가능성, 시장 신뢰 훼손
+- [[bessent-rate-bet-yen-semiconductor-20260910|베선트 금리 "나에게 베팅"…엔화 강세에 발목 잡힌 반도체 (2026-09-10)]] — 하우스 프레임 금리로 확장, 엔화 강세 → 반도체 이중 리스크
