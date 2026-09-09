@@ -401,3 +401,36 @@
 - 기존 페이지 업데이트 1건:
   - concepts/oil-surge-semiconductor-rebound-20260909.md — 수혜주·피해주 양극화 섹션 추가, 소스 확장
 - 총 88페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 2차 수집 — GeekNews 7건 + 한국경제 5건 = 12건
+- ⚠️ 크론 스크립트 오류 재발: `Script not found` — 경로 파싱 문제. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제(증권/IT/경제)
+- 수집된 글 12건, 키워드 필터 통과 12건
+- Raw 소스 12건 생성:
+  - raw/articles/routar-typed-http-20260909.md — routar 타입세이프 HTTP 클라이언트 (GeekNews)
+  - raw/articles/extreme-ssr-20260909.md — 극단적 SSR 실험 (GeekNews)
+  - raw/articles/europe-cloud-providers-20260909.md — 유럽 클라우드 제공업체 비교 (GeekNews)
+  - raw/articles/qwen-drive-autonomous-20260909.md — Qwen-Drive 자율주행 AI (GeekNews)
+  - raw/articles/caltech-mathathon-20260909.md — Caltech AI 수학 해커톤 (GeekNews)
+  - raw/articles/dhs-predictive-policing-20260909.md — DHS 예측 치안 금융 데이터 (GeekNews)
+  - raw/articles/paramount-grassroots-merger-20260909.md — Paramount 위장 풀뿌리 (GeekNews)
+  - raw/articles/doosan-fuelcell-datacenter-20260909.md — 두산퓨얼셀 미 데이터센터 (한국경제)
+  - raw/articles/sangsan-securities-listing-20260909.md — 상상인증권 액면병합 급락 (한국경제)
+  - raw/articles/samsung-oil-burden-20260909.md — 삼전닉스 유가 부담 (한국경제)
+  - raw/articles/hem-pharma-ai-health-20260909.md — HEM파마 AI 헬스케어 (한국경제)
+  - raw/articles/hanwha-gpu-farm-20260909.md — 한화에어로 GPU 팜 (한국경제)
+- Concept 페이지 11건 생성:
+  - concepts/routar-typed-http-client-20260909.md — 프론트엔드 API 스키마 관리 (2개 아웃바운드 링크)
+  - concepts/extreme-ssr-20260909.md — 극단적 SSR (2개 아웃바운드 링크)
+  - concepts/europe-cloud-providers-20260909.md — 유럽 클라우드 비교 (2개 아웃바운드 링크)
+  - concepts/qwen-drive-autonomous-20260909.md — 자율주행 AI (2개 아웃바운드 링크)
+  - concepts/caltech-mathathon-20260909.md — AI 수학 해커톤 (2개 아웃바운드 링크)
+  - concepts/doosan-fuelcell-datacenter-20260909.md — 두산퓨얼셀 데이터센터 (2개 아웃바운드 링크)
+  - concepts/samsung-oil-burden-20260909.md — 삼전닉스 유가 부담 (2개 아웃바운드 링크)
+  - concepts/dhs-predictive-policing-20260909.md — 예측 치안과 금융 데이터 (2개 아웃바운드 링크)
+  - concepts/paramount-grassroots-merger-20260909.md — Paramount 합병 위장 캠페인 (2개 아웃바운드 링크)
+  - concepts/sangsan-securities-listing-20260909.md — 상상인증권 급락 (2개 아웃바운드 링크)
+  - concepts/hem-pharma-ai-health-20260909.md — HEM파마 AI 헬스케어 (2개 아웃바운드 링크)
+- 기존 엔티티 페이지 업데이트 1건:
+  - entities/hanwha-aerospace.md — GPU 팜 소스 추가, wikilink 개선, 업데이트 이력 추가
+- 총 100페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

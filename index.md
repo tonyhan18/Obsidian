@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 88
+> Last updated: 2026-09-09 | Total pages: 100
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -90,6 +90,17 @@
 - [[china-yuan-borrowing-20260909|중국 위안화 차입 급증과 글로벌 자본 흐름 (2026-09-09)]] — 저금리로 위안화 채권 1500억달러 육박, 위안화 국제화 진전
 - [[novartis-drug-failure-20260909|노바티스 120억달러 신약 좌초 (2026-09-09)]] — 근육질환 신약 임상 실패, 바이오 투자 리스크 실증
 - [[ai-ipo-corporate-bond-20260909|AI 유니콘 자본 구조 성숙 (2026-09-09)]] — 오픈AI·앤스로픽 상장 후 회사채 시장 진입, 에쿼티+뎁트 결합
+- [[routar-typed-http-client-20260909|routar: 프론트엔드 API 스키마 자동 관리 (2026-09-09)]] — 백엔드 스펙 없이 프론트에서 타입세이프 HTTP 클라이언트, 사이드 프로젝트 도구 제작 사례
+- [[extreme-ssr-20260909|극단적 SSR: JavaScript 없이 동적 화면 (2026-09-09)]] — HTTP 응답 스트림과 iframe으로 JS 없이 동적 화면 갱신하는 실험적 아키텍처
+- [[europe-cloud-providers-20260909|유럽 클라우드 제공업체 비교 (2026-09-09)]] — Hetzner·UpCloud·Leafcloud·Exoscale 비교, 미국 빅테크 외 대안 인프라 탐색
+- [[qwen-drive-autonomous-20260909|Qwen-Drive: 자율주행 멀티모달 AI (2026-09-09)]] — 3D 인식+질의응답+경로 계획 통합 자율주행 AI, LLM이 물리적 제어로 확장
+- [[caltech-mathathon-20260909|Caltech Mathathon: AI로 수학 난제 도전 (2026-09-09)]] — 100팀 200만 달러 AI 크레딧으로 미해결 수학 추측 도전, 수학 연구 민주화
+- [[doosan-fuelcell-datacenter-20260909|두산퓨얼셀 미 데이터센터 진출 (2026-09-09)]] — AI 데이터센터 전력 수요에 따른 수소연료전지 수혜, 20% 상승 여력
+- [[samsung-oil-burden-20260909|삼전닉스 강보합, 유가 부담 (2026-09-09)]] — 반도체 훈풍 vs 유가 급등 리스크 대립 구도
+- [[dhs-predictive-policing-20260909|DHS 예측 치안과 금융 데이터 감시 (2026-09-09)]] — 미 국경순찰대 금융 데이터 기반 예측 치안, 프라이버시와 인권 문제
+- [[paramount-grassroots-merger-20260909|Paramount 합병 위장 풀뿌리 캠페인 (2026-09-09)]] — 1,110억 달러 합병 지지 여론 조성을 위한 astroturfing 적발
+- [[sangsan-securities-listing-20260909|상상인증권 액면병합 첫날 급락 (2026-09-09)]] — 변경상장 첫날 9%대 급락, 중소 증권사 입지 약화
+- [[hem-pharma-ai-health-20260909|HEM파마 AI 자율건강관리 바이그널 검증 (2026-09-09)]] — 글로벌 전자기업과 AI 헬스케어 실사용 검증, 의료 AI 상용화 진전
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교
