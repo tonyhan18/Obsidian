@@ -1,10 +1,10 @@
 ---
 title: "AI 데이터센터 에너지 인프라 (2026-09-08)"
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-09
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/sgc-ai-datacenter-20260908.md]
+sources: [raw/articles/sgc-ai-datacenter-20260908.md, raw/articles/google-finland-datacenter-20260909.md]
 confidence: medium
 ---
 
@@ -54,4 +54,5 @@ SGC에너지가 글로벌 데이터센터 인프라 기업 버티브(Vertiv)와 
 - 에너지/원전: [[us-investment-beneficiaries-20260908|대미 투자 수혜주]] — 원전 테마
 - AI 확장: [[ai-sector-expansion-20260908|AI 도메인 확장]] — 의료·국방·파운드리에 인프라 추가
 - 반도체: [[semiconductor-industry|반도체 산업]] — AI 연산의 기반
+- 글로벌 AI 인프라 투자: [[google-finland-datacenter-20260909|구글 핀란드 23조원 AI 데이터센터]] — 빅테크의 유럽 AI 인프라 공격적 투자
 ^[raw/articles/sgc-ai-datacenter-20260908.md]

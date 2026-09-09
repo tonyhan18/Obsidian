@@ -680,3 +680,23 @@
 - concepts/navier-stokes-millennium-openai-20260909.md — 한국경제 보도 추가: 1만 에이전트 88시간, 270만 메시지 1300억 토큰, 마크 첸 코멘트, 소스 1건 추가
 
 ### 총 164페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 2건 수집 — AI 수학 돌파구 논란 / 구글 핀란드 데이터센터 (10차)
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제-경제
+- 수집된 글 2건, 키워드 필터(AI, 투자) 통과
+
+### Raw article 생성 2건
+- raw/articles/ai-math-breakthrough-controversy-20260909.md — AI 수학적 돌파구 논란, GeekNews 종합 조망 (GeekNews)
+- raw/articles/google-finland-datacenter-20260909.md — 구글 핀란드 23조원 AI 데이터센터, '유럽의 텍사스' 입지 부상 (한국경제-경제)
+
+### Concept 페이지 2건 생성
+- concepts/ai-math-breakthrough-controversy-20260909.md — AI 수학 난제 해결의 공정성·독립성·검증 논쟁 종합, 학술 윤리와 정보 비대칭 (6개 아웃바운드 링크)
+- concepts/google-finland-datacenter-20260909.md — 빅테크 유럽 AI 인프라 공격적 투자, 핀란드 입지 경쟁력, 에너지 밸류체인 연계 (6개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 3건
+- concepts/openai-math-fairness-20260909.md — 종합 조망 페이지 백링크 추가, updated 갱신
+- concepts/sgc-ai-datacenter-20260908.md — 구글 핀란드 투자 백링크 추가, 소스 1건 추가, updated 갱신
+- concepts/ai-infra-rally-expansion-20260909.md — 구글 핀란드 빅테크 투자 백링크 추가
+
+### 총 166페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

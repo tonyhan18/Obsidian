@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-09 | Total pages: 164
+> Last updated: 2026-09-09 | Total pages: 166
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -180,3 +180,7 @@
 - [[bitcoin-rs-ai-fullnode-20260909|bitcoin-rs: AI로 만든 Bitcoin Full Node (2026-09-09)]] — Rust 독립 구현체, AI 코딩으로 시스템 소프트웨어 진입 장벽 하락, 다중 구현체로 보안 검증 다각화
 - [[flock-safety-surveillance-20260909|Flock Safety: 감시 자본주의와 프라이버시 (2026-09-09)]] — 13만 대 카메라, 영장 없는 접근, 탈출구 없는 감시, 데이터 주권 침식
 - [[bessent-yen-house-20260909|베선트 "내가 곧 하우스": 엔화 공매도 경고 (2026-09-09)]] — 미 재무장관의 전례 없는 강경 발언, 엔캐리 청산 가속, 150엔 붕괴 시나리오
+
+## Concepts (2026-09-09 10차 추가)
+- [[ai-math-breakthrough-controversy-20260909|AI 수학적 돌파구 논란 종합 (2026-09-09)]] — AI 수학 난제 해결의 공정성·독립성·검증 논쟁 종합 조망, 학술 윤리와 정보 비대칭
+- [[google-finland-datacenter-20260909|구글 핀란드 23조원 AI 데이터센터 투자 (2026-09-09)]] — 빅테크 유럽 AI 인프라 공격적 투자, '유럽의 텍사스' 핀란드 입지 경쟁력, 에너지 밸류체인 연계

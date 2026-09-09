@@ -42,4 +42,5 @@ NYU 수학 교수 Tristan Buckmaster가 OpenAI가 수학자들의 비공개 연�
 - 검증 원칙: [[science-vs-engineering-hype|과학 vs 엔지니어링]] — 독립적 검증과 투명성의 중요성
 - AI 안전성: [[ai-safety-alignment|AI 정렬과 안전성]] — AI 기업 윤리와 정보 비대칭의 안전적 함의
 - AI 기업 윤리: [[anthropic-resignation-safety-20260909|Anthropic 연구자 사직]] — AI 기업 내부 윤리 긴장과 연결
+- 종합 조망: [[ai-math-breakthrough-controversy-20260909|AI 수학적 돌파구 논란 종합]] — 본 사건의 종합적 분석 페이지
 ^[raw/articles/openai-math-fairness-20260909.md]
