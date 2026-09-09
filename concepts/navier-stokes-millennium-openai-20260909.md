@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [인사이트]
-sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md, raw/articles/navier-stokes-buckmaster-credibility-20260909.md]
+sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md, raw/articles/navier-stokes-buckmaster-credibility-20260909.md, raw/articles/openai-navier-stokes-1w-88h-20260909.md]
 confidence: medium
 contested: true
 ---
@@ -61,6 +61,15 @@ contested: true
 - 수학 연구 패러다임이 AI-보조 증명 중심으로 전환하는 시점은?
 - AI 증명 능력이 [[ai-sector-expansion-20260908|AI 도메인 확장]]의 다음 단계를 나타내는가?
 - OpenAI의 정보 선점 의혹이 증명의 학계 수용에 미칠 영향은?
+
+### 한국경제 보도: AI 연구원 1만명, 88시간 (2026-09-09 3차 업데이트)
+- 오픈AI가 약 1만 개의 AI 에이전트를 투입해 88시간 동안 병렬 탐색 수행
+- 에이전트 간 메시지 270만 건, 출력 토큰 약 1300억 개 사용 — 막대한 연산 자원 투입
+- GPT-6 아스트라보다 성능이 높은 비공개 모델 활용
+- 유한 시간 안에 특이점이 발생할 수 있음을 보이는 해법 도달
+- 마크 첸 최고연구책임자: "AI 연구의 중요한 이정표, 전 세계에 큰 가능성 제시"
+- 앤스로픽 6월 '리만 가설' 진전 제시 — 프론티어 모델 성능 개선으로 수학·과학 난제 결과 속출
+^[raw/articles/openai-navier-stokes-1w-88h-20260909.md]
 
 ## 관계
 - 검증 원칙: [[science-vs-engineering-hype|과학 vs 엔지니어링]] — 독립적 검증의 중요성, AI가 Lean으로 자체 검증 경로 제공

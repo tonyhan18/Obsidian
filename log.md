@@ -659,3 +659,24 @@
 - concepts/ai-safety-alignment.md — 실존적 위험 정량화 섹션 추가, 소스 1건 추가
 
 ### 총 160페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-09] ingest | RSS 4건 수집 — bitcoin-rs / Flock Safety / OpenAI Navier-Stokes / 베선트 엔화 경고 (9차)
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews, 한국경제-IT, 한국경제-경제
+- 수집된 글 4건, 키워드 필터(AI, 기관, 공매도) 통과
+
+### Raw article 생성 4건
+- raw/articles/bitcoin-rs-ai-fullnode-20260909.md — bitcoin-rs, Rust 기반 Bitcoin 독립 구현체, AI 코딩으로 시스템 소프트웨어 진입 장벽 하락 (GeekNews)
+- raw/articles/flock-safety-surveillance-20260909.md — Flock Safety, 13만 대 카메라 감시망, 영장 없는 데이터 접근, 감시 자본주의 (GeekNews)
+- raw/articles/openai-navier-stokes-1w-88h-20260909.md — OpenAI 1만 에이전트 88시간 나비에-스토크스 해법, 270만 메시지 1300억 토큰 (한국경제-IT)
+- raw/articles/bessent-yen-house-warning-20260909.md — 베선트 "내가 곧 하우스", 엔화 공매도 경고, 소로스 출신 153.36엔 (한국경제-경제)
+
+### Concept 페이지 3건 생성
+- concepts/bitcoin-rs-ai-fullnode-20260909.md — AI 코딩으로 시스템 소프트웨어 민주화, 다중 구현체로 보안 검증 다각화 (4개 아웃바운드 링크)
+- concepts/flock-safety-surveillance-20260909.md — 감시 인프라 비가역성, AI 감시와 프라이버시 충돌, 범죄 예방 vs 사생활 프레이밍 (3개 아웃바운드 링크)
+- concepts/bessent-yen-house-20260909.md — "하우스" 프레이밍의 파급력, 엔캐리 청산 시나리오, 150엔 붕괴 가능성 (5개 아웃바운드 링크)
+
+### 기존 컨셉 페이지 업데이트 1건
+- concepts/navier-stokes-millennium-openai-20260909.md — 한국경제 보도 추가: 1만 에이전트 88시간, 270만 메시지 1300억 토큰, 마크 첸 코멘트, 소스 1건 추가
+
+### 총 164페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
