@@ -740,3 +740,29 @@
 - concepts/bessent-rate-bet-yen-semiconductor-20260910.md — 하우스 프레임 금리 확장, 엔화 강세 -> 반도체 이중 리스크 (4개 아웃바운드 링크)
 
 ### 총 173페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 4건 수집 — GPT-6 루프형 트랜스포머/Anthropic 감시/미 재무부 바이백/애플 폴더블
+- ⚠️ 크론 스크립트 오류: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: GeekNews(2), 한국경제-증권(1), 한국경제-IT(1)
+- 수집된 글 4건, 키워드 필터(GPT, AI, 금리, 달러) 통과 4건
+- 웹 도구(Firecrawl) 비활성화로 기사 본문 추출 불가 — RSS 메타데이터로 페이지 생성
+
+### Raw article 생성 4건
+- raw/articles/gpt6-astra-loop-transformer-20260910.md — GPT-6 Astra 루프형 트랜스포머 구조, 추론 단축, 해석 가능성 저하 (GeekNews)
+- raw/articles/anthropic-activist-surveillance-20260910.md — Anthropic 예측형 감시 시스템, Samdesk, 활동가 추적 (GeekNews)
+- raw/articles/us-treasury-buyback-rates-20260910.md — 미 재무부 바이백 60억달러, 금리 추가 상승 (한국경제-증권)
+- raw/articles/apple-iphone-duo-foldable-20260910.md — 애플 첫 폴더블 아이폰 듀오 1999달러 (한국경제-IT)
+
+### Concept 페이지 4건 생성
+- concepts/gpt6-astra-loop-transformer-20260910.md — 루프형 트랜스포머 구조와 해석 가능성 저하 (4개 아웃바운드 링크)
+- concepts/anthropic-activist-surveillance-20260910.md — AI 안전성 담론 vs 반대자 감시 모순 (4개 아웃바운드 링크)
+- concepts/us-treasury-buyback-rates-20260910.md — 바이백에도 금리 상승, 시장 기대 선행 (4개 아웃바운드 링크)
+- concepts/apple-iphone-duo-foldable-20260910.md — 폴더블 경쟁 3국면 완성, 1999달러 대중화 과도기 (4개 아웃바운드 링크)
+
+### 기존 페이지 업데이트 4건
+- entities/gpt-6-astra.md — 루프형 트랜스포머 링크 추가, 소스 1건 추가, updated 갱신
+- concepts/foldable-phone-competition-202609.md — 아이폰 듀오 링크 추가, 소스 1건 추가, updated 갱신
+- concepts/us-treasury-yield-20260908.md — 바이백 금리 상승 링크 추가, 소스 1건 추가, updated 갱신
+- concepts/anthropic-resignation-safety-20260909.md — 예측형 감시 시스템 링크 추가, updated 갱신
+
+### 총 177페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

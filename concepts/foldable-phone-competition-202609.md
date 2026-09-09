@@ -1,10 +1,10 @@
 ---
 title: "폴더블폰 경쟁과 삼성의 하드웨어 차별화 (2026-09)"
 created: 2026-09-08
-updated: 2026-09-09
+updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/foldable-phone-202609.md, raw/articles/galaxy-foldable-pre-iphone-20260909.md]
+sources: [raw/articles/foldable-phone-202609.md, raw/articles/galaxy-foldable-pre-iphone-20260909.md, raw/articles/apple-iphone-duo-foldable-20260910.md]
 confidence: medium
 ---
 
@@ -37,3 +37,4 @@ confidence: medium
 - 관련 컨셉: [[kospi-7000-202609]] — 반도체 훈풍과 함께 삼성전자 주가 동향의 변수
 - 관련 엔티티: [[semiconductor-industry]] — 폴더블폰 확대는 반도체 수요 증가와 연결
 - 관련 컨셉: [[samsung-precision-health-20260909|삼성 0.001g 정밀가공]] — 정밀 가공 기술이 폴더블 차별화의 원천
+- 관련 컨셉: [[apple-iphone-duo-foldable-20260910|애플 아이폰 듀오 1999달러]] — 애플 정식 진입으로 3국면 경쟁 완성 (2026-09-10 업데이트)

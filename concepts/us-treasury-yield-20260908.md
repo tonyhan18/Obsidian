@@ -1,10 +1,10 @@
 ---
 title: 미 장기채 금리 상승과 안전자산 논쟁 (2026-09-08)
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-10
 type: concept
 tags: [매크로, 자산배분, 리스크관리]
-sources: [raw/articles/us-treasury-yield-20260908.md]
+sources: [raw/articles/us-treasury-yield-20260908.md, raw/articles/us-treasury-buyback-rates-20260910.md]
 confidence: medium
 ---
 
@@ -47,3 +47,4 @@ confidence: medium
 - 관련 컨셉: [[core-satellite|Core-Satellite 배분]] — 전통 배분 모델 수정 필요
 - 관련 컨셉: [[securities-firm-cash-strategy-20260908|증권사 현금 관리 전략]] — 변동성 시대 현금 운용 대안
 - 관련 컨셉: [[yen-carry-trade-20260908|엔캐리 트레이드 청산과 엔화 강세]] — 미·일 금리 격차 축소, 글로벌 금리 상승 동일 맥락
+- 관련 컨셉: [[us-treasury-buyback-rates-20260910|미 재무부 바이백 60억달러 금리 더 올라]] — 바이백에도 금리 상승 지속 (2026-09-10 업데이트)

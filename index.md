@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 173
+> Last updated: 2026-09-10 | Total pages: 177
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -195,3 +195,9 @@
 - [[us-economists-rate-hold-20260910|미 경제학자 70% 9월 금리 동결 예상 — 시장과 정반대 (2026-09-10)]] — WSJ 설문 vs 시장 컨센서스 정반대, 유가 인플레이션 → 금리 인하 지연 우려
 - [[trump-energy-stock-trading-20260910|트럼프 전쟁 중 에너지주식 매매 59억 수익 — 정치적 이해상충 (2026-09-10)]] — 전쟁 중 에너지주 매매, 정치인 내부자 거래 가능성, 시장 신뢰 훼손
 - [[bessent-rate-bet-yen-semiconductor-20260910|베선트 금리 "나에게 베팅"…엔화 강세에 발목 잡힌 반도체 (2026-09-10)]] — 하우스 프레임 금리로 확장, 엔화 강세 → 반도체 이중 리스크
+
+## Concepts (2026-09-10 3차 추가)
+- [[gpt6-astra-loop-transformer-20260910|GPT-6 Astra와 루프형 트랜스포머 (2026-09-10)]] — 루프형 구조로 추론 단축, 해석 가능성 저하 우려
+- [[anthropic-activist-surveillance-20260910|Anthropic 예측형 감시 시스템과 AI 기업의 모순 (2026-09-10)]] — AI 안전성 표방 vs 반대자 예측형 감시 구축
+- [[us-treasury-buyback-rates-20260910|미 재무부 바이백 60억달러, 금리 더 올라 (2026-09-10)]] — 바이백에도 금리 상승 지속, 시장 기대 선행
+- [[apple-iphone-duo-foldable-20260910|애플 첫 폴더블 '아이폰 듀오' 1999달러 (2026-09-10)]] — 경쟁 3국면 완성, 폴더블 대중화 과도기

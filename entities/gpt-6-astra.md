@@ -1,10 +1,10 @@
 ---
 title: GPT-6 Astra 능력 평가
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-10
 type: entity
 tags: [인사이트]
-sources: [raw/articles/gpt-6-astra-capabilities.md, raw/articles/build-vs-buy-ai.md]
+sources: [raw/articles/gpt-6-astra-capabilities.md, raw/articles/build-vs-buy-ai.md, raw/articles/gpt6-astra-loop-transformer-20260910.md]
 confidence: high
 ---
 
@@ -49,3 +49,4 @@ confidence: high
 - 관련 컨셉: [[build-vs-buy-ai]] — Claude Code에서 GPT-6 Astra를 메인으로 섞어 쓰는 사례; 하네스(인프라) 선택이 제품 경쟁력을 결정
 - 관련 컨셉: [[science-vs-engineering-hype]] — AI 모델 능력 주장의 독립적 검증 필요성
 - 관련 컨셉: [[gpt6-astra-token-economics-20260908]] — 토큰 비용 현실과 AI 코딩 비용 전망
+- 관련 컨셉: [[gpt6-astra-loop-transformer-20260910]] — 루프형 트랜스포머 구조와 해석 가능성 저하 (2026-09-10 업데이트)

@@ -1,7 +1,7 @@
 ---
 title: "Anthropic 연구자 사직과 AI 안전성 내부 비판"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-10
 type: concept
 tags: [인사이트, 리스크관리]
 sources: [raw/articles/anthropic-resignation-ai-safety-20260909.md, raw/articles/anthropic-researcher-existential-risk-20260909.md]
@@ -42,4 +42,5 @@ OpenAI와 Anthropic에서 사전학습 연구를 수행한 Jacob Coxon이 사직
 - [[ai-org-transformation|AI 조직 전환]] — 조직의 안전성 vs 속도 딜레마
 - [[gpt-6-astra|GPT-6 Astra]] — 능력 향상이 안전성 문제를 시급하게 만듦
 - [[science-vs-engineering-hype-20260909|과학 vs 엔지니어링]] — AI 능력에 대한 과장과 안전성 검증의 부재
+- [[anthropic-activist-surveillance-20260910|Anthropic 예측형 감시 시스템]] — 안전성 담론 vs 반대자 감시의 모순 (2026-09-10 업데이트)
 ^[raw/articles/anthropic-researcher-existential-risk-20260909.md]
