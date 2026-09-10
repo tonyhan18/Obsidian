@@ -4,6 +4,13 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | RSS 1건 수집 — 하나금융 발달장애인 벽화 조성 (도메인 외 스킵)
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
+- RSS 피드: 한국경제 (증권·IT·경제)
+- 수집된 글 1건, 키워드 필터 통과 1건 ("금융" 매칭)
+- 스킵 1건: 하나금융지주 발달장애인 작가와 벽화 조성 — CSR/사회공헌 활동, 투자·커리어·자산관리 도메인 외 (2026-09-10 JT친애저축은행 CSR 스킵 전례와 동일)
+- 위키 페이지 생성 없음, index.md 변경 없음
+
 ## [2026-09-10] ingest | RSS 18건 수집 — 증권사5조/SK스퀘어에이전트/의료AI/예금금리/HD현대AI전력/원자재슈퍼랠리/OpenAI도용의혹2/이억원 + 기존 5건 업데이트
 - ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
 - RSS 피드: GeekNews + 한국경제 (증권·IT·경제)
