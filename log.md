@@ -4,6 +4,28 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | 한국경제 RSS 7건 수집 — 코스피 7000선 방어/대미에너지투자/AI금융/개미황금기/삼성바이오/아이폰429만원
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: 한국경제 (증권·IT·경제)
+- 수집된 글 7건, 키워드 필터 통과 7건, 도메인 부적합 스킵 1건(JT친애저축은행 '사람 살리는 금융' 캠페인 — CSR/사회공헌, 투자·커리어·자산관리 도메인 외)
+- Raw 소스 6건 생성:
+  - raw/articles/kospi-7000-defense-quad-witching-20260910.md — 코스피 7000선 방어, 네 마녀의 날+ETF 리밸런싱 이중 수급
+  - raw/articles/us-energy-investment-100b-20260910.md — 대미 에너지 투자 1000억달러 합의 임박
+  - raw/articles/sahara-ai-sorin-taas-aaas-20260910.md — 사하라AI 소린 TaaS·AaaS, AI 금융 인프라 SaaS화
+  - raw/articles/retail-investor-golden-age-20260910.md — 개미 투자 황금기, 변동성=기회 프레임
+  - raw/articles/samsung-bio-cdmo-3508b-20260910.md — 삼성바이오 3508억 CDMO 수주
+  - raw/articles/iphone-429won-samsung-smile-20260910.md — 아이폰 듀오 429만원, 삼성 미소 짓는 이유
+- Concept 페이지 4건 생성:
+  - concepts/us-energy-investment-100b-20260910.md → [[us-investment-beneficiaries-20260908]], [[holtec-smr-ipo-nuclear-export-20260909]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[dollar]], [[fx-three-variables-20260909]] (5개 아웃바운드 링크)
+  - concepts/sahara-ai-sorin-taas-aaas-20260910.md → [[ai-sector-expansion-20260908]], [[ai-org-transformation]], [[build-vs-buy-ai]], [[chatgpt-enterprise-korea-28x-20260909]], [[kb-bloomberg-partnership-20260910]] (5개 아웃바운드 링크)
+  - concepts/retail-investor-golden-age-20260910.md → [[kospi-quad-witching-20260910]], [[inverse-retail-betting-202609]], [[core-satellite]], [[kospi-eps-slowdown-20260908]], [[kospi-7000-recovery-20260909]] (5개 아웃바운드 링크)
+  - concepts/samsung-bio-cdmo-3508b-20260910.md → [[novartis-drug-failure-20260909]], [[aprilbio-curigin-bayer-rna-20260910]], [[samsung-electronics]], [[samsung-life-pension-insurance-20260910]], [[ibv-bioimaging-brain-20260910]] (5개 아웃바운드 링크)
+- 기존 페이지 업데이트 2건:
+  - concepts/kospi-quad-witching-20260910.md — ETF 리밸런싱 겹침 + 7000선 방어 섹션 추가, source 추가
+  - concepts/apple-iphone-duo-foldable-20260910.md — 429만원 한국 가격 + 삼성 미소 섹션 추가, source 추가
+- index.md 업데이트: 페이지 수 217→221, 11차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-10] ingest | 한국경제 RSS 4건 수집 — 은행주 랠리/뇌 영상 기술/코스닥 승강제/하나금융 벽화
 - ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
 - RSS 피드: 한국경제 (증권·IT·경제)

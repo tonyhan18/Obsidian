@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md, raw/articles/iphone-2000-dollar-foldable-20260910.md, raw/articles/apple-foldable-beneficiary-stocks-20260910.md]
+sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md, raw/articles/iphone-2000-dollar-foldable-20260910.md, raw/articles/apple-foldable-beneficiary-stocks-20260910.md, raw/articles/iphone-429won-samsung-smile-20260910.md]
 confidence: medium
 ---
 
@@ -64,3 +64,13 @@ confidence: medium
 - 증권가 "사라(Sell)" 외친 수혜 종목: 비에이치(BH), 파인엠텍
 - 2,000달러 스마트폰 시대 → 부품사 마진 개선 기대 구체화
 ^[raw/articles/apple-foldable-beneficiary-stocks-20260910.md]
+
+### 429만원 한국 가격: 삼성이 '미소' 짓는 이유 (2026-09-10 업데이트)
+- 아이폰 듀오 한국 가격 약 429만원 — 갤럭시 폴드8보다 두껍고 100만원 비싼 초고가
+- **삼성 '미소'의 이유:**
+  - 애플 합류 = 폴더블이 메인스트림으로 인정 → 전체 시장 파이 확대
+  - 삼성의 선발주자 특허·양산 노하우·하드웨어 경험 우위 부각
+  - 애플의 초고가 전략 → 삼성 가격 경쟁력 상대적 우위 확인
+  - 폴더블 대중화 과도기에서 경쟁 심화 = 카테고리 성장
+- [[foldable-phone-competition-202609|폴더블폰 경쟁]] 3국면에서 삼성의 포지션 재확인
+^[raw/articles/iphone-429won-samsung-smile-20260910.md]

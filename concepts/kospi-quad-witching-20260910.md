@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [시황, 매매전략, 리스크관리]
-sources: [raw/articles/kospi-quad-witching-20260910.md, raw/articles/kospi-quad-witching-result-20260910.md]
+sources: [raw/articles/kospi-quad-witching-20260910.md, raw/articles/kospi-quad-witching-result-20260910.md, raw/articles/kospi-7000-defense-quad-witching-20260910.md]
 confidence: medium
 ---
 
@@ -54,3 +54,11 @@ confidence: medium
 - **매크로 중첩 확인:** 브렌트유 101.21달러(3.36% 상승), 미 10년물 4.85% — 예상 헤드윈드 실현
 - **원달러 환율 1,339.2원** (+3.1원) — 유가 급등 → 환율 상승 압력
 ^[raw/articles/kospi-quad-witching-result-20260910.md]
+
+### ETF 리밸런싱 겹침: 7,000선 방어 확인 (2026-09-10 업데이트)
+- '네 마녀의 날' + ETF 리밸런싱이 동시에 겹치는 이중 수급 압력
+- 그럼에도 코스피 7,000선 방어 — 심리 지지선 유지
+- 반도체 지수 ETF 리밸런싱 → 삼전닉스 비중 조정 + 소부장 재분배 압력
+- [[semiconductor-rebalancing-20260908|반도체 지수 리밸런싱]]과 동일한 구조의 수급 사건이 만기일과 중첩
+- 7,000선 방어 = 만기일 변동성 흡수 능력 확인 → [[retail-investor-golden-age-20260910|개미 투자 황금기]] 논리의 근거
+^[raw/articles/kospi-7000-defense-quad-witching-20260910.md]
