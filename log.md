@@ -4,6 +4,21 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | 한국경제 RSS 4건 수집 — 은행주 랠리/뇌 영상 기술/코스닥 승강제/하나금융 벽화
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
+- RSS 피드: 한국경제 (증권·IT·경제)
+- 수집된 글 4건, 키워드 필터 통과 4건, 도메인 부적합 스킵 1건(하나금융 벽화 조성 — CSR/사회공헌, 투자·커리어·자산관리 도메인 외)
+- Raw 소스 3건 생성:
+  - raw/articles/bank-stock-rally-pbr-20260910.md — 은행주 PBR 1배 랠리, 금리·환율·실적 삼박자, 신한지주 사상최고가
+  - raw/articles/ibv-bioimaging-brain-20260910.md — 아이빔테크놀로지 생체현미경, 살아있는 뇌 실시간 관찰, K-Brain 2026
+  - raw/articles/lee-soyoung-kosdaq-speed-20260910.md — 이소영 중기부 장관 후보자, 코스닥 승강제 속도조절, 금융위원장과 토론 의지
+- Concept 페이지 3건 생성:
+  - concepts/bank-stock-rally-pbr-20260910.md → [[fx-three-variables-20260909]], [[korea-creditor-nation-fx-20260909]], [[kospi-7000-recovery-20260909]], [[us-stock-rally-ai-rates-20260910]], [[yen-carry-trade-20260908]], [[securities-consensus-top5-20260909]], [[kospi-eps-slowdown-20260908]], [[dividend-shareholder-season-20260908]], [[oecd-fintax-differential-20260909]] (9개 아웃바운드 링크)
+  - concepts/ibv-bioimaging-brain-20260910.md → [[kaist-ms-neural-value-alignment-20260910]], [[novartis-drug-failure-20260909]], [[hem-pharma-ai-health-20260909]], [[ai-sector-expansion-20260908]] (4개 아웃바운드 링크)
+  - concepts/lee-soyoung-kosdaq-speed-20260910.md → [[ipo-rush-retail-dilemma-20260909]], [[securities-polarization-20260908]], [[us-stock-rally-ai-rates-20260910]], [[aftermarket-opening-20260909]] (4개 아웃바운드 링크)
+- index.md 업데이트: 페이지 수 210→213, 9차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-10] ingest | 한국경제 RSS 5건 수집 — 금융·투자·AI
 - RSS 피드: 한국경제 (증권·경제)
 - 수집된 글 5건, 키워드 필터(투자, 증권, AI, 금리, ETF, 금융) 통과
