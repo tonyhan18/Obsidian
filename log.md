@@ -825,3 +825,18 @@
 - concepts/apple-iphone-duo-foldable-20260910.md — 2000달러 스마트폰 섹션에 애플 이벤트 총정리 링크 추가, 소스 1건 추가
 
 ### 총 193페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 4건 수집 — SK 울산 AI 데이터센터·삼성생명 연금보험·미코 HRSG·AI 전력 병목
+
+### Raw 소스 4건 인제스트
+- raw/articles/sk-ulsan-ai-datacenter-20260910.md — 최태원 SK 회장, 7조 원 울산 AI 데이터센터 현장 점검 (한국경제-경제)
+- raw/articles/samsung-life-pension-insurance-20260910.md — 삼성생명 '굴려받는연금보험' 출시, 일시납 10년 연4.4% 확정이율 (한국경제-경제)
+- raw/articles/miko-hrsg-acquisition-20260910.md — 미코, 세계 1위 HRSG 기업 넴 에너지 인수, AI 데이터센터 가스발전 공략 (한국경제-경제)
+- raw/articles/gpu-to-power-shift-20260910.md — AI 병목 GPU→전력 전이, GPU 100만개=원전 1기, 자체 발전망 확보 (한국경제-경제)
+
+### Concept 페이지 3건 생성
+- concepts/sk-ulsan-ai-datacenter-20260910.md — SK 울산 7조 AI 데이터센터, SK AI 수직 통합 전략 (6개 아웃바운드 링크)
+- concepts/samsung-life-pension-insurance-20260910.md — 삼성생명 연금보험, 연금 자산 운용 선택지 확장 (4개 아웃바운드 링크)
+- concepts/ai-power-bottleneck-gpu-to-power-20260910.md — AI 전력 병목 전이 + 미코 HRSG 인수, 전력 밸류체인 기업 확장 맵 (7개 아웃바운드 링크)
+
+### 총 196페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

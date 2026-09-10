@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 193
+> Last updated: 2026-09-10 | Total pages: 196
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -215,3 +215,8 @@
 - [[kospi-quad-witching-20260910|코스피 네 마녀의 날 경계감 (2026-09-10)]] — 파생상품 만기 집중일 + 유가 100달러 + CPI 직전 불확실성, 변동성 확대
 - [[smic-aice-ai-training-20260910|중진공 AICE 현장형 AI 인재 양성 (2026-09-10)]] — 중소기업 대상 AI 인력 공급, 국가 AI 전략 실용화의 인력 양성 축
 - [[foreigner-korean-snack-20260910|외국인 한국 과자 구매 열기 (2026-09-10)]] — K-푸드 수출 트렌드 확장, 소비재 기업 글로벌 진출 간접 지표
+
+## Concepts (2026-09-10 6차 추가)
+- [[sk-ulsan-ai-datacenter-20260910|SK 울산 7조 AI 데이터센터 (2026-09-10)]] — 최태원 회장 경영진과 울산 점검, SK AI 수직 통합(반도체→데이터센터), 국가 AI 주권
+- [[samsung-life-pension-insurance-20260910|삼성생명 '굴려받는연금보험' (2026-09-10)]] — 일시납 10년 연4.4% 확정이율, 비과세, 연금 자산 운용 선택지 확장
+- [[ai-power-bottleneck-gpu-to-power-20260910|AI 전력 병목: GPU→전력 관련주 전환 (2026-09-10)]] — GPU 100만개=원전 1기, 미코 HRSG 인수, 전력 밸류체인 수혜 확산

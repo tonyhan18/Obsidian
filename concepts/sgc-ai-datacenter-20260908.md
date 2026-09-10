@@ -55,4 +55,6 @@ SGC에너지가 글로벌 데이터센터 인프라 기업 버티브(Vertiv)와 
 - AI 확장: [[ai-sector-expansion-20260908|AI 도메인 확장]] — 의료·국방·파운드리에 인프라 추가
 - 반도체: [[semiconductor-industry|반도체 산업]] — AI 연산의 기반
 - 글로벌 AI 인프라 투자: [[google-finland-datacenter-20260909|구글 핀란드 23조원 AI 데이터센터]] — 빅테크의 유럽 AI 인프라 공격적 투자
+- 전력 병목 전이: [[ai-power-bottleneck-gpu-to-power-20260910|AI 전력 병목: GPU→전력 관련주 전환]] — GPU 연산에서 전력 수급으로 병목 전이, 미코 HRSG 인수
+- SK 데이터센터: [[sk-ulsan-ai-datacenter-20260910|SK 울산 7조 AI 데이터센터]] — SK그룹의 대규모 데이터센터 투자가 전력 수요 창출
 ^[raw/articles/sgc-ai-datacenter-20260908.md]
