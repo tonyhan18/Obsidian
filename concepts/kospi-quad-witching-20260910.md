@@ -62,3 +62,9 @@ confidence: medium
 - [[semiconductor-rebalancing-20260908|반도체 지수 리밸런싱]]과 동일한 구조의 수급 사건이 만기일과 중첩
 - 7,000선 방어 = 만기일 변동성 흡수 능력 확인 → [[retail-investor-golden-age-20260910|개미 투자 황금기]] 논리의 근거
 ^[raw/articles/kospi-7000-defense-quad-witching-20260910.md]
+
+### 반도체 리밸런싱 추가 압력: 7천피 사수 재확인 (2026-09-10 2차 업데이트)
+- '네 마녀의 날' + 반도체 리밸런싱이 겹치는 이중 수급 압력 — 별도 기사로 재확인
+- 코스피 7,000선 지켜냄 — 만기일 + 리밸런싱 이중 변동성 흡수 능력 재차 검증
+- [[k-robot-stocks-astra-20260910|K-로봇주]] 강세가 섹터 확장의 긍정적 신호
+^[raw/articles/kospi-7000-defense-rebalancing-20260910.md]

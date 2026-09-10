@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/gpu-to-power-shift-20260910.md, raw/articles/miko-hrsg-acquisition-20260910.md]
+sources: [raw/articles/gpu-to-power-shift-20260910.md, raw/articles/miko-hrsg-acquisition-20260910.md, raw/articles/ai-power-next-beneficiary-20260910.md]
 confidence: high
 ---
 
@@ -17,7 +17,7 @@ AI 시장의 핵심 병목이 GPU 연산에서 **전력 수급**으로 전이되
 
 ### 병목 전이: 연산 → 전력
 1. **1단계 (2023–2026):** GPU/가속기 병목 — [[samsung-electronics|삼성전자]]·[[sk-hynix|SK하이닉스]] HBM 수혜
-2. **2단계 (2026–):** 전력 수급 병목 — 발전설비·송전망·원전 수혜로 전환
+- **2단계 (2026–):** 전력 수급 병목 — 발전설비·송전망·원전 수혜로 전환. "AI 경쟁 수혜 다음 타자는 전력股" 기사로 확인. [[hd-hyundai-ai-power-20260910|HD현대중 1조 투자]]가 중공업 전력 밸류체인 진출 사례.
 - **핵심 데이터:** GPU 100만개 가동 = 원전 1기 출력 필요
 - **병목 요소:** 송전망 연결(수년 소요), 설비 공급난, 환경 규제, 주민 반발
 
@@ -30,6 +30,7 @@ AI 시장의 핵심 병목이 GPU 연산에서 **전력 수급**으로 전이되
 ### AI 전력 인프라 기업 확장 맵
 | 기업 | 제품/서비스 | AI 전력 포지션 |
 |------|-----------|---------------|
+- HD현대중공업 | 발전엔진·SMR | 중공업 전력 설비 — [[hd-hyundai-ai-power-20260910\|1조 투자]] |
 | 미코 | HRSG(회수보일러) | 가스발전 설비 — 신규 진출 |
 | SGC에너지 | 전력·냉각 인프라 | 버티브 협력 — [[sgc-ai-datacenter-20260908\|AI 데이터센터 에너지 인프라]] |
 | 두산퓨얼셀 | 수소연료전지 | 분산형 발전 — [[doosan-fuelcell-datacenter-20260909\|미 데이터센터 진출]] |

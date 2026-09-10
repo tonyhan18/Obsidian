@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [투자, 매매전략]
-sources: [raw/articles/kis-global-partnership-20260910.md]
+sources: [raw/articles/kis-global-partnership-20260910.md, raw/articles/kis-pimco-carlyle-20260910.md]
 confidence: high
 contested: false
 ---

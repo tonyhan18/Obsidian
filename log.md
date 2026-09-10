@@ -4,6 +4,46 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | RSS 18건 수집 — 증권사5조/SK스퀘어에이전트/의료AI/예금금리/HD현대AI전력/원자재슈퍼랠리/OpenAI도용의혹2/이억원 + 기존 5건 업데이트
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
+- RSS 피드: GeekNews + 한국경제 (증권·IT·경제)
+- 수집된 글 18건, 키워드 필터 통과 18건
+- Raw 소스 17건 생성 (중복 1건: KB-블룸버그는 기존 페이지와 중복)
+  - raw/articles/openai-math-plagiarism-20260910.md — OpenAI 수학 증명 도용 의혹 2차
+  - raw/articles/securities-q2-profit-5t-20260910.md — 증권사 2분기 순익 첫 5조
+  - raw/articles/ai-global-cooperation-20260910.md — 정재헌 AI 글로벌 협력
+  - raw/articles/sk-square-agent-experiment-20260910.md — SK스퀘어 80명 90개 에이전트
+  - raw/articles/lg-cns-ai-robotics-hiring-20260910.md — LG CNS AI·로보틱스 채용
+  - raw/articles/kt-asan-medical-ai-20260910.md — KT·서울아산병원 의료 AI
+  - raw/articles/deposit-rate-hike-20260910.md — 5대은행 예금금리 3.3% 돌파
+  - raw/articles/hd-hyundai-heavy-ai-power-20260910.md — HD현대중 1조 AI 전력 투자
+  - raw/articles/commodity-super-rally-20260910.md — 원자재 슈퍼랠리 + 에브리싱 랠리 (2건 통합)
+  - raw/articles/physical-ai-k-robot-stocks-20260910.md — AGI 다음 피지컬 AI K로봇주
+  - raw/articles/apple-foldable-samsung-challenge-20260910.md — 애플 폴더블 삼성 도전
+  - raw/articles/lee-eok-won-finance-20260910.md — 이억원 1년 존재감
+  - raw/articles/kospi-7000-defense-rebalancing-20260910.md — 네 마녀의 날+리밸런싱 7천피 방어
+  - raw/articles/treasury-buyback-rates-surge-20260910.md — 바이백에도 국채금리 급등
+  - raw/articles/ai-power-next-beneficiary-20260910.md — AI 수혜 다음 타자 전력주
+  - raw/articles/kis-pimco-carlyle-20260910.md — 한투증 핌코·칼라일 협력
+  - raw/articles/kb-bloomberg-20260910-dup.md — KB-블룸버그 (기존 페이지 중복)
+- Concept 페이지 8건 생성:
+  - concepts/securities-q2-profit-5t-20260910.md → [[ai-ipo-rush-anthropic-20260910]], [[samsung-securities-paper-market-20260909]], [[us-etf-record-leverage-20260909]], [[bessent-rate-bet-yen-semiconductor-20260910]], [[securities-polarization-20260908]], [[securities-firm-cash-strategy-20260908]], [[kis-global-partnership-20260910]], [[bank-stock-rally-pbr-20260910]], [[securities-consensus-top5-20260909]] (9개 아웃바운드)
+  - concepts/sk-square-agent-experiment-20260910.md → [[ai-org-transformation]], [[build-vs-buy-ai]], [[chatgpt-enterprise-korea-28x-20260909]], [[sk-hynix]], [[ai-economic-impact-2030-20260910]], [[meta-muse-agent-20260909]] (6개 아웃바운드)
+  - concepts/medical-ai-kt-asan-20260910.md → [[ai-sector-expansion-20260908]], [[hem-pharma-ai-health-20260909]], [[kaist-ms-neural-value-alignment-20260910]], [[dark-factory-platform-20260908]], [[national-ai-strategy-1yr-20260908]] (5개 아웃바운드)
+  - concepts/deposit-rate-competition-20260910.md → [[us-treasury-yield-20260908]], [[bank-stock-rally-pbr-20260910]], [[us-treasury-buyback-rates-20260910]], [[pension-bond-institutional-20260908]], [[atm-decline-cashless-transition-20260909]] (5개 아웃바운드)
+  - concepts/hd-hyundai-ai-power-20260910.md → [[ai-power-bottleneck-gpu-to-power-20260910]], [[doosan-fuelcell-datacenter-20260909]], [[holtec-smr-ipo-nuclear-export-20260909]], [[us-energy-investment-100b-20260910]], [[semiconductor-industry]] (5개 아웃바운드)
+  - concepts/commodity-super-rally-20260910.md → [[dollar]], [[oil-surge-semiconductor-rebound-20260909]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[us-economists-rate-hold-20260910]], [[gold]] (5개 아웃바운드)
+  - concepts/openai-math-plagiarism-2-20260910.md → [[openai-math-fairness-20260909]], [[ai-math-breakthrough-controversy-20260909]], [[tao-math-mining-20260909]], [[ai-wrong-build-well-20260909]], [[anthropic-resignation-safety-20260909]], [[ai-safety-alignment]] (6개 아웃바운드)
+  - concepts/lee-eok-won-finance-20260910.md → [[korea-gni-40k-202609]], [[fitch-korea-fiscal-deficit-20260909]], [[oecd-fintax-differential-20260909]] (3개 아웃바운드)
+- 기존 페이지 업데이트 4건:
+  - concepts/kospi-quad-witching-20260910.md — 반도체 리밸런싱 추가 압력 섹션, source 추가
+  - concepts/us-treasury-buyback-rates-20260910.md — "장난감 총 vs 탱크" 바이백 한계 섹션, source 추가
+  - concepts/kis-global-partnership-20260910.md — source 추가 (핌코·칼라일 별도 기사)
+  - concepts/ai-power-bottleneck-gpu-to-power-20260910.md — HD현대중 행 추가, 전력주 전환 확인, source 추가
+- index.md 업데이트: 페이지 수 221→229, 12차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+- 스킵: 정재헌 AI 글로벌 협력·LG CNS 채용·애플 폴더블·피지컬 AI K로봇주는 기존 페이지와 주제 중복으로 raw만 생성
+
 ## [2026-09-10] ingest | 한국경제 RSS 7건 수집 — 코스피 7000선 방어/대미에너지투자/AI금융/개미황금기/삼성바이오/아이폰429만원
 - ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 명령어 파싱 오류. 수동 실행으로 복구.
 - RSS 피드: 한국경제 (증권·IT·경제)
