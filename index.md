@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 196
+> Last updated: 2026-09-10 | Total pages: 203
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -220,3 +220,12 @@
 - [[sk-ulsan-ai-datacenter-20260910|SK 울산 7조 AI 데이터센터 (2026-09-10)]] — 최태원 회장 경영진과 울산 점검, SK AI 수직 통합(반도체→데이터센터), 국가 AI 주권
 - [[samsung-life-pension-insurance-20260910|삼성생명 '굴려받는연금보험' (2026-09-10)]] — 일시납 10년 연4.4% 확정이율, 비과세, 연금 자산 운용 선택지 확장
 - [[ai-power-bottleneck-gpu-to-power-20260910|AI 전력 병목: GPU→전력 관련주 전환 (2026-09-10)]] — GPU 100만개=원전 1기, 미코 HRSG 인수, 전력 밸류체인 수혜 확산
+
+## Concepts (2026-09-10 7차 추가)
+- [[gangnam-sister-data-leak-compensation-20260910|강남언니 개인정보 유출 보상 (2026-09-10)]] — 22만 명 유출, 5만 포인트 + 1,000만 원 피해 보험, 플랫폼 보안 리스크의 금융화
+- [[kaist-ms-neural-value-alignment-20260910|KAIST-MS 신경 가치 정렬(NVA) (2026-09-10)]] — 뇌파로 "그게 아닌데" 감지해 AI 내재 목표 교정, 행동→인지 신호 기반 정렬
+- [[samsung-foundry-2nd-place-20260910|삼성 파운드리 2위 사수 (2026-09-10)]] — TSMC에 밀리고 중국에 쫓기는 구도, 양강→다극 체제 재편 압력
+- [[intel-cpu-price-hike-ai-supply-20260910|인텔 PC CPU 가격 10% 인상 (2026-09-10)]] — AI 칩 수요 폭증→범용 CPU 공급난, AI 인플레이션의 크로스오버 효과
+- [[sk-hynix-bonus-stock-cash-20260910|SK하이닉스 성과급 현금 50%·주식 50% (2026-09-10)]] — 직원 주주화, 현금 보존→AI 인프라 투자, 주주환원과 보상의 연결
+- [[us-stock-rally-ai-rates-20260910|미 증시 랠리: 실적·AI vs 금리 상승 (2026-09-10)]] — AI 실적 호조 견인 vs 금리 상승 밸류에이션 부담, 9월 FOMC가 변수
+- [[samsung-welstory-youtube-silver-20260910|삼성웰스토리 유튜브 실버버튼 (2026-09-10)]] — B2B 기업 최초 10만 구독자, 콘텐츠 마케팅으로 브랜드 인지도 확보

@@ -840,3 +840,25 @@
 - concepts/ai-power-bottleneck-gpu-to-power-20260910.md — AI 전력 병목 전이 + 미코 HRSG 인수, 전력 밸류체인 기업 확장 맵 (7개 아웃바운드 링크)
 
 ### 총 196페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 7건 수집 — 강남언니 유출 보상·KAIST-MS NVA·삼성 파운드리·인텔 CPU 인상·SK하이닉스 성과급·미 증시 랠리·삼성웰스토리 유튜브
+
+### Raw 소스 7건 인제스트
+- raw/articles/gangnam-sister-data-leak-compensation-20260910.md — 강남언니 22만 명 개인정보 유출, 5만 포인트 + 1,000만 원 피해 보험 (GeekNews)
+- raw/articles/kaist-ms-neural-value-alignment-20260910.md — KAIST-MS 뇌파 기반 AI 목표 교정 NVA 연구 (GeekNews)
+- raw/articles/samsung-foundry-2nd-place-20260910.md — 삼성 파운드리 TSMC에 밀리고 중국에 쫓기며 2위 사수 (한국경제)
+- raw/articles/intel-cpu-price-hike-ai-supply-20260910.md — 인텔 PC CPU 10% 인상, AI 쏠림→범용 칩 공급난 (한국경제)
+- raw/articles/sk-hynix-bonus-stock-cash-20260910.md — SK하이닉스 성과급 현금 50%·주식 50% 재투표 (한국경제)
+- raw/articles/us-stock-rally-ai-rates-20260910.md — 미 증시 랠리 실적·AI 견인, 금리 상승 최대 변수 (한국경제)
+- raw/articles/samsung-welstory-youtube-silver-20260910.md — 삼성웰스토리 업계 최초 유튜브 실버버튼 (한국경제)
+
+### Concept 페이지 7건 생성
+- concepts/gangnam-sister-data-leak-compensation-20260910.md — 개인정보 유출 보상 구조, 플랫폼 보안 리스크 금융화 (3개 아웃바운드 링크)
+- concepts/kaist-ms-neural-value-alignment-20260910.md — 뇌파 기반 AI 정렬, 행동→인지 신호 패러다임 확장 (3개 아웃바운드 링크)
+- concepts/samsung-foundry-2nd-place-20260910.md — 파운드리 양강→다극 재편, 삼성 2위 사수 전략 (4개 아웃바운드 링크)
+- concepts/intel-cpu-price-hike-ai-supply-20260910.md — AI 수요 크로스오버 효과, 반도체 밸류체인 인플레이션 (3개 아웃바운드 링크)
+- concepts/sk-hynix-bonus-stock-cash-20260910.md — 직원 주주화, 현금 보존→AI 투자, 주주환원 연결 (3개 아웃바운드 링크)
+- concepts/us-stock-rally-ai-rates-20260910.md — AI 실적 vs 금리 리스크 대립, 미 증시→코스피 전파 (3개 아웃바운드 링크)
+- concepts/samsung-welstory-youtube-silver-20260910.md — B2B→D2C 콘텐츠 마케팅, 삼성 계열사 다각화 (3개 아웃바운드 링크)
+
+### 총 203페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
