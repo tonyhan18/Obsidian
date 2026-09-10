@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 205
+> Last updated: 2026-09-10 | Total pages: 210
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -233,3 +233,10 @@
 - [[us-stock-rally-ai-rates-20260910|미 증시 랠리: 실적·AI vs 금리 상승 (2026-09-10)]] — AI 실적 호조 견인 vs 금리 상승 밸류에이션 부담, 9월 FOMC가 변수
 - [[samsung-welstory-youtube-silver-20260910|삼성웰스토리 유튜브 실버버튼 (2026-09-10)]] — B2B 기업 최초 10만 구독자, 콘텐츠 마케팅으로 브랜드 인지도 확보
 - [[ai-economic-impact-2030-20260910|AI 경제 영향 모델 (2030)]] — Anthropic의 task-based 경제 시나리오, AI 도입 속도가 GDP·고용·임금 분극을 결정
+
+## Concepts (2026-09-10 8차 추가)
+- [[kis-global-partnership-20260910|한국투자증권 글로벌 운용사 파트너십 (2026-09-10)]] — 핌코·칼라일·피델리티 MOU, KIS 나이트 네트워크 기반 리서치 독점 공급 및 공동 상품 개발
+- [[ai-ipo-rush-anthropic-20260910|AI 기업 IPO 러시: 앤트로픽 상장 기준점 (2026-09-10)]] — 앤트로픽 2조달러 IPO가 하반기 시장 기준, AI 기업 상장 러시로 밸류에이션 재설정
+- [[meta-muse-stock-surge-20260910|메타 뮤즈 호평과 주가 7% 급등 (2026-09-10)]] — 개인 AI 에이전트 시장 잠재력 시장 검증, 메타 AI 경쟁력 재평가
+- [[etf-circular-investment-20260910|금리형 ETF 순환투자 논란 (2026-09-10)]] — A→B→C→A 순환 편입, AUM 부풀리기·수수료 중복 수취 우려, 당국 점검
+- [[kb-bloomberg-partnership-20260910|KB금융-블룸버그 자본시장 협력 (2026-09-10)]] — 데이터·AI 활용 자본시장 역량 강화, 글로벌 금융정보 기업과 DX 협력

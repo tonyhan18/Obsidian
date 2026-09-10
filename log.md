@@ -4,6 +4,24 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | 한국경제 RSS 5건 수집 — 금융·투자·AI
+- RSS 피드: 한국경제 (증권·경제)
+- 수집된 글 5건, 키워드 필터(투자, 증권, AI, 금리, ETF, 금융) 통과
+- Raw 소스 5건 생성:
+  - raw/articles/kis-global-partnership-20260910.md (한국투자증권, 핌코·피델리티 MOU)
+  - raw/articles/ai-ipo-rush-anthropic-20260910.md (AI 기업 IPO 러시, 앤트로픽 상장)
+  - raw/articles/meta-muse-stock-surge-20260910.md (메타 뮤즈 호평, 주가 7% 급등)
+  - raw/articles/etf-circular-investment-20260910.md (금리형 ETF 순환투자 논란)
+  - raw/articles/kb-bloomberg-partnership-20260910.md (KB금융-블룸버그 업무협약)
+- Concept 페이지 5건 생성:
+  - concepts/kis-global-partnership-20260910.md → [[securities-firm-cash-strategy-20260908]], [[securities-etf-overseas-20260909]], [[securities-polarization-20260908]], [[securities-consensus-top5-20260909]]
+  - concepts/ai-ipo-rush-anthropic-20260910.md → [[ai-ipo-corporate-bond-20260909]], [[ipo-rush-retail-dilemma-20260909]], [[ai-theme-investor-flow-202609]], [[us-stock-rally-ai-rates-20260910]]
+  - concepts/meta-muse-stock-surge-20260910.md → [[meta-muse-agent-20260909]], [[bessent-ai-agent-meta-doom-20260910]], [[ai-infra-rally-expansion-20260909]], [[intel-cpu-price-hike-ai-supply-20260910]], [[flock-safety-surveillance-20260909]], [[ai-safety-alignment]]
+  - concepts/etf-circular-investment-20260910.md → [[us-etf-record-leverage-20260909]], [[leverage-etf-retail-regulation-20260909]], [[securities-polarization-20260908]]
+  - concepts/kb-bloomberg-partnership-20260910.md → [[kb-infrastructure-finance-20260909]], [[kis-global-partnership-20260910]], [[ai-theme-investor-flow-202609]], [[securities-firm-cash-strategy-20260908]]
+- index.md 업데이트: 페이지 수 205→210, 8차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-10] ingest | reasoning-prefill-distillation-20260910
 - 소스: GeekNews (https://news.hada.io/topic?id=33469)
 - 제목: Qwen 3.8, GPT-5.5 Pro의 추론 프리필을 따름
