@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 238
+> Last updated: 2026-09-11 | Total pages: 243
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -276,3 +276,10 @@
 
 ## Concepts (2026-09-10 14차 추가)
 - [[ecb-rate-hike-2-20260910|ECB 전쟁 이후 두번째 금리 인상: 기준금리 2.5% (2026-09-10)]] — ECB 0.25%p 인상으로 2.5% 도달, 양대 중앙은행 정책 분기(Fed 동결 vs ECB 인상), 글로벌 금리 상승 트렌드 연장
+
+## Concepts (2026-09-11 추가)
+- [[openai-research-trust-20260911|OpenAI 연구 신뢰 위기: 구조적 패턴 (2026-09-11)]] — 3차 의혹(Thom 비소픽 군)+학습 설정 강제 재활성화, 개별 사건에서 구조적 신뢰 위기로 확대
+- [[meta-muse-band-account-20260911|밴드 Muse vs Meta AI Muse: 브랜드 식별자 충돌 (2026-09-11)]] — 플랫폼 소유자가 기존 브랜드 소셜 미디어 핸들을 AI 에이전트에 일방 재할당, 디지털 자립 필요성
+- [[rust-microsoft-tier1-20260911|Rust, Microsoft Tier-1 언어로 확정 (2026-09-11)]] — C++/C#/TypeScript 동급 핵심 언어, SDL 준수, 메모리 안전 언어가 빅테크 표준으로 전환
+- [[rate-hike-surge-sp500-20260911|금리 인상 확률 70% 돌파와 S&P500 4일 하락 (2026-09-11)]] — 하루 만에 동결→인상 급반전, 유가-금리-주식 악순환, 9/11 CPI가 경로 확정
+- [[nvidia-palantir-ai-alliance-20260911|엔비디아-팔란티어 AI 연합군과 고유가 2029년 전망 (2026-09-11)]] — GPU+데이터 플랫폼 결합, AI 수요→전력→유가 인플레이션 루프 장기화 가능성

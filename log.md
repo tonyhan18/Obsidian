@@ -4,6 +4,24 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-11] ingest | RSS 9건 수집 — OpenAI 신뢰 위기/Muse 계정명/Rust Tier-1/금리 인상 70%/엔비디아-팔란티어
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 9건, 키워드 필터 통과 9건
+- Raw 소스 5건 생성 (3건 그룹화):
+  - raw/articles/openai-research-trust-20260911.md — Thom 비소픽 군 의혹 + 또 다른 연구자 비판 + 학습 설정 강제 재활성화 (3건 통합)
+  - raw/articles/meta-muse-band-account-20260911.md — 밴드 Muse 계정명 빼앗김 (1건)
+  - raw/articles/rust-microsoft-tier1-20260911.md — Rust Microsoft Tier-1 언어 (1건)
+  - raw/articles/rate-hike-surge-sp500-20260911.md — 금리 인상 확률 70% + Fed 시나리오 + S&P500 4일 하락 (3건 통합)
+  - raw/articles/nvidia-palantir-ai-alliance-20260911.md — 엔비디아-팔란티어 AI 연합 + 고유가 2029 (1건)
+- Concept 페이지 5건 생성:
+  - concepts/openai-research-trust-20260911.md → [[openai-math-fairness-20260909]], [[openai-math-plagiarism-2-20260910]], [[ai-math-breakthrough-controversy-20260909]], [[self-hosting-digital-autonomy]], [[ai-safety-alignment]], [[tao-math-mining-20260909]], [[anthropic-resignation-safety-20260909]] (7개 아웃바운드)
+  - concepts/meta-muse-band-account-20260911.md → [[meta-muse-agent-20260909]], [[meta-muse-stock-surge-20260910]], [[self-hosting-digital-autonomy]], [[ai-safety-alignment]] (4개 아웃바운드)
+  - concepts/rust-microsoft-tier1-20260911.md → [[reverse-roadmap]], [[producer-focus]], [[taste-and-ai]], [[build-vs-buy-ai]] (4개 아웃바운드)
+  - concepts/rate-hike-surge-sp500-20260911.md → [[us-economists-rate-hold-20260910]], [[oil-surge-semiconductor-rebound-20260909]], [[us-treasury-yield-20260908]], [[bessent-rate-bet-yen-semiconductor-20260910]], [[ecb-rate-hike-2-20260910]], [[commodity-super-rally-20260910]], [[dollar]], [[semiconductor-industry]] (8개 아웃바운드)
+  - concepts/nvidia-palantir-ai-alliance-20260911.md → [[ai-infra-rally-expansion-20260909]], [[commodity-super-rally-20260910]], [[oil-surge-semiconductor-rebound-20260909]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[rate-hike-surge-sp500-20260911]], [[semiconductor-industry]], [[dollar]] (7개 아웃바운드)
+- index.md 업데이트: 페이지 수 238→243, 2026-09-11 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-10] ingest | RSS 1건 수집 — ECB 전쟁 이후 두번째 금리 인상
 - ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
 - RSS 피드: 한국경제-경제
