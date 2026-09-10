@@ -1011,3 +1011,30 @@
 - concepts/kospi-quad-witching-20260910.md — 만기일 결과(7,033.92 -0.25%) 섹션 추가, 외국인 순매도·반도체 약보합·유가 101달러 실현
 
 ### 총 217페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+---
+
+## 2026-09-10 21:16 — 13차 위키 업데이트 (RSS 자동 수집)
+
+### RSS 수집
+- 스크립트: python3 ~/.hermes/scripts/wiki-collector.py
+- new_articles_count: 4
+- 소스: GeekNews (1건), 한국경제-증권 (1건), 한국경제-경제 (2건)
+
+### Raw 소스 파일 4건 생성
+- raw/articles/blizzard-union-agreement-20260910.md — Blizzard 노동자 단체협약 (GeekNews)
+- raw/articles/musinsa-ipo-valuation-20260910.md — 무신사 코스피 상장 추진 (한경 증권)
+- raw/articles/tsmc-revenue-surge-20260910.md — TSMC 8월 매출 53% 급증 (한경 경제)
+- raw/articles/huawei-hbm-price-hike-20260910.md — 화웨이 AI칩 가격 대폭 인상 (한경 경제)
+
+### Concept 페이지 4건 생성
+- concepts/blizzard-union-ai-labor-20260910.md — Blizzard 단체협약, AI 교섭 의무, 14개월 재고용 권리 (3개 아웃바운드 링크: ai-rto-satire, ai-org-transformation, ai-game-asset-generation)
+- concepts/musinsa-ipo-valuation-20260910.md — 무신사 IPO 10조 밸류에이션, 쉬인 함정, 수익성 악화 (3개 아웃바운드 링크: ipo-rush-retail-dilemma, foreigner-korean-snack, 기업 분석)
+- concepts/tsmc-revenue-surge-20260910.md — TSMC 8월 매출 53% 급증, 파운드리 독점 강화 (4개 아웃바운드 링크: samsung-foundry-2nd-place, samsung-tsmc-niche, semiconductor-industry, samsung-electronics, sk-hynix, ai-power-bottleneck)
+- concepts/huawei-hbm-price-hike-20260910.md — 화웨이 AI칩 60% 인상, HBM 병목, 자립 한계 (4개 아웃바운드 링크: samsung-electronics, sk-hynix, china-lithography-equipment, huawei-ai-chip-geopolitics, china-ai-export)
+
+### index.md 업데이트
+- Total pages: 229 → 237
+- Concepts (2026-09-10 13차 추가) 섹션 생성, 4개 페이지 추가
+
+### 총 237페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (각 3~4개 아웃바운드 링크)
