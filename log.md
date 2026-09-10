@@ -913,3 +913,32 @@
 - concepts/ai-economic-impact-2030-20260910.md — AI 경제 영향 모델 (2030): task-based 접근, 3채널(보조·자동화·새업무), 3시나리오(완만·상당·급진), 도입 속도가 핵심 변수 (4개 아웃바운드 링크)
 
 ### 총 205페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+---
+
+## 2026-09-10 17:05 — 위키 자동 업데이트 (10차)
+
+### 수집
+- RSS 수집 스크립트 `~/.hermes/scripts/wiki-collector.py` 실행 — 7건 새 글 수집
+- 소스: GeekNews(1), 한국경제-증권(4), 한국경제-IT(1), 한국경제-경제(1)
+
+### Raw 소스 파일 6건 생성 (1건 중복)
+- raw/articles/async-await-design-space-20260910.md — async/await 설계 공간 탐색 (GeekNews)
+- raw/articles/k-robot-stocks-astra-20260910.md — 아스트라 AI 투자 열기 K-로봇주 (한경 증권)
+- raw/articles/apple-foldable-beneficiary-stocks-20260910.md — 애플 폴더블 수혜주 비에이치·파인엠텍 (한경 증권)
+- raw/articles/kospi-quad-witching-result-20260910.md — 네 마녀의 날 코스피 0.25% 하락 칠천피 사수 (한경 증권)
+- raw/articles/aprilbio-curigin-bayer-rna-20260910.md — 에이프릴바이오 큐리진 바이엘 RNA 협력 (한경 IT)
+- raw/articles/korea-zinc-proxy-fight-20260910.md — 고려아연 임시주총 현 경영진 압승 (한경 경제)
+- 중복 제외: 증권사 2분기 5조 (이미 securities-q2-record-profit-20260910.md 존재)
+
+### Concept 페이지 4건 생성
+- concepts/async-await-design-space-20260910.md — async/await 설계 공간: 9개 설계 차원, 7개 런타임 4가지 출력, 형식 의미론 (3개 아웃바운드 링크)
+- concepts/k-robot-stocks-astra-20260910.md — K-로봇주: 씨메스로보틱스 +13%, 징둥물류 300만대, 피지컬 AI 투자 확장 (4개 아웃바운드 링크)
+- concepts/aprilbio-curigin-bayer-rna-20260910.md — 에이프릴바이오-큐리진 바이엘 RNA 협력, 차세대 AOC, 한국 바이오 글로벌 진출 (3개 아웃바운드 링크)
+- concepts/korea-zinc-proxy-fight-20260910.md — 고려아연 임시주총 압승, 외국인 98.3% 지지, 105분기 흑자, 주주환원 (3개 아웃바운드 링크)
+
+### 기존 페이지 2건 업데이트
+- concepts/apple-iphone-duo-foldable-20260910.md — 수혜 종목(비에이치·파인엠텍) 섹션 추가, 삼성증권 400달러 재료비 분석
+- concepts/kospi-quad-witching-20260910.md — 만기일 결과(7,033.92 -0.25%) 섹션 추가, 외국인 순매도·반도체 약보합·유가 101달러 실현
+
+### 총 217페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨

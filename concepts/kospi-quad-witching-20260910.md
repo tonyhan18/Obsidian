@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [시황, 매매전략, 리스크관리]
-sources: [raw/articles/kospi-quad-witching-20260910.md]
+sources: [raw/articles/kospi-quad-witching-20260910.md, raw/articles/kospi-quad-witching-result-20260910.md]
 confidence: medium
 ---
 
@@ -43,3 +43,14 @@ confidence: medium
 - [[inverse-retail-betting-202609|인버스 베팅]] — 만기일 개인 투자자 행태
 
 ^[raw/articles/kospi-quad-witching-20260910.md]
+
+### 만기일 결과: 0.25% 하락, 칠천피 사수 (2026-09-10 업데이트)
+- **코스피 마감 7,033.92** (-17.72p, -0.25%) — 변동성 끝에 소폭 하락, 7,000선 방어
+- 장중 상승·하락 반전 반복, 6,900선 밑으로 하락하기도 — 예상대로 큰 변동성
+- **외국인 순매도:** 현물 2조4900억 + 선물 1조8700억 → 만기일 포지션 청산 주도
+- **기관·개인 매수우위:** 각각 4610억, 3620억 — 외국인 매도 흡수
+- **반도체 투톱 약보합:** 삼성전자 -0.19%, SK하이닉스 -0.16% — 만기일 수급 압력
+- **코스닥 +0.79%** (836.92) — 기관 1조3490억 순매수, 중소형주 순환매 수혜
+- **매크로 중첩 확인:** 브렌트유 101.21달러(3.36% 상승), 미 10년물 4.85% — 예상 헤드윈드 실현
+- **원달러 환율 1,339.2원** (+3.1원) — 유가 급등 → 환율 상승 압력
+^[raw/articles/kospi-quad-witching-result-20260910.md]

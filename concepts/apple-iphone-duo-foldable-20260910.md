@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md, raw/articles/iphone-2000-dollar-foldable-20260910.md]
+sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md, raw/articles/iphone-2000-dollar-foldable-20260910.md, raw/articles/apple-foldable-beneficiary-stocks-20260910.md]
 confidence: medium
 ---
 
@@ -57,3 +57,10 @@ confidence: medium
 - [[apple-event-2026-09-09-summary|애플 2026년 9월 이벤트 총정리]] — 전 제품군 하드웨어 혁신 대중화 전략 일관성
 ^[raw/articles/iphone-duo-display-stocks-20260910.md]
 ^[raw/articles/iphone-2000-dollar-foldable-20260910.md]
+
+### 수혜 종목: 비에이치·파인엠텍 (2026-09-10 업데이트)
+- 삼성증권: 아이폰 듀오 1,999달러 → 대당 약 400달러 추가 재료비 여력 분석
+- 디스플레이·힌지 등 폼팩터 부품사 실적 개선 전망
+- 증권가 "사라(Sell)" 외친 수혜 종목: 비에이치(BH), 파인엠텍
+- 2,000달러 스마트폰 시대 → 부품사 마진 개선 기대 구체화
+^[raw/articles/apple-foldable-beneficiary-stocks-20260910.md]
