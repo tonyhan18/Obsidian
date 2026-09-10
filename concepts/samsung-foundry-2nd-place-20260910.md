@@ -1,10 +1,10 @@
 ---
 title: "삼성 파운드리 2위 사수: 대만에 밀리고 중국에 쫓기는 구도 (2026-09-10)"
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-11
 type: concept
 tags: [섹터분석, 주식]
-sources: [raw/articles/samsung-foundry-2nd-place-20260910.md]
+sources: [raw/articles/samsung-foundry-2nd-place-20260910.md, raw/articles/samsung-hbm-foundry-20260911.md]
 confidence: medium
 ---
 
@@ -37,10 +37,19 @@ confidence: medium
 - 2위 → 3위 추락 시 파운드리 투자 회수 기간 연장 → 주가 부담
 - [[ai-model-competition-samsung-20260909|AI 모델 경쟁과 삼성 수혜]]와 대조 — AI 수요는 파운드리에도 기회이나 경쟁 심화
 
+## 2026-09-11 업데이트: 0.5%p 격차 + 파운드리 부활 선언
+
+삼성 파운드리 2위-3위 격차가 **고작 0.5%p**로 확인되며 2위 자리가 '흔들'리고 있다. 동시에 삼성은 HBM 40% 점유율 목표와 함께 파운드리 부활을 선언했다 ([[samsung-hbm-foundry-20260911|삼성 HBM 40% + 파운드리 부활]] 참조).
+
+- 0.5%p 격차 = 2위 탈환 위험 구체화 — 부활 선언과 현실의 괴리
+- [[samsung-hbm-foundry-20260911|삼성 HBM 40% + 파운드리 부활]]에서 논의한 양축 회복 전략의 일환
+- 부활 선언(의지) vs 0.5%p 격차(현실) — 시장이 판단할 것은 실행력
+
 ## 미해결 질문
 - 삼성 파운드리가 TSMC와의 격차를 축소할 수 있는 기술적 전환점은?
 - 중국 파운드리의 실질적 기술 수준과 삼성과의 격차는?
 - 파운드리 2위 사수가 삼성전자 주가에 미치는 민감도는?
+- 0.5%p 격차를 벌릴 구체적 전략은 무엇인가?
 
 ## 관계
 - [[samsung-electronics|삼성전자]] — 파운드리 사업부의 모기업

@@ -4,6 +4,32 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-11] ingest | RSS 12건 수집 — ChatGPT Pro 중단 실현/SWE-2/드러켄밀러/삼성 HBM·파운드리/두산 원전/외국인 매수/반도체 급락/채용 경쟁
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 12건, 키워드 필터 통과 12건
+- 스킵 2건: 밴드 Muse 계정명 (기존 meta-muse-band-account-20260911.md와 중복), 제주 경제 위기 (도메인 외)
+- Raw 소스 7건 생성:
+  - raw/articles/cognition-swe-2-20260911.md — Cognition SWE-2 코딩 모델, Kimi K3 기반, 비용 64% 절감
+  - raw/articles/druckenmiller-ai-late-macro-20260911.md — 드러켄밀러 "AI 붐 후반" + 유가 100달러·10년물 5%
+  - raw/articles/samsung-hbm-foundry-20260911.md — 삼성 HBM 40% + 파운드리 부활 + 0.5%p 격차 (2건 통합)
+  - raw/articles/doosan-nuclear-us-investment-20260911.md — 두산에너빌리티 핵심 원전주 + 김정관 대미 투자 (2건 통합)
+  - raw/articles/foreign-net-buying-h2-20260911.md — 외국인 하반기 순매수 1위, 주가 반토막
+  - raw/articles/ny-market-semiconductor-plunge-20260911.md — 뉴욕증시 반도체 급락, 유가·금리 악순환
+  - raw/articles/samsung-sk-recruitment-20260911.md — 삼성·SK 대학생 채용 경쟁 과열
+- Concept 페이지 6건 생성:
+  - concepts/cognition-swe-2-20260911.md → [[gpt-6-astra]], [[gpt6-astra-token-economics-20260908]], [[kimi-k3-local-streaming-20260909]], [[ai-model-competition-samsung-20260909]], [[semiconductor-industry]] (5개 아웃바운드)
+  - concepts/druckenmiller-ai-late-macro-20260911.md → [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[rate-hike-surge-sp500-20260911]], [[ai-theme-investor-flow-202609]], [[ai-economic-impact-2030-20260910]], [[dollar]], [[us-treasury-yield-20260908]] (7개 아웃바운드)
+  - concepts/samsung-hbm-foundry-20260911.md → [[samsung-electronics]], [[sk-hynix]], [[samsung-foundry-2nd-place-20260910]], [[ai-model-competition-samsung-20260909]], [[semiconductor-industry]] (5개 아웃바운드)
+  - concepts/doosan-nuclear-us-investment-20260911.md → [[us-investment-beneficiaries-20260908]], [[us-energy-investment-100b-20260910]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[holtec-smr-ipo-nuclear-export-20260909]], [[doosan-fuelcell-datacenter-20260909]], [[dollar]] (6개 아웃바운드)
+  - concepts/foreign-net-buying-h2-20260911.md → [[inverse-retail-betting-202609]], [[kospi-eps-slowdown-20260908]], [[retail-investor-golden-age-20260910]], [[semiconductor-industry]], [[samsung-hbm-foundry-20260911]], [[druckenmiller-ai-late-macro-20260911]] (6개 아웃바운드)
+  - concepts/samsung-sk-recruitment-20260911.md → [[bu-by-bu]], [[reverse-roadmap]], [[taste-and-ai]], [[ai-rto-satire-20260909]], [[samsung-hbm-foundry-20260911]], [[ai-model-competition-samsung-20260909]] (6개 아웃바운드)
+- 기존 페이지 업데이트 3건:
+  - concepts/chatgpt-pro-pause-infra-bottleneck-20260909.md — $200 플랜 일시중단 실현 섹션, source 추가
+  - concepts/samsung-foundry-2nd-place-20260910.md — 0.5%p 격차 + 파운드리 부활 선언 섹션, source 추가
+  - concepts/rate-hike-surge-sp500-20260911.md — 뉴욕증시 반도체 급락 섹션, source 추가
+- index.md 업데이트: 페이지 수 243→249, 2026-09-11 2차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-11] ingest | RSS 9건 수집 — OpenAI 신뢰 위기/Muse 계정명/Rust Tier-1/금리 인상 70%/엔비디아-팔란티어
 - RSS 피드: GeekNews, 한국경제 (증권·경제)
 - 수집된 글 9건, 키워드 필터 통과 9건

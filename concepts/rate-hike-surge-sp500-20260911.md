@@ -4,7 +4,7 @@ created: 2026-09-11
 updated: 2026-09-11
 type: concept
 tags: [매크로, 시황, 리스크관리]
-sources: [raw/articles/rate-hike-surge-sp500-20260911.md]
+sources: [raw/articles/rate-hike-surge-sp500-20260911.md, raw/articles/ny-market-semiconductor-plunge-20260911.md]
 confidence: medium
 ---
 
@@ -42,6 +42,11 @@ confidence: medium
 - [[oil-surge-semiconductor-rebound-20260909|유가 100달러]] → 인플레이션 압력 → 금리 인상 압력 → 주식 하락
 - [[commodity-super-rally-20260910|원자재 슈퍼랠리]]의 인플레이션 압력이 금리 경로를 근본적으로 변환
 - [[us-treasury-yield-20260908|미 장기채 금리 상승]] 트렌드 가속 — 10년물 4.8% 돌파 후 추가 상승 가능성
+
+### 뉴욕증시 반도체주 급락 (2026-09-11)
+- 유가·미 국채금리 급등에 뉴욕증시 일제 하락, 반도체주 특히 급락
+- 유가-금리-반도체 악순환이 가속화하는 구도 실현
+- [[druckenmiller-ai-late-macro-20260911|드러켄밀러 "AI 붐 후반"]] 진단과 정합: AI 붐 후반 + 금리 인상 = 반도체 이중 리스크
 
 ### 한국 시장 전파
 - 미국 금리 인상 → [[dollar|달러]] 강세 → 원/달러 환율 상승 압력
