@@ -4,7 +4,7 @@ created: 2026-09-09
 updated: 2026-09-09
 type: concept
 tags: [매크로, 시황, 달러]
-sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md, raw/articles/oil-100-rate-hike-20260910.md, raw/articles/oil-surge-refining-stocks-20260910.md, raw/articles/ny-market-oil-treasury-dip-20260910.md]
+sources: [raw/articles/oil-surge-ny-market-dip-20260909.md, raw/articles/middle-east-oil-100-20260909.md, raw/articles/ms-semiconductor-momentum-20260909.md, raw/articles/high-oil-beneficiaries-20260909.md, raw/articles/us-iran-strike-oil-100-20260909.md, raw/articles/oil-100-rate-hike-20260910.md, raw/articles/oil-surge-refining-stocks-20260910.md, raw/articles/ny-market-oil-treasury-dip-20260910.md, raw/articles/oil-100-hormuz-inflation-20260910.md, raw/articles/hormuez-oil-opacity-20260910.md]
 confidence: medium
 updated: 2026-09-10
 ---
@@ -105,3 +105,12 @@ updated: 2026-09-10
 - 금리 인하 기대 축소 → 기술주·성장주 중심 조정
 - 9/11 CPI 발표 직전 매크로 불확실성 극대화 — [[us-treasury-yield-20260908|미 장기채 금리 상승]] 트렌드 지속
 ^[raw/articles/ny-market-oil-treasury-dip-20260910.md]
+
+### 호르무즈 해협 마비·정보 불투명, 불확실성 프리미엄 확대 (2026-09-10 업데이트)
+- 유가 100달러 재돌파 — 호르무즈 해협 교통 마비 우려로 인플레이션 경고 강화
+- 호르무즈 통과 원유량 정보가 "깜깜이" 상태 — 정보 비대칭 자체가 유가 상승 압력
+- 중동 공급 차질 우려가 불확실성 프리미엄으로 가격에 반영 — 실제 공급 감소와 공포 프리미엄 구분 필요
+- 9/11 CPI 발표 직전 인플레이션 압력 극대화 — [[kospi-quad-witching-20260910|코스피 네 마녀의 날]] 변동성과 겹침
+- 정보 불투명이 시장 불안을 증폭시키는 구조 — 투명성 회복이 안정화 조건
+^[raw/articles/oil-100-hormuz-inflation-20260910.md]
+^[raw/articles/hormuez-oil-opacity-20260910.md]

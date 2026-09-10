@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 181
+> Last updated: 2026-09-10 | Total pages: 193
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -207,3 +207,11 @@
 - [[airpods-5-anc-20260910|AirPods 5 ANC 대중화 (2026-09-10)]] — 기본 모델 ANC 탑재, 노이즈 캔슬링 기본 사양 전환
 - [[bessent-ai-agent-meta-doom-20260910|베선트 AI 에이전트 경제와 메타 멸망 10% (2026-09-10)]] — 금리 정책 한계, 에이전트 경제, AI 안전성 경고
 - [[bigtech-stock-options-ai-supply-20260910|빅테크 주식매수권과 AI 공급망 재편 (2026-09-10)]] — 구매→자본·지분 결합, AI 인프라 독점화 가속
+
+## Concepts (2026-09-10 5차 추가)
+- [[proliferate-parallel-agent-ide-20260910|Proliferate: 다중 에이전트 병렬 코딩 IDE (2026-09-10)]] — 여러 코딩 에이전트를 병렬 실행하는 오픈소스 IDE, Git worktree 격리로 충돌 방지
+- [[human-software-ai-refusal-20260910|인간을 위한 소프트웨어: AI 거부 운동 (2026-09-10)]] — clankerfree(AI 없는 소프트웨어 목록)와 확률적 앵무새 거부 선언, 인지 주권의 행동화
+- [[apple-event-2026-09-09-summary|애플 2026년 9월 이벤트 총정리 (2026-09-10)]] — iPhone Duo·18 Pro·Watch Ultra 4·AirPods 5 동시 공개, 전 제품군 하드웨어 혁신 대중화 전략
+- [[kospi-quad-witching-20260910|코스피 네 마녀의 날 경계감 (2026-09-10)]] — 파생상품 만기 집중일 + 유가 100달러 + CPI 직전 불확실성, 변동성 확대
+- [[smic-aice-ai-training-20260910|중진공 AICE 현장형 AI 인재 양성 (2026-09-10)]] — 중소기업 대상 AI 인력 공급, 국가 AI 전략 실용화의 인력 양성 축
+- [[foreigner-korean-snack-20260910|외국인 한국 과자 구매 열기 (2026-09-10)]] — K-푸드 수출 트렌드 확장, 소비재 기업 글로벌 진출 간접 지표

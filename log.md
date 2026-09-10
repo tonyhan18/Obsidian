@@ -797,3 +797,31 @@
 - entities/semiconductor-industry.md — 반도체 매출 2012조원 메모리 왕좌 섹션 추가, 소스 1건 추가, updated 갱신
 
 ### 총 181페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | RSS 10건 수집 — 다중 에이전트 IDE·AI 거부·애플 이벤트·유가 호르무즈·코스피 만기일
+
+### Raw 소스 10건 인제스트
+- raw/articles/proliferate-parallel-agent-ide-20260910.md — Proliferate 다중 에이전트 병렬 코딩 IDE (GeekNews)
+- raw/articles/clankerfree-human-software-20260910.md — AI 미사용 소프트웨어 큐레이션 clankerfree (GeekNews)
+- raw/articles/apple-event-2026-09-09.md — 애플 9월 이벤트 전 제품군 공개 (GeekNews)
+- raw/articles/stochastic-parrot-refusal-20260910.md — "확률적 앵무새와 상호작용 거부" 선언 (GeekNews)
+- raw/articles/kospi-quad-witching-20260910.md — 코스피 네 마녀의 날 경계감 (한국경제-증권)
+- raw/articles/smic-aice-ai-training-20260910.md — 중진공 AICE 현장형 AI 인재 양성 (한국경제-IT)
+- raw/articles/foreigner-korean-snack-20260910.md — 외국인 한국 과자 구매 열기 (한국경제-경제)
+- raw/articles/oil-100-hormuz-inflation-20260910.md — 유가 100달러 재돌파, 호르무즈 마비 인플레 경고 (한국경제-경제)
+- raw/articles/hormuez-oil-opacity-20260910.md — 호르무즈 원유량 깜깜이, 불확실성 프리미엄 (한국경제-경제)
+- raw/articles/iphone-2000-dollar-foldable-20260910.md — 아이폰 2000달러 폴더블 공개 (한국경제-경제)
+
+### Concept 페이지 6건 생성
+- concepts/proliferate-parallel-agent-ide-20260910.md — 다중 에이전트 병렬 코딩 IDE, Git worktree 격리 (4개 아웃바운드 링크)
+- concepts/human-software-ai-refusal-20260910.md — clankerfree + 확률적 앵무새 거부, 인지 주권 행동화 (4개 아웃바운드 링크)
+- concepts/apple-event-2026-09-09-summary.md — 애플 9월 이벤트 총정리, 하드웨어 혁신 대중화 전략 (5개 아웃바운드 링크)
+- concepts/kospi-quad-witching-20260910.md — 네 마녀의 날 + 유가·CPI 중첩 변동성 (4개 아웃바운드 링크)
+- concepts/smic-aice-ai-training-20260910.md — 중소기업 AI 인력 양성, 국가 AI 전략 연계 (3개 아웃바운드 링크)
+- concepts/foreigner-korean-snack-20260910.md — K-푸드 수출 트렌드, 소비재 글로벌 진출 (3개 아웃바운드 링크)
+
+### 기존 페이지 업데이트 2건
+- concepts/oil-surge-semiconductor-rebound-20260909.md — 호르무즈 마비·정보 불투명 섹션 추가, 소스 2건 추가
+- concepts/apple-iphone-duo-foldable-20260910.md — 2000달러 스마트폰 섹션에 애플 이벤트 총정리 링크 추가, 소스 1건 추가
+
+### 총 193페이지, 모든 신규/업데이트 페이지 기존 페이지와 wikilinks로 연결됨

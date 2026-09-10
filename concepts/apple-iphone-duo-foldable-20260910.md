@@ -4,7 +4,7 @@ created: 2026-09-10
 updated: 2026-09-10
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md]
+sources: [raw/articles/apple-iphone-duo-foldable-20260910.md, raw/articles/iphone-duo-display-stocks-20260910.md, raw/articles/iphone-2000-dollar-foldable-20260910.md]
 confidence: medium
 ---
 
@@ -54,4 +54,6 @@ confidence: medium
 - 삼성디스플레이·BOE 등 폴더블 OLED 패널 제조사 직접 수혜
 - 프리미엄 가격대 유지 → 부품사 마진 개선 기대
 - [[semiconductor-industry|반도체 산업]]과 연결: 디스플레이 드라이버 IC·메모리 수요 동반 확대
+- [[apple-event-2026-09-09-summary|애플 2026년 9월 이벤트 총정리]] — 전 제품군 하드웨어 혁신 대중화 전략 일관성
 ^[raw/articles/iphone-duo-display-stocks-20260910.md]
+^[raw/articles/iphone-2000-dollar-foldable-20260910.md]
