@@ -4,6 +4,14 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-10] ingest | RSS 1건 수집 — ECB 전쟁 이후 두번째 금리 인상
+- ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
+- RSS 피드: 한국경제-경제
+- 수집된 글 1건, 키워드 필터 통과 1건 ("금리" 매칭)
+- 신규 페이지 생성: `raw/articles/ecb-rate-hike-2-20260910.md`, `concepts/ecb-rate-hike-2-20260910.md`
+- 연결: [[us-treasury-yield-20260908]], [[us-economists-rate-hold-20260910]], [[dollar]], [[commodity-super-rally-20260910]]
+- index.md 업데이트: 14차 추가 섹션, Total pages 237→238
+
 ## [2026-09-10] ingest | RSS 1건 수집 — 하나금융 발달장애인 벽화 조성 (도메인 외 스킵)
 - ⚠️ 크론 스크립트 오류 재발: `Script not found: /Users/mac/.hermes/scripts/python3 ~/.hermes/scripts/wiki-collector.py` — 크론 `script` 필드를 쉘 명령어가 아닌 파일 경로로 파싱. 수동 실행으로 복구.
 - RSS 피드: 한국경제 (증권·IT·경제)
