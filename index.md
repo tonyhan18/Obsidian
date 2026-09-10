@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 203
+> Last updated: 2026-09-10 | Total pages: 204
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -105,6 +105,9 @@
 ## Concepts (2026-09-09 8차 추가)
 - [[wave-programming-language-20260909|Wave 프로그래밍 언어: LLVM 기반 시스템 프로그래밍 (2026-09-09)]] — C/Rust 영감의 새 언어, LLVM 백엔드, AI 시대 새 언어 진입 장벽 변화
 - [[tesla-solar-roof-discontinuation-20260909|Tesla Solar Roof 단종과 플랫폼 의존 리스크 (2026-09-09)]] — 7년 3,000개 설치, 주당 21~32건 vs 목표 1,000건, 파트너 매몰 비용 리스크
+
+## Concepts (2026-09-10 추가)
+- [[reasoning-prefill-distillation-20260910|추론 프리필: GPT-5.5 Pro 추론 패턴의 경량 모델 전달 (2026-09-10)]] — 추론 첫 1% 주입으로 응답 중복 점수 2배 상승, 파인튜닝 없는 추론 증류 기법
 
 ## Comparisons
 - [[gold-vs-bitcoin|금 vs 비트코인]] — 달러 약세기 헤지 자산 비교

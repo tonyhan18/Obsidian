@@ -4,7 +4,7 @@ created: 2026-09-08
 updated: 2026-09-10
 type: entity
 tags: [인사이트]
-sources: [raw/articles/gpt-6-astra-capabilities.md, raw/articles/build-vs-buy-ai.md, raw/articles/gpt6-astra-loop-transformer-20260910.md]
+sources: [raw/articles/gpt-6-astra-capabilities.md, raw/articles/build-vs-buy-ai.md, raw/articles/gpt6-astra-loop-transformer-20260910.md, raw/articles/reasoning-prefill-distillation-20260910.md]
 confidence: high
 ---
 
@@ -50,3 +50,4 @@ confidence: high
 - 관련 컨셉: [[science-vs-engineering-hype]] — AI 모델 능력 주장의 독립적 검증 필요성
 - 관련 컨셉: [[gpt6-astra-token-economics-20260908]] — 토큰 비용 현실과 AI 코딩 비용 전망
 - 관련 컨셉: [[gpt6-astra-loop-transformer-20260910]] — 루프형 트랜스포머 구조와 해석 가능성 저하 (2026-09-10 업데이트)
+- 관련 컨셉: [[reasoning-prefill-distillation-20260910]] — 추론 프리필로 GPT-5.5 Pro 추론 패턴을 경량 모델에 전달, 하네스 수준 추론 관리 (2026-09-10 업데이트)
