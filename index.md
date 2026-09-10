@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-10 | Total pages: 204
+> Last updated: 2026-09-10 | Total pages: 205
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -232,3 +232,4 @@
 - [[sk-hynix-bonus-stock-cash-20260910|SK하이닉스 성과급 현금 50%·주식 50% (2026-09-10)]] — 직원 주주화, 현금 보존→AI 인프라 투자, 주주환원과 보상의 연결
 - [[us-stock-rally-ai-rates-20260910|미 증시 랠리: 실적·AI vs 금리 상승 (2026-09-10)]] — AI 실적 호조 견인 vs 금리 상승 밸류에이션 부담, 9월 FOMC가 변수
 - [[samsung-welstory-youtube-silver-20260910|삼성웰스토리 유튜브 실버버튼 (2026-09-10)]] — B2B 기업 최초 10만 구독자, 콘텐츠 마케팅으로 브랜드 인지도 확보
+- [[ai-economic-impact-2030-20260910|AI 경제 영향 모델 (2030)]] — Anthropic의 task-based 경제 시나리오, AI 도입 속도가 GDP·고용·임금 분극을 결정

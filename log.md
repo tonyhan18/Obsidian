@@ -870,3 +870,13 @@
 - concepts/samsung-welstory-youtube-silver-20260910.md — B2B→D2C 콘텐츠 마케팅, 삼성 계열사 다각화 (3개 아웃바운드 링크)
 
 ### 총 203페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
+
+## [2026-09-10] ingest | Anthropic AI 경제 모델 2030
+
+### Raw 소스 1건 수집
+- raw/articles/anthropic-ai-economic-model-2030-20260910.md — GeekNews, Anthropic이 AI 도입 속도별 2030년 미국 GDP·고용·임금 시나리오를 task-based 모델로 추정
+
+### Concept 페이지 1건 생성
+- concepts/ai-economic-impact-2030-20260910.md — AI 경제 영향 모델 (2030): task-based 접근, 3채널(보조·자동화·새업무), 3시나리오(완만·상당·급진), 도입 속도가 핵심 변수 (4개 아웃바운드 링크)
+
+### 총 205페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨
