@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-11 | Total pages: 283
+> Last updated: 2026-09-12 | Total pages: 288
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -331,3 +331,10 @@
 - [[samsung-ena-saudi-plant-20260911|삼성E&A 사우디 4.7조 비료 플랜트 (2026-09-11)]] — 올해 건설사 해외 수주 최대, 해외건설 시공→첨단 인프라 재편
 - [[samsung-water-recycling-20260911|삼성 하수처리수 재활용 (2026-09-11)]] — 33만t 하수처리수 반도체 공장 활용, 물 스트레스 ESG 대응
 - [[ai-rice-mlcc-energy-20260911|3중 악재 속 AI 산업 쌀 상한가 (2026-09-11)]] — MLCC·에너지·전력 섹터 강세, 섹터 로테이션 가속
+
+## Concepts (2026-09-12 추가)
+- [[waymo-effect-research-collaboration-20260912|Waymo 효과: AI가 연구 협업을 조용히 줄이는 방식 (2026-09-12)]] — AI가 협업 마찰을 제거하지만 마찰 속 돌발적 인사이트와 공동 사고도 사라짐
+- [[creativity-as-moat-20260912|창의성이 새로운 해자 (2026-09-12)]] — AI로 복제가 쉬워진 세상, 경쟁 우위는 결과물이 아닌 지속적 창의성에
+- [[ai-news-overload-hn-20260912|AI 뉴스 홍수와 기술 커뮤니티 다양성 (2026-09-12)]] — AI 주제가 기술 커뮤니티 피드를 점유하며 다양한 기술 관심사 밀려남
+- [[core-cpi-rate-hike-20260912|근원 CPI 컨센서스 상회와 금리 인상 확률 급등 (2026-09-12)]] — 미 8월 근원 CPI 컨센서스 상회, 중동 물가 쇼크로 금리 인상 확률 급등
+- [[semiconductor-boom-smartphone-anxiety-20260912|반도체 호황 vs 스마트폰 교체 불안 (2026-09-12)]] — 삼성·SK 반도체 호황 vs 소비자 스마트폰 교체 지연, B2B-B2C 수요 분리

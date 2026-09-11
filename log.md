@@ -4,6 +4,28 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-12] ingest | RSS 8건 수집 — Waymo 효과/창의성 해자/AI 뉴스 홍수/Navier-Stokes Lean4/근원 CPI/반도체-스마트폰 괴리
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 8건, 키워드 필터 통과 8건
+- Raw 소스 6건 생성:
+  - raw/articles/waymo-effect-research-collaboration-20260912.md — Waymo 효과, AI가 연구 협업 마찰 제거의 부작용
+  - raw/articles/creativity-as-moat-20260912.md — 창의성이 새로운 해자, AI 복제 시대의 경쟁 우위 이동
+  - raw/articles/ai-news-overload-hn-20260912.md — AI 뉴스 홍수, HN 피드 다양성 저하
+  - raw/articles/navier-stokes-lean4-20260912.md — OpenAI Navier-Stokes Lean 4 형식 증명 공개
+  - raw/articles/core-cpi-rate-hike-20260912.md — 미 8월 근원 CPI 컨센서스 상회, 금리 인상 확률 급등 (3건 통합)
+  - raw/articles/semiconductor-boom-smartphone-anxiety-20260912.md — 삼성·SK 반도체 호황 vs 스마트폰 교체 불안
+- Concept 페이지 5건 생성:
+  - concepts/waymo-effect-research-collaboration-20260912.md → [[llm-cognitive-impact]], [[ai-cognitive-management]], [[taste-and-ai]], [[ai-safety-alignment]], [[creativity-as-moat-20260912]] (5개 아웃바운드)
+  - concepts/creativity-as-moat-20260912.md → [[taste-and-ai]], [[waymo-effect-research-collaboration-20260912]], [[science-vs-engineering-hype]], [[build-vs-buy-ai]], [[startup-brand-clock-speed]] (5개 아웃바운드)
+  - concepts/ai-news-overload-hn-20260912.md → [[ai-cognitive-management]], [[llm-cognitive-impact]], [[taste-and-ai]], [[waymo-effect-research-collaboration-20260912]] (4개 아웃바운드)
+  - concepts/core-cpi-rate-hike-20260912.md → [[rate-hike-surge-sp500-20260911]], [[kospi-plunge-6800-20260911]], [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[super-week-fomc-boj-20260911]], [[us-treasury-yield-20260908]], [[dollar]], [[semiconductor-industry]] (8개 아웃바운드)
+  - concepts/semiconductor-boom-smartphone-anxiety-20260912.md → [[samsung-electronics]], [[sk-hynix]], [[foldable-phone-competition-202609]], [[samsung-hbm-foundry-20260911]], [[apple-iphone-duo-foldable-20260910]], [[semiconductor-industry]], [[core-cpi-rate-hike-20260912]] (7개 아웃바운드)
+- 기존 페이지 업데이트 1건:
+  - concepts/navier-stokes-millennium-openai-20260909.md — Lean 4 형식 증명 공개 섹션 추가, source 추가, updated 날짜 갱신
+- index.md 업데이트: 페이지 수 283→288, 2026-09-12 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+- 스킵: HN AI 뉴스 홍수는 ai-news-overload-hn 페이지에서 처리, 별도 페이지 생성 없이 단일 페이지로 통합
+
 ## [2026-09-11] ingest | RSS 22건 수집 — 실리콘밸리 군산복합체/Korean-LLM-v4/Astra 코딩 역설/KB 세대교체/저PBR 공개/조선주 AI/삼성바이오 3조/ESG 연금/AI 자기외주/퓨리오사 싱가포르/스타트업 양극화/삼성E&A 사우디/하수처리수
 - RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
 - 수집된 글 22건, 키워드 필터 통과 22건
