@@ -4,6 +4,45 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-11] ingest | RSS 22건 수집 — 실리콘밸리 군산복합체/Korean-LLM-v4/Astra 코딩 역설/KB 세대교체/저PBR 공개/조선주 AI/삼성바이오 3조/ESG 연금/AI 자기외주/퓨리오사 싱가포르/스타트업 양극화/삼성E&A 사우디/하수처리수
+- RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
+- 수집된 글 22건, 키워드 필터 통과 22건
+- 스킵 3건: 우리금융 전북 취약층 무료 치과 진료 (CSR/사회공헌, 도메인 외), 기업은행 어린이 금융 직업체험관 개점 (CSR/사회공헌, 도메인 외), KB금융 회장 내정/속보는 KB 세대교체 페이지에 통합
+- Raw 소스 15건 생성:
+  - raw/articles/silicon-valley-military-ai-20260911.md — 실리콘밸리 군산복합체 확장, 빅테크 국방 지출
+  - raw/articles/korean-llm-v4-20260911.md — Korean-LLM-v4 학습 방식 혁신
+  - raw/articles/astra-coding-frustration-20260911.md — GPT-6 Astra 35시간 75,000줄, 능력≠실용성
+  - raw/articles/kb-chairman-lee-jaekeun-20260911.md — KB금융 이재근 내정, 양종희 연임 실패 (3건 통합)
+  - raw/articles/low-pbr-disclosure-superweek-20260911.md — 11월 저PBR 공개 + 슈퍼위크 (2건 통합)
+  - raw/articles/shipbuilding-ai-jackpot-20260911.md — HD현대중 1.1조 투자, 조선주 AI 수혜 (2건 통합)
+  - raw/articles/samsung-bio-3t-capital-increase-20260911.md — 삼성바이오 3조 유상증자 금감원 통과
+  - raw/articles/nps-esg-investing-20260911.md — 국민연금 ESG 등급-수익률, D등급 -80%
+  - raw/articles/ai-self-outsourcing-20260911.md — AI가 AI에 외주, AGI 서막, 모라벡 지형도 (2건 통합)
+  - raw/articles/ai-extinction-10yr-warning-20260911.md — 10년 내 인류 멸망 경고 심화
+  - raw/articles/furiosaai-singapore-20260911.md — 퓨리오사AI 싱가포르 법인, APAC 추론 인프라
+  - raw/articles/startup-funding-rally-20260911.md — 우량 스타트업 후속 조달, 양극화
+  - raw/articles/samsung-ena-saudi-fertilizer-20260911.md — 삼성E&A 사우디 4.7조 비료 플랜트
+  - raw/articles/samsung-wastewater-semiconductor-20260911.md — 삼성 33만t 하수처리수 반도체 공장 활용
+  - raw/articles/ai-rice-stock-rally-20260911.md — 3중 악재 속 AI 산업 쌀 상한가, MLCC·에너지 강세
+- Concept 페이지 15건 생성:
+  - concepts/silicon-valley-military-ai-20260911.md → [[hanwha-aerospace]], [[ai-sector-expansion-20260908]], [[nvidia-palantir-ai-alliance-20260911]], [[semiconductor-industry]], [[ai-power-bottleneck-gpu-to-power-20260910]] (5개 아웃바운드)
+  - concepts/korean-llm-v4-20260911.md → [[gpt-6-astra]], [[gpt6-astra-token-economics-20260908]], [[kimi-k3-local-streaming-20260909]], [[cognition-swe-2-20260911]], [[ai-model-competition-samsung-20260909]] (5개 아웃바운드)
+  - concepts/astra-coding-paradox-20260911.md → [[gpt-6-astra]], [[gpt6-astra-token-economics-20260908]], [[cognition-swe-2-20260911]], [[build-vs-buy-ai]], [[ai-wrong-build-well-20260909]], [[programming-as-art-20260909]], [[ai-safety-alignment]] (7개 아웃바운드)
+  - concepts/kb-generational-change-20260911.md → [[bank-stock-rally-pbr-20260910]], [[kb-bloomberg-partnership-20260910]], [[lee-eok-won-finance-20260910]], [[pension-bond-institutional-20260908]], [[oecd-fintax-differential-20260909]] (5개 아웃바운드)
+  - concepts/low-pbr-superweek-20260911.md → [[kospi-eps-slowdown-20260908]], [[dividend-shareholder-season-20260908]], [[bank-stock-rally-pbr-20260910]], [[super-week-fomc-boj-20260911]], [[rate-hike-surge-sp500-20260911]], [[kospi-plunge-6800-20260911]], [[bessent-rate-bet-yen-semiconductor-20260910]], [[foreign-net-buying-h2-20260911]] (8개 아웃바운드)
+  - concepts/shipbuilding-ai-beneficiary-20260911.md → [[hd-hyundai-ai-power-20260910]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[us-energy-investment-100b-20260910]], [[doosan-nuclear-us-investment-20260911]], [[commodity-super-rally-20260910]], [[holtec-smr-ipo-nuclear-export-20260909]] (6개 아웃바운드)
+  - concepts/samsung-bio-3t-ipo-20260911.md → [[samsung-bio-cdmo-3508b-20260910]], [[samsung-electronics]], [[novartis-drug-failure-20260909]], [[aprilbio-curigin-bayer-rna-20260910]] (4개 아웃바운드)
+  - concepts/nps-esg-performance-20260911.md → [[pension-bond-institutional-20260908]], [[pension-ai-bond-20260908]], [[core-satellite]], [[kb-generational-change-20260911]], [[inverse-retail-betting-202609]] (5개 아웃바운드)
+  - concepts/ai-self-outsourcing-agi-20260911.md → [[gpt-6-astra]], [[ai-extinction-2030-warning-20260911]], [[astra-coding-paradox-20260911]], [[navier-stokes-millennium-openai-20260909]], [[caltech-mathathon-20260909]], [[ai-org-transformation]], [[taste-and-ai]], [[producer-focus]], [[ai-safety-alignment]] (9개 아웃바운드)
+  - concepts/ai-extinction-10yr-20260911.md → [[ai-extinction-2030-warning-20260911]], [[ai-self-outsourcing-agi-20260911]], [[bessent-ai-agent-meta-doom-20260910]], [[ai-safety-alignment]], [[anthropic-resignation-safety-20260909]], [[openai-research-trust-20260911]], [[druckenmiller-ai-late-macro-20260911]] (7개 아웃바운드)
+  - concepts/furiosaai-singapore-apac-20260911.md → [[semiconductor-industry]], [[samsung-hbm-foundry-20260911]], [[huawei-ai-chip-geopolitics-20260908]], [[ai-infra-rally-expansion-20260909]], [[national-ai-strategy-1yr-20260908]] (5개 아웃바운드)
+  - concepts/startup-funding-polarization-20260911.md → [[ai-ipo-rush-anthropic-20260910]], [[startup-brand-clock-speed]], [[retail-investor-golden-age-20260910]], [[build-vs-buy-ai]], [[mistral-funding-20260908]], [[ai-theme-investor-flow-202609]] (6개 아웃바운드)
+  - concepts/samsung-ena-saudi-plant-20260911.md → [[samsung-electronics]], [[us-investment-beneficiaries-20260908]], [[doosan-nuclear-us-investment-20260911]], [[shipbuilding-ai-beneficiary-20260911]], [[commodity-super-rally-20260910]], [[us-energy-investment-100b-20260910]] (6개 아웃바운드)
+  - concepts/samsung-water-recycling-20260911.md → [[samsung-electronics]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[nps-esg-performance-20260911]] (3개 아웃바운드)
+  - concepts/ai-rice-mlcc-energy-20260911.md → [[rate-hike-surge-sp500-20260911]], [[kospi-plunge-6800-20260911]], [[commodity-super-rally-20260910]], [[foreign-net-buying-h2-20260911]], [[semiconductor-industry]], [[ai-infra-rally-expansion-20260909]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[us-energy-investment-100b-20260910]] (8개 아웃바운드)
+- index.md 업데이트: 페이지 수 268→283, 2026-09-11 5차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-11] ingest | RSS 22건 수집 — 코스피 급락/오라클 스타게이트/젠슨황 보안AI/AI멸종경고/GPT-Live-1/Gemini Windows/국채구조변화/삼성디스전/카뱅 금투자/수출 270%
 - RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
 - 수집된 글 22건, 키워드 필터 통과 22건
