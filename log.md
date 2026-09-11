@@ -4,6 +4,28 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-12] ingest | RSS 7건 수집 — 필즈상 수학 목표 불일치/AI 슬픔/코드 품질 측정/NTSB B-767/Hugging Face 보안/Anthropic 악용 탐지/AI 멸망 인플레
+- RSS 피드: GeekNews, 한국경제 (경제)
+- 수집된 글 7건, 키워드 필터 통과 7건
+- Raw 소스 7건 생성:
+  - raw/articles/ai-math-goal-misalignment-20260912.md — 필즈상 수상자 25명 공동 선언, AI 벤치마크 vs 수학 공동체 목표 불일치
+  - raw/articles/ai-grief-programming-20260912.md — 프로그래머 정체성 상실의 슬픔, 생계 위협보다 깊은 고통
+  - raw/articles/code-quality-measurement-ai-20260912.md — 테스트 통과 ≠ 좋은 코드, 조잃함 측정 불가 문제
+  - raw/articles/ntsb-miami-b767-runway-20260912.md — NTSB 마이애미 B-767 활주로 이탈 사고 조사 (raw only — 항공 안전, 도메인 외곽)
+  - raw/articles/huggingface-security-txt-cybergym-20260912.md — Hugging Face security.txt에 AI 에이전트 대상 벤치마크 안내
+  - raw/articles/anthropic-abuse-detection-20260912.md — Anthropic 7개 영역 악용 사례 공개, 사이버 공격 비용↓·속도↑
+  - raw/articles/ai-doom-inflation-warsh-20260912.md — 인플레 지속, 워시 결정, AI 멸망론의 진실
+- Concept 페이지 6건 생성:
+  - concepts/ai-math-goal-misalignment-20260912.md → [[tao-math-mining-20260909]], [[ai-math-breakthrough-controversy-20260909]], [[ai-safety-alignment]], [[openai-math-fairness-20260909]] (4개 아웃바운드)
+  - concepts/ai-grief-programming-20260912.md → [[programming-as-art-20260909]], [[taste-and-ai]], [[astra-coding-paradox-20260911]], [[ai-rto-satire-20260909]] (4개 아웃바운드)
+  - concepts/code-quality-measurement-ai-20260912.md → [[astra-coding-paradox-20260911]], [[ai-wrong-build-well-20260909]], [[build-vs-buy-ai]], [[proliferate-parallel-agent-ide-20260910]] (4개 아웃바운드)
+  - concepts/huggingface-security-txt-cybergym-20260912.md → [[nvidia-cybersecurity-ai-20260911]], [[ai-safety-alignment]], [[rsa-key-factorization-20260908]], [[anthropic-abuse-detection-20260912]] (4개 아웃바운드)
+  - concepts/anthropic-abuse-detection-20260912.md → [[anthropic-resignation-safety-20260909]], [[anthropic-activist-surveillance-20260910]], [[ai-safety-alignment]], [[nvidia-cybersecurity-ai-20260911]], [[huggingface-security-txt-cybergym-20260912]], [[ai-self-outsourcing-agi-20260911]] (6개 아웃바운드)
+  - concepts/ai-doom-inflation-warsh-20260912.md → [[core-cpi-rate-hike-20260912]], [[ai-extinction-10yr-20260911]], [[bessent-ai-agent-meta-doom-20260910]], [[druckenmiller-ai-late-macro-20260911]], [[ai-economic-impact-2030-20260910]] (5개 아웃바운드)
+- 스킵 1건: NTSB B-767 활주로 이탈 사고는 항공 안전 주제로 위키 도메인 외곽 — raw 소스만 생성, concept 페이지 생성 없음
+- index.md 업데이트: 페이지 수 288→294, 2026-09-12 2차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-12] ingest | RSS 8건 수집 — Waymo 효과/창의성 해자/AI 뉴스 홍수/Navier-Stokes Lean4/근원 CPI/반도체-스마트폰 괴리
 - RSS 피드: GeekNews, 한국경제 (증권·경제)
 - 수집된 글 8건, 키워드 필터 통과 8건

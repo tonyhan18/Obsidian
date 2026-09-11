@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-12 | Total pages: 288
+> Last updated: 2026-09-12 | Total pages: 294
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -338,3 +338,11 @@
 - [[ai-news-overload-hn-20260912|AI 뉴스 홍수와 기술 커뮤니티 다양성 (2026-09-12)]] — AI 주제가 기술 커뮤니티 피드를 점유하며 다양한 기술 관심사 밀려남
 - [[core-cpi-rate-hike-20260912|근원 CPI 컨센서스 상회와 금리 인상 확률 급등 (2026-09-12)]] — 미 8월 근원 CPI 컨센서스 상회, 중동 물가 쇼크로 금리 인상 확률 급등
 - [[semiconductor-boom-smartphone-anxiety-20260912|반도체 호황 vs 스마트폰 교체 불안 (2026-09-12)]] — 삼성·SK 반도체 호황 vs 소비자 스마트폰 교체 지연, B2B-B2C 수요 분리
+
+## Concepts (2026-09-12 2차 추가)
+- [[ai-math-goal-misalignment-20260912|수학에서의 AI 목표 불일치 (2026-09-12)]] — 필즈상 수상자 25명 공동 선언, AI 벤치마크 목표 vs 수학 공동체 목표 불일치 경고
+- [[ai-grief-programming-20260912|AI 때문에 느끼는 슬픔 (2026-09-12)]] — 생계 위협보다 정체성 상실이 더 깊은 슬픔, 프로그래밍=취미+직업+정체성의 위기
+- [[code-quality-measurement-ai-20260912|AI 시대의 코드 품질 측정 (2026-09-12)]] — 테스트 통과 ≠ 좋은 코드, 조잃함 측정 메트릭 부재가 AI 코딩 시대 새 병목
+- [[huggingface-security-txt-cybergym-20260912|Hugging Face security.txt: 벤치마크를 가이드 (2026-09-12)]] — AI 에이전트에게 해킹 대신 CyberGym 벤치마크 풀이를 안내, 보안 패러다임 전환
+- [[anthropic-abuse-detection-20260912|AI 악용 탐지와 대응: 2026년 9월 (2026-09-12)]] — Anthropic 7개 영역 악용 사례 공개, 사이버 공격 비용↓·속도↑, 증류 시도 차단
+- [[ai-doom-inflation-warsh-20260912|인플레 지속과 AI 멸망론의 진실 (2026-09-12)]] — 인플레이션 지속 속 워시 결정 주목, AI 멸망론의 경제적 의미와 매크로 교차점
