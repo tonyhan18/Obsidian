@@ -4,6 +4,24 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-12] ingest | RSS 6건 수집 — Google 광고 봇 사기/AI 없는 HN/외국인 매도 속 급등/반도체 사이클 전략/오라클 회사채 8%
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 6건, 키워드 필터 통과 6건
+- Raw 소스 5건 생성 (기사 2·3건은 동일 주제로 통합):
+  - raw/articles/google-ads-bot-fraud-20260912.md — 220달러 광고비 중 59% 봇 설치, 유효 이용자 13명
+  - raw/articles/ai-free-hacker-news-20260912.md — unslop.news, HN 179개 중 81개 AI 필터 후 잔류 (2건 통합)
+  - raw/articles/foreigner-selling-stock-surge-20260912.md — 외국인 매도 속 주가 23% 급등, 통념 반례
+  - raw/articles/semiconductor-cycle-strategy-20260912.md — 반도체 사이클 투자 전략, 현재 국면 진단
+  - raw/articles/oracle-corporate-bond-8pct-20260912.md — 오라클 회사채 금리 8% 육박, AI 자금조달 경고등
+- Concept 페이지 5건 생성:
+  - concepts/google-ads-bot-fraud-20260912.md → [[google-ads-malvertising-20260910]], [[tesla-solar-roof-discontinuation-20260909]], [[ai-safety-alignment]], [[ai-cognitive-management]] (4개 아웃바운드)
+  - concepts/ai-free-hacker-news-20260912.md → [[ai-news-overload-hn-20260912]], [[human-software-ai-refusal-20260910]], [[libreoffice-ai-free-20260909]], [[ai-cognitive-management]], [[waymo-effect-research-collaboration-20260912]] (5개 아웃바운드)
+  - concepts/foreigner-selling-stock-surge-20260912.md → [[foreign-net-buying-h2-20260911]], [[inverse-retail-betting-202609]], [[kospi-eps-slowdown-20260908]], [[retail-investor-golden-age-20260910]], [[druckenmiller-ai-late-macro-20260911]] (5개 아웃바운드)
+  - concepts/semiconductor-cycle-strategy-20260912.md → [[semiconductor-industry]], [[fitch-korea-fiscal-deficit-20260909]], [[tsmc-revenue-surge-20260910]], [[samsung-hbm-foundry-20260911]], [[druckenmiller-ai-late-macro-20260911]], [[core-cpi-rate-hike-20260912]], [[core-satellite]] (7개 아웃바운드)
+  - concepts/oracle-corporate-bond-8pct-20260912.md → [[oracle-ai-infra-stargate-20260911]], [[ai-ipo-corporate-bond-20260909]], [[core-cpi-rate-hike-20260912]], [[us-treasury-yield-20260908]], [[druckenmiller-ai-late-macro-20260911]], [[chatgpt-pro-pause-infra-bottleneck-20260909]], [[semiconductor-industry]] (7개 아웃바운드)
+- index.md 업데이트: 페이지 수 294→299, 2026-09-12 3차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-12] ingest | RSS 7건 수집 — 필즈상 수학 목표 불일치/AI 슬픔/코드 품질 측정/NTSB B-767/Hugging Face 보안/Anthropic 악용 탐지/AI 멸망 인플레
 - RSS 피드: GeekNews, 한국경제 (경제)
 - 수집된 글 7건, 키워드 필터 통과 7건

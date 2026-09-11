@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-12 | Total pages: 294
+> Last updated: 2026-09-12 | Total pages: 299
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -346,3 +346,10 @@
 - [[huggingface-security-txt-cybergym-20260912|Hugging Face security.txt: 벤치마크를 가이드 (2026-09-12)]] — AI 에이전트에게 해킹 대신 CyberGym 벤치마크 풀이를 안내, 보안 패러다임 전환
 - [[anthropic-abuse-detection-20260912|AI 악용 탐지와 대응: 2026년 9월 (2026-09-12)]] — Anthropic 7개 영역 악용 사례 공개, 사이버 공격 비용↓·속도↑, 증류 시도 차단
 - [[ai-doom-inflation-warsh-20260912|인플레 지속과 AI 멸망론의 진실 (2026-09-12)]] — 인플레이션 지속 속 워시 결정 주목, AI 멸망론의 경제적 의미와 매크로 교차점
+
+## Concepts (2026-09-12 3차 추가)
+- [[google-ads-bot-fraud-20260912|Google 앱 광고 봇 사기: 220달러 중 60%가 로봇 설치 (2026-09-12)]] — 모바일 광고 59% 봇 설치, 플랫폼 불투명성, AI 기반 봇 고도화 리스크
+- [[ai-free-hacker-news-20260912|AI 없는 Hacker News: unslop.news와 AI 주제 필터 (2026-09-12)]] — HN 피드 55% AI 점유, AI 거부 운동의 도구화, 정보 다양성 보존
+- [[foreigner-selling-stock-surge-20260912|외국인 매도 속 주가 23% 급등: 통념 반례 (2026-09-12)]] — 외국인 매도 ≠ 하락 신호, 개인·기관 매수 견인, 정보 비대칭 양면
+- [[semiconductor-cycle-strategy-20260912|반도체 사이클 투자 전략: 현재 국면 진단 (2026-09-12)]] — AI 수요가 사이클 변형, 복합 매크로 환경, ROE 중심 전환 필요
+- [[oracle-corporate-bond-8pct-20260912|오라클 회사채 금리 8% 육박: AI 자금조달 경고등 (2026-09-12)]] — AI 인프라 자금 조달 비용 급등, 고금리 환경 AI 밸류체인 압박
