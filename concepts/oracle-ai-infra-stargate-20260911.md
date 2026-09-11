@@ -4,19 +4,20 @@ created: 2026-09-11
 updated: 2026-09-11
 type: concept
 tags: [섹터분석, 매크로]
-sources: [raw/articles/oracle-ai-infra-stargate-20260911.md]
-confidence: medium
+sources: [raw/articles/oracle-ai-infra-stargate-20260911.md, raw/articles/oracle-ai-capex-rally-20260911.md]
+confidence: high
 ---
 
 # 오라클 AI 인프라 매출 121% 증가와 스타게이트 GPT-6 훈련
 
 ## 정의
-오라클의 AI 인프라 매출이 121% 급증하며, GPT-6가 스타게이트(Stargate) 데이터센터에서 훈련 중임이 확인되었다. 이는 AI 인프라 경쟁에서 오라클이 클라우드 3강(AWS·Azure·GCP) 외의 유력 플레이어로 부상하고 있음을 시사한다.
+오라클의 AI 인프라 매출이 121% 급증하며, GPT-6가 스타게이트(Stargate) 데이터센터에서 훈련 중임이 확인되었다. 또한 오라클이 AI에 현금을 집중 투입한 호실적으로 주가가 시간외 거래에서 4% 상승했다. AI 인프라 경쟁에서 오라클이 클라우드 3강(AWS·Azure·GCP) 외의 유력 플레이어로 부상하고 있음을 시사한다.
 
 ## 핵심 사실
 - **오라클 매출 121% 증가:** AI 인프라 속도전의 가시적 성과
 - **GPT-6 스타게이트 훈련:** 초대규모 AI 데이터센터에서 GPT-6 모델 훈련 진행 중
 - **스타게이트:** 미국 초대규모 AI 데이터센터 프로젝트
+- **오라클 AI 현금 집중 투입:** AI 인프라에 현금을 쏟아붓는 호실적, 주가 시간외 4% 상승
 - 오라클 클라우드(OCI)가 AI 트레이닝 워크로드를 흡수하며 경쟁력 입증
 
 ## 분석

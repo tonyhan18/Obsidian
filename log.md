@@ -1127,3 +1127,46 @@
 - Concepts (2026-09-10 13차 추가) 섹션 생성, 4개 페이지 추가
 
 ### 총 237페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (각 3~4개 아웃바운드 링크)
+
+---
+
+## 2026-09-11 16:35 — 자동 업데이트 (12건 수집)
+
+### 수집 통계
+- new_articles_count: 12
+- 소스: GeekNews (3건), 한국경제-증권 (8건), 한국경제-경제 (1건)
+
+### Raw 소스 파일 12건 생성
+- raw/articles/google-finland-nuclear-power-20260911.md — 구글 핀란드 원전 전력 50% 구매 (GeekNews)
+- raw/articles/ax-fde-organization-20260911.md — AX 시대의 FDE (GeekNews)
+- raw/articles/openai-agents-api-codex-20260911.md — OpenAI Agents API Codex (GeekNews)
+- raw/articles/nasdaq-kraken-investment-20260911.md — 나스닥 크라켄 1억달러 투자 (한경 증권)
+- raw/articles/kospi-6900-close-20260911.md — 코스피 6900선 마감 (한경 증권)
+- raw/articles/high-rate-turning-point-20260911.md — 고금리 전환점 재해석 (한경 증권)
+- raw/articles/super-week-fomc-boj-20260911.md — 슈퍼위크 미·일 금리 결정 (한경 증권)
+- raw/articles/oracle-ai-capex-rally-20260911.md — 오라클 AI 현금 집중, 주가 4% (한경 증권)
+- raw/articles/altera-ipo-20260911.md — 알테라 IPO 추진 (한경 증권)
+- raw/articles/rollercoaster-stock-principle-10yr-20260911.md — 롤러코스터 10년 원칙 (한경 증권)
+- raw/articles/ai-agent-rubicon-wsj-20260911.md — AI 에이전트의 루비콘 WSJ (한경 경제)
+- raw/articles/tim-cook-galaxy-samsung-20260911.md — 팀 쿡 갤럭시 사진 논란 (한경 경제)
+
+### Concept 페이지 10건 생성
+- concepts/google-finland-nuclear-power-20260911.md — 구글 원전 전력 구매, AI 에너지 전략 심화 (6개 아웃바운드 링크)
+- concepts/ax-fde-organization-20260911.md — AX 시대 FDE, 조직 자립도 (5개 아웃바운드 링크)
+- concepts/openai-agents-api-codex-20260911.md — Codex 에이전트 API, 플랫폼 경쟁 (7개 아웃바운드 링크)
+- concepts/nasdaq-kraken-investment-20260911.md — 나스닥 크립토 인프라 융합 (4개 아웃바운드 링크)
+- concepts/altera-ipo-20260911.md — 인텔 FPGA 분사, 반도체 IPO 러시 (5개 아웃바운드 링크)
+- concepts/rollercoaster-stock-principle-10yr-20260911.md — 10년 원칙 심리적 지속가능성 (6개 아웃바운드 링크)
+- concepts/ai-agent-rubicon-wsj-20260911.md — 에이전트 루비콘 통과 (7개 아웃바운드 링크)
+- concepts/super-week-fomc-boj-20260911.md — 슈퍼위크 미·일 금리 (6개 아웃바운드 링크)
+- concepts/tim-cook-galaxy-samsung-20260911.md — 팀 쿡 갤럭시 마케팅 (5개 아웃바운드 링크)
+- concepts/high-rate-turning-point-20260911.md — 고금리 전환점 재해석 (6개 아웃바운드 링크)
+
+### 기존 페이지 업데이트 1건
+- concepts/oracle-ai-infra-stargate-20260911.md — 소스 1개 추가 (oracle-ai-capex-rally), confidence medium→high, 핵심 사실 1줄 추가
+
+### index.md 업데이트
+- Total pages: 258 → 268
+- Concepts (2026-09-11 4차 추가) 섹션 생성, 10개 페이지 추가
+
+### 총 268페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (각 4~7개 아웃바운드 링크)
