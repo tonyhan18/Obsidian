@@ -4,7 +4,7 @@ created: 2026-09-11
 updated: 2026-09-11
 type: concept
 tags: [매크로, 시황, 리스크관리]
-sources: [raw/articles/rate-hike-surge-sp500-20260911.md, raw/articles/ny-market-semiconductor-plunge-20260911.md]
+sources: [raw/articles/rate-hike-surge-sp500-20260911.md, raw/articles/ny-market-semiconductor-plunge-20260911.md, raw/articles/cpi-fomc-rate-decision-20260911.md, raw/articles/kospi-plunge-6800-20260911.md]
 confidence: medium
 ---
 
@@ -73,5 +73,13 @@ confidence: medium
 - [[commodity-super-rally-20260910|원자재 슈퍼랠리]] — 인플레이션 구조적 압력
 - [[dollar|달러]] — 금리 인상 시 달러 강세
 - [[semiconductor-industry|반도체 산업]] — 금리+엔화 이중 리스크 섹터
+- [[kospi-plunge-6800-20260911|코스피 3% 급락 6800선]] — 금리 인상의 한국 시장 전파
+- [[us-treasury-structural-shift-20260911|미 국채시장 구조 변화]] — 장기금리 상승의 구조적 원인
+
+### 코스피 3% 급락 전파 (2026-09-11)
+- 금리 인상 확률 70% + 유가 급등 → 코스피 3%대 급락, 6,800선 붕괴
+- 7,000선 방어 불과 하루 만에 실패 — 변동성 극대화
+- 8월 CPI가 인상 vs 동결 최종 결정 — 0.1%P 차이에 시장 방향 갈림
+- IBK: 중동 리스크 확대로 "깜짝 금리인상" 가능성 경고
 
 ^[raw/articles/rate-hike-surge-sp500-20260911.md]

@@ -4,6 +4,43 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-11] ingest | RSS 22건 수집 — 코스피 급락/오라클 스타게이트/젠슨황 보안AI/AI멸종경고/GPT-Live-1/Gemini Windows/국채구조변화/삼성디스전/카뱅 금투자/수출 270%
+- RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
+- 수집된 글 22건, 키워드 필터 통과 22건
+- 스킵 1건: 슬랙 피싱 경고 (보안 위협 알림 — nvidia-cybersecurity 페이지에서 부분 언급)
+- Raw 소스 15건 생성:
+  - raw/articles/kospi-plunge-6800-20260911.md — 코스피 3% 급락 6800선 붕괴 (3건 통합)
+  - raw/articles/oracle-ai-infra-stargate-20260911.md — 오라클 AI 매출 121%, GPT-6 스타게이트 훈련
+  - raw/articles/export-record-semiconductor-270pct-20260911.md — 9월 수출 82.6%, 반도체 270.1% 역대 최대
+  - raw/articles/ai-extinction-2030-warning-20260911.md — AI 연구자 "2030년 전 멸종" 경고
+  - raw/articles/cpi-fomc-rate-decision-20260911.md — 8월 CPI가 금리 결정, IBK 깜짝 인상 가능성 (2건 통합)
+  - raw/articles/kakaobank-gold-sip-20260911.md — 카뱅 적립식 금 투자 서비스
+  - raw/articles/nvidia-cybersecurity-ai-20260911.md — 젠슨 황 "사이버 보안 = AI 다음 적용 분야"
+  - raw/articles/samsung-display-apple-competition-20260911.md — 삼성디스플레이 vs 애플, 임원 등판
+  - raw/articles/google-gemini-windows-artemis-20260911.md — Gemini Windows 앱 + ARTEMIS Android 자동화 (2건 통합)
+  - raw/articles/openai-gpt-live-1-bevy-ai-policy-20260911.md — GPT-Live-1 동시 청취·발화 + Bevy AI 정책 갈등 (2건 통합)
+  - raw/articles/isc-semiconductor-test-socket-20260911.md — ISC고식 반도체 테스트 소켓
+  - raw/articles/swiss-bond-ai-debt-20260911.md — 미국 AI 기업 스위스 채권 26% 매입
+  - raw/articles/nh-mortgage-rate-cut-20260911.md — 농협 주담대 금리 0.45%P 인하
+  - raw/articles/us-treasury-private-investors-20260911.md — 중앙은행 퇴장, 민간 투자자 금리 요구
+  - raw/articles/samsung-bioepis-best-company-20260911.md — 삼성바이오에피스 일자리 으뜸기업
+- Concept 페이지 9건 생성:
+  - concepts/kospi-plunge-6800-20260911.md → [[rate-hike-surge-sp500-20260911]], [[kospi-quad-witching-20260910]], [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[semiconductor-industry]], [[druckenmiller-ai-late-macro-20260911]], [[foreign-net-buying-h2-20260911]], [[dollar]], [[kospi-eps-slowdown-20260908]] (9개 아웃바운드)
+  - concepts/oracle-ai-infra-stargate-20260911.md → [[gpt-6-astra]], [[ai-infra-rally-expansion-20260909]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[semiconductor-industry]], [[samsung-hbm-foundry-20260911]], [[tsmc-revenue-surge-20260910]], [[us-energy-investment-100b-20260910]] (7개 아웃바운드)
+  - concepts/nvidia-cybersecurity-ai-20260911.md → [[nvidia-palantir-ai-alliance-20260911]], [[ai-sector-expansion-20260908]], [[semiconductor-industry]], [[dhs-predictive-policing-20260909]], [[ai-safety-alignment]], [[flock-safety-surveillance-20260909]] (6개 아웃바운드)
+  - concepts/ai-extinction-2030-warning-20260911.md → [[ai-safety-alignment]], [[anthropic-resignation-safety-20260909]], [[bessent-ai-agent-meta-doom-20260910]], [[openai-research-trust-20260911]], [[druckenmiller-ai-late-macro-20260911]], [[core-satellite]] (6개 아웃바운드)
+  - concepts/gpt-live-1-realtime-ai-20260911.md → [[gpt-6-astra]], [[meta-muse-agent-20260909]], [[google-gemini-windows-artemis-20260911]], [[gpt6-astra-token-economics-20260908]], [[llm-cognitive-impact]], [[human-software-ai-refusal-20260910]], [[ai-safety-alignment]] (7개 아웃바운드)
+  - concepts/google-gemini-windows-artemis-20260911.md → [[gpt-live-1-realtime-ai-20260911]], [[meta-muse-agent-20260909]], [[robotics-gpt-moment-20260908]], [[ai-cognitive-management]], [[rust-microsoft-tier1-20260911]], [[ai-org-transformation]] (6개 아웃바운드)
+  - concepts/us-treasury-structural-shift-20260911.md → [[us-treasury-yield-20260908]], [[us-treasury-buyback-rates-20260910]], [[rate-hike-surge-sp500-20260911]], [[ai-ipo-corporate-bond-20260909]], [[ai-ipo-rush-anthropic-20260910]], [[kospi-plunge-6800-20260911]], [[dollar]] (7개 아웃바운드)
+  - concepts/samsung-display-apple-competition-20260911.md → [[samsung-electronics]], [[foldable-phone-competition-202609]], [[apple-iphone-duo-foldable-20260910]], [[samsung-hbm-foundry-20260911]], [[samsung-foundry-2nd-place-20260910]], [[samsung-precision-health-20260909]] (6개 아웃바운드)
+  - concepts/kakaobank-gold-sip-20260911.md → [[kakaobank]], [[gold]], [[dollar-hedge]], [[core-satellite]], [[commodity-super-rally-20260910]], [[retail-investor-golden-age-20260910]] (6개 아웃바운드)
+- 기존 페이지 업데이트 2건:
+  - concepts/rate-hike-surge-sp500-20260911.md — 코스피 3% 급락 전파 섹션, CPI/FOMC 소스 추가
+  - concepts/doosan-nuclear-us-investment-20260911.md — 김정관 "마무리하기 위해 왔다" 9/11 보도 추가
+- index.md 업데이트: 페이지 수 249→258, 2026-09-11 3차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+- 스킵: ISC 소켓·스위스 채권·농협 금리·삼성바이오에피스·수출 270%는 기존 주제와 중복 또는 단순 데이터 포인트로 raw만 생성
+
 ## [2026-09-11] ingest | RSS 12건 수집 — ChatGPT Pro 중단 실현/SWE-2/드러켄밀러/삼성 HBM·파운드리/두산 원전/외국인 매수/반도체 급락/채용 경쟁
 - RSS 피드: GeekNews, 한국경제 (증권·경제)
 - 수집된 글 12건, 키워드 필터 통과 12건
