@@ -4,6 +4,18 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-13] ingest | RSS 2건 수집 — Apple Neural Engine 역공학/젠장 그래도 만들자
+- RSS 피드: GeekNews
+- 수집된 글 2건, 키워드 필터 통과 2건
+- Raw 소스 2건 생성:
+  - raw/articles/apple-neural-engine-llm-bottleneck-20260913.md — ANE 역공학, LLM 병목은 연산이 아닌 데이터 이동, CNN 최적화 메모리 경로와 LLM 패턴 불일치
+  - raw/articles/damn-still-build-20260913.md — 프롬프트로 만드는 시대의 가치 회의, 능력과 즐거움의 분리, 만드는 행위의 내재적 가치
+- Concept 페이지 2건 생성:
+  - concepts/apple-neural-engine-llm-bottleneck-20260913.md → [[astra-working-ai-memory-demand-20260912]], [[kimi-k3-local-streaming-20260909]], [[chatgpt-pro-pause-infra-bottleneck-20260909]], [[semiconductor-industry]], [[reasoning-prefill-distillation-20260910]] (5개 아웃바운드)
+  - concepts/damn-still-build-20260913.md → [[ai-grief-programming-20260912]], [[programming-as-art-20260909]], [[taste-and-ai]], [[astra-coding-paradox-20260911]], [[creativity-as-moat-20260912]] (5개 아웃바운드)
+- index.md 업데이트: 페이지 수 310→312, 2026-09-13 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-12] ingest | RSS 2건 수집 — Litelm 경량 LiteLLM/로제 아이폰 전환 삼성 반응
 - RSS 피드: GeekNews, 한국경제 (경제)
 - 수집된 글 2건, 키워드 필터 통과 2건

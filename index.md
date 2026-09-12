@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-12 | Total pages: 310
+> Last updated: 2026-09-13 | Total pages: 312
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -370,3 +370,7 @@
 
 ## Concepts (2026-09-12 5차 추가)
 - [[retail-etf-10pct-month-20260912|개미 ETF 10% 수익: 한 달 단기 고수익의 비결 (2026-09-12)]] — 개인 투자자의 ETF 활용 단기 10% 수익 사례, 섹터 로테이션 도구로서 ETF 전략
+
+## Concepts (2026-09-13 추가)
+- [[apple-neural-engine-llm-bottleneck-20260913|Apple Neural Engine 역공학: LLM 병목은 연산이 아닌 데이터 이동 (2026-09-13)]] — ANE 연산기는 트랜스포머 계산 가능하지만 CNN 최적화 메모리 경로가 LLM 데이터 패턴과 불일치, 병목은 데이터 이동
+- [[damn-still-build-20260913|젠장, 그래도 만들자: AI 시대 만드는 행위의 내재적 가치 (2026-09-13)]] — 프롬프트로 만드는 시대의 가치 회의에도 불구하고 만드는 과정의 즐거움·정체성을 포기하지 않는 실천적 태도
