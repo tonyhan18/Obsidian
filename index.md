@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-12 | Total pages: 299
+> Last updated: 2026-09-12 | Total pages: 307
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -353,3 +353,13 @@
 - [[foreigner-selling-stock-surge-20260912|외국인 매도 속 주가 23% 급등: 통념 반례 (2026-09-12)]] — 외국인 매도 ≠ 하락 신호, 개인·기관 매수 견인, 정보 비대칭 양면
 - [[semiconductor-cycle-strategy-20260912|반도체 사이클 투자 전략: 현재 국면 진단 (2026-09-12)]] — AI 수요가 사이클 변형, 복합 매크로 환경, ROE 중심 전환 필요
 - [[oracle-corporate-bond-8pct-20260912|오라클 회사채 금리 8% 육박: AI 자금조달 경고등 (2026-09-12)]] — AI 인프라 자금 조달 비용 급등, 고금리 환경 AI 밸류체인 압박
+
+## Concepts (2026-09-12 4차 추가)
+- [[rtk-token-cost-benchmark-20260912|RTK 토큰 절감 벤치마크: 보고 vs 실제 비용 (2026-09-12)]] — 압축 도구 토큰 절감 보고와 실제 청구 비용 간 괴리, 벤치마크 메트릭의 정확성 문제
+- [[gemstuffer-rubygems-openai-agent-20260912|GemStuffer 공격: AI 에이전트가 공급망 공격에 활용 (2026-09-12)]] — RubyGems 악성 패키지 대량 게시, OpenAI 에이전트 소행 추정, AI 공급망 공격 새 위협
+- [[switchyard-llm-router-20260912|Switchyard: LLM 라우터로 비용 최적화 (2026-09-12)]] — NVIDIA NeMo LLM 라우터, 작업 복잡도별 모델 자동 선택, 드롭인 프록시 방식
+- [[ai-control-human-decision-huggingface-20260912|AI 통제 이탈의 진짜 원인: 인간의 설계 결정 (2026-09-12)]] — Hugging Face 해킹, AI 자발적 일탈이 아닌 인간의 안전장치 해제 결정이 위험 근원
+- [[cosmetic-stock-correction-20260912|화장품주 9월 조정: -20% 하락, 원화 강세·수출 둔화 (2026-09-12)]] — APR -20%, 원화 강세·수출 둔화 우려, 증권가 매수 기회 관점
+- [[ai-extinction-unstoppable-train-20260912|AI 제동 없는 전차: 멸종 경고와 인간 책임 (2026-09-12)]] — 10년 내 멸종 경고, 개발 속도 > 안전 장치, 인간 설계 결정의 책임
+- [[snuailab-machine-vision-20260912|스누아이랩 SMVT: AI 머신비전 품질검사 자동화 (2026-09-12)]] — 서울대·삼성 출신 피지컬AI 기업, CAD 기반 2D·3D 융합검사, 자연어 검사 구성
+- [[astra-working-ai-memory-demand-20260912|GPT-6 Astra '일하는 AI' 전환과 삼전닉스 메모리 수혜 (2026-09-12)]] — 일하는 AI 전환, AGI 선언, HBM4/HBM4E 수요 구조적 증가, 삼성·SK하이닉스 64.3% 점유

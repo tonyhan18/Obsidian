@@ -4,6 +4,32 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-12] ingest | RSS 9건 수집 — RTK 토큰 비용 벤치마크/GemStuffer 공격/Switchyard LLM 라우터/AI 통제 인간 결정/Omarchy 거버넌스/화장품주 조정/AI 멸종 전차/스누아이랩 머신비전/아스트라 일하는 AI
+- RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
+- 수집된 글 9건, 키워드 필터 통과 9건
+- Raw 소스 9건 생성:
+  - raw/articles/rtk-token-cost-benchmark-20260912.md — RTK 압축 도구, Terminal-Bench 2.1, 1,740회 비교, 토큰 절감 보고 vs 실제 비용 괴리
+  - raw/articles/gemstuffer-rubygems-openai-agent-20260912.md — RubyGems 악성 패키지 대량 게시, OpenAI 위키 에이전트 연결, AI 공급망 공격
+  - raw/articles/switchyard-llm-router-20260912.md — NVIDIA NeMo LLM 라우터, 작업 복잡도별 모델 선택, OpenAI/Anthropic API 호환
+  - raw/articles/ai-control-human-decision-huggingface-20260912.md — Hugging Face 해킹, AI 자발적 일탈이 아닌 인간 안전장치 해제 결정
+  - raw/articles/omarchy-opensource-governance-20260912.md — Arch Linux 배포판 Omarchy, 1800만 달러 후원금, DHH 권력 집중 (raw only — 도메인 외곽)
+  - raw/articles/cosmetic-stock-correction-20260912.md — 화장품주 9월 -20% 조정, APR·실리콘투·ODM 기업 하락, 원화 강세·수출 둔화
+  - raw/articles/ai-extinction-unstoppable-train-20260912.md — AI 멸종 경고 지속, 제동 없는 전차 비유, 개발 속도 > 안전 장치
+  - raw/articles/snuailab-machine-vision-20260912.md — 스누아이랩 SMVT, CAD 기반 2D·3D 융합검사, 자연어 검사 구성, 서울대·삼성 출신
+  - raw/articles/astra-working-ai-memory-demand-20260912.md — GPT-6 Astra '일하는 AI', 105만 토큰, AGI 선언, HBM4/HBM4E 수요 증가
+- Concept 페이지 8건 생성:
+  - concepts/rtk-token-cost-benchmark-20260912.md → [[ai-cost-optimization]], [[gpt6-astra-token-economics-20260908]], [[switchyard-llm-router-20260912]] (3개 아웃바운드)
+  - concepts/gemstuffer-rubygems-openai-agent-20260912.md → [[ai-safety-alignment]], [[ai-control-human-decision-huggingface-20260912]], [[anthropic-abuse-detection-20260912]], [[huggingface-security-txt-cybergym-20260912]] (4개 아웃바운드)
+  - concepts/switchyard-llm-router-20260912.md → [[ai-cost-optimization]], [[rtk-token-cost-benchmark-20260912]], [[gpt6-astra-token-economics-20260908]], [[ai-subscription-choice-202609]] (4개 아웃바운드)
+  - concepts/ai-control-human-decision-huggingface-20260912.md → [[ai-safety-alignment]], [[ai-extinction-10yr-20260911]], [[ai-extinction-unstoppable-train-20260912]], [[gemstuffer-rubygems-openai-agent-20260912]], [[anthropic-abuse-detection-20260912]] (5개 아웃바운드)
+  - concepts/cosmetic-stock-correction-20260912.md → [[auto-sector-dual-risk]], [[dollar]], [[kospi-eps-slowdown-20260908]], [[semiconductor-cycle-strategy-20260912]] (4개 아웃바운드)
+  - concepts/ai-extinction-unstoppable-train-20260912.md → [[ai-control-human-decision-huggingface-20260912]], [[ai-extinction-10yr-20260911]], [[ai-extinction-2030-warning-20260911]], [[bessent-ai-agent-meta-doom-20260910]], [[ai-safety-alignment]], [[druckenmiller-ai-late-macro-20260911]], [[ai-doom-inflation-warsh-20260912]] (7개 아웃바운드)
+  - concepts/snuailab-machine-vision-20260912.md → [[samsung-sds-robot-orchestration-20260908]], [[ai-sector-expansion-20260908]], [[semiconductor-industry]], [[robotics-gpt-moment-20260908]] (4개 아웃바운드)
+  - concepts/astra-working-ai-memory-demand-20260912.md → [[gpt-6-astra]], [[semiconductor-industry]], [[samsung-electronics]], [[sk-hynix]], [[gpt6-astra-token-economics-20260908]], [[semiconductor-cycle-strategy-20260912]], [[robotics-gpt-moment-20260908]] (7개 아웃바운드)
+- 스킵 1건: Omarchy 오픈소스 거버넌스는 위키 도메인 외곽 — raw 소스만 생성, concept 페이지 생성 없음
+- index.md 업데이트: 페이지 수 299→307, 2026-09-12 4차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-12] ingest | RSS 6건 수집 — Google 광고 봇 사기/AI 없는 HN/외국인 매도 속 급등/반도체 사이클 전략/오라클 회사채 8%
 - RSS 피드: GeekNews, 한국경제 (증권·경제)
 - 수집된 글 6건, 키워드 필터 통과 6건
