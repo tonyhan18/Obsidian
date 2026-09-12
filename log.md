@@ -1297,3 +1297,20 @@
 - Concepts (2026-09-11 4차 추가) 섹션 생성, 10개 페이지 추가
 
 ### 총 268페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (각 4~7개 아웃바운드 링크)
+
+## [2026-09-12] ingest | RSS 1건 수집 — 개미 ETF 10% 수익 비결 (ETF줌인 칼럼)
+- RSS 피드: 한국경제 (증권)
+- 수집된 글 1건, 키워드 필터 통과 1건 (ETF 키워드 매칭)
+- Raw 소스 1건 생성:
+  - raw/articles/retail-etf-10pct-month-20260912.md — "한 달만에 수익률 10%…발 빠른 개미들 돈 번 '비결' 있었다 [이수의 ETF줌인]" (한국경제)
+
+### Concept 페이지 1건 생성
+- concepts/retail-etf-10pct-month-20260912.md — 개미 ETF 10% 수익: 한 달 단기 고수익의 비결 (6개 아웃바운드 링크)
+  - [[retail-investor-golden-age-20260910]], [[core-satellite]], [[top-down-selection]], [[us-etf-record-leverage-20260909]], [[etf-circular-investment-20260910]], [[leverage-etf-retail-regulation-20260909]]
+
+### index.md 업데이트
+- Total pages: 307 → 308
+- Concepts (2026-09-12 5차 추가) 섹션 생성, 1개 페이지 추가
+
+### 총 308페이지, 신규 페이지 기존 페이지와 6개 wikilinks로 연결됨
+- ⚠️ 기사 본문 추출 실패 (한국경제 웹사이트 봇 차단, Content-Length: 0 반환). 제목·RSS 메타데이터 기반으로 요약 작성, confidence: medium
