@@ -1,10 +1,10 @@
 ---
 title: "Google Gemini Windows 앱 + ARTEMIS Android 자동화 (2026-09-11)"
 created: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-13
 type: concept
 tags: [인사이트]
-sources: [raw/articles/google-gemini-windows-artemis-20260911.md]
+sources: [raw/articles/google-gemini-windows-artemis-20260911.md, raw/articles/google-artemis-code-attribution-20260913.md]
 confidence: medium
 ---
 
@@ -62,4 +62,12 @@ Google이 Windows용 Gemini 데스크톱 앱과 ARTEMIS(Android 자연어 자동
 - [[rust-microsoft-tier1-20260911|Rust Microsoft Tier-1]] — OS 레벨 기술 전환
 - [[ai-org-transformation|AI 조직 전환]] — 에이전트 도입의 조직 영향
 
-^[raw/articles/google-gemini-windows-artemis-20260911.md]
+### 출처 표기 논란: mobile-use 코드 무단 사용 (2026-09-13 업데이트)
+- Minitap 팀이 Google의 ARTEMIS 프로젝트에서 자신들이 만든 mobile-use 코드를 발견
+- 원래 프로젝트와 개발자에 대한 출처 표기가 없었음
+- Android 연결 코드, 에이전트 지침, WhatsApp 예제가 일치
+- 이전 버전에는 같은 버그까지 재현 — 동일 코드 사용의 강력한 증거
+- [[openai-research-trust-20260911|OpenAI 연구 신뢰 위기]]와 동일한 패턴 — 빅테크가 외부 창작물을 출처 없이 활용
+- AI 에이전트 생태계의 출처 표기·윤리 논쟁이 Google ARTEMIS로 확장
+
+^[raw/articles/google-gemini-windows-artemis-20260911.md, raw/articles/google-artemis-code-attribution-20260913.md]

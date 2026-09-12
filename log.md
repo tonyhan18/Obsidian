@@ -4,6 +4,27 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-13] ingest | RSS 6건 수집 — HN AI 우선순위 하향/Thelio Mira AI 워크스테이션/1000달러 중고차/Nvidia AI 중앙은행/Google Artemis 출처 논란/아모데이 속도 조절
+- RSS 피드: GeekNews
+- 수집된 글 6건, 키워드 필터 통과 6건
+- 스킵 1건: 1,000달러 중고차 구매 — 생활/소비자 지식, 투자·커리어·자산관리 도메인 외곽 (raw 소스만 생성)
+- Raw 소스 6건 생성:
+  - raw/articles/hn-ai-priority-lower-20260913.md — HN이 AI 중심 콘텐츠 우선순위를 낮춤, 커뮤니티 주도 → 플랫폼 주도 전환
+  - raw/articles/thelio-mira-ai-workstation-20260913.md — System76 Thelio Mira AI, RTX PRO 6000 2장 GPU 192GB, 로컬 AI 학습 워크스테이션
+  - raw/articles/cheap-car-1000-usd-20260913.md — 1,000달러 중고차 구매 요령, 도메인 외곽 (concept 미생성)
+  - raw/articles/nvidia-ai-central-bank-20260913.md — Nvidia 700억달러 투자·3000억달러 금융 지원, AI 경제 중앙은행 역할
+  - raw/articles/google-artemis-code-attribution-20260913.md — Google ARTEMIS, mobile-use 코드 출처 표기 없이 사용 논란
+  - raw/articles/amodei-slow-ai-development-20260913.md — 아모데이 AI 발전 속도 조절 제안, RSI·자율 공격 위험
+- Concept 페이지 3건 생성:
+  - concepts/nvidia-ai-central-bank-20260913.md → [[semiconductor-industry]], [[nvidia-palantir-ai-alliance-20260911]], [[ai-ipo-corporate-bond-20260909]], [[druckenmiller-ai-late-macro-20260911]], [[oracle-corporate-bond-8pct-20260912]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[dollar]] (7개 아웃바운드)
+  - concepts/amodei-slow-ai-development-20260913.md → [[ai-safety-alignment]], [[anthropic-resignation-safety-20260909]], [[ai-extinction-unstoppable-train-20260912]], [[ai-extinction-10yr-20260911]], [[openai-research-trust-20260911]], [[ai-extinction-2030-warning-20260911]] (6개 아웃바운드)
+  - concepts/thelio-mira-ai-workstation-20260913.md → [[self-hosting-digital-autonomy]], [[kimi-k3-local-streaming-20260909]], [[desert-ant-labs-on-device-models-20260910]], [[build-vs-buy-ai]], [[gpt6-astra-token-economics-20260908]] (5개 아웃바운드)
+- 기존 페이지 업데이트 2건:
+  - concepts/ai-news-overload-hn-20260912.md — HN 플랫폼 차원 AI 우선순위 하향 조치 섹션, source 추가, confidence medium→high, updated 2026-09-13
+  - concepts/google-gemini-windows-artemis-20260911.md — mobile-use 코드 출처 표기 논란 섹션, source 추가, updated 2026-09-13
+- index.md 업데이트: 페이지 수 312→315, 2026-09-13 2차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-13] ingest | RSS 2건 수집 — Apple Neural Engine 역공학/젠장 그래도 만들자
 - RSS 피드: GeekNews
 - 수집된 글 2건, 키워드 필터 통과 2건

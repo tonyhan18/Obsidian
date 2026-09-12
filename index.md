@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-13 | Total pages: 312
+> Last updated: 2026-09-13 | Total pages: 315
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -374,3 +374,8 @@
 ## Concepts (2026-09-13 추가)
 - [[apple-neural-engine-llm-bottleneck-20260913|Apple Neural Engine 역공학: LLM 병목은 연산이 아닌 데이터 이동 (2026-09-13)]] — ANE 연산기는 트랜스포머 계산 가능하지만 CNN 최적화 메모리 경로가 LLM 데이터 패턴과 불일치, 병목은 데이터 이동
 - [[damn-still-build-20260913|젠장, 그래도 만들자: AI 시대 만드는 행위의 내재적 가치 (2026-09-13)]] — 프롬프트로 만드는 시대의 가치 회의에도 불구하고 만드는 과정의 즐거움·정체성을 포기하지 않는 실천적 태도
+
+## Concepts (2026-09-13 2차 추가)
+- [[nvidia-ai-central-bank-20260913|Nvidia는 AI의 중앙은행이다 (2026-09-13)]] — 700억달러 투자 약정·3000억달러 금융 지원으로 AI 인프라 투자를 촉진하고 칩 수요를 창출하는 Nvidia의 중앙은행 역할
+- [[amodei-slow-ai-development-20260913|아모데이: AI 발전 속도를 늦춰야 한다 (2026-09-13)]] — 안전성 투자만으로는 부족, 역량 발전 속도 자체를 늦춰야 한다는 Anthropic CEO의 정책 제안
+- [[thelio-mira-ai-workstation-20260913|Thelio Mira AI: GPU 192GB 로컬 AI 워크스테이션 (2026-09-13)]] — System76의 RTX PRO 6000 2장 192GB GPU 워크스테이션, 클라우드 AI 의존에서 로컬 AI 인프라로의 전환 구체화

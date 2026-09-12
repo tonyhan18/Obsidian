@@ -4,8 +4,8 @@ created: 2026-09-12
 updated: 2026-09-12
 type: concept
 tags: [인사이트]
-sources: [raw/articles/ai-news-overload-hn-20260912.md]
-confidence: medium
+sources: [raw/articles/ai-news-overload-hn-20260912.md, raw/articles/hn-ai-priority-lower-20260913.md]
+confidence: high
 ---
 
 # AI 뉴스 홍수와 기술 커뮤니티 다양성
@@ -44,4 +44,11 @@ AI 및 AI 관련 뉴스가 기술 커뮤니티(Hacker News 등) 피드를 점유
 - 커뮤니티가 주제 다양성을 의도적으로 보존할 수 있는가?
 - AI 뉴스 비중이 스스로 조정되는 시점은 오는가?
 
-^[raw/articles/ai-news-overload-hn-20260912.md]
+### 플랫폼 차원의 대응 (2026-09-13 업데이트)
+- Hacker News가 AI 중심 콘텐츠의 우선순위를 낮추는 조치를 취함
+- 기존 unslop.news 등 제3자 필터 도구에 이어 **플랫폼 자체**가 AI 주제 비중 조정에 나선 의미
+- 커뮤니티 주도(제3자 도구) → 플랫폼 주도(공식 조치)로 전환
+- [[ai-free-hacker-news-20260912|AI 없는 Hacker News]]에서 제시된 문제의 공식적 인정
+- AI 주제 과점 현상이 기술 커뮤니티 전반의 구조적 변화로 이어지는 징후
+
+^[raw/articles/ai-news-overload-hn-20260912.md, raw/articles/hn-ai-priority-lower-20260913.md]
