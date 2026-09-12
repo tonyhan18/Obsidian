@@ -4,6 +4,18 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-12] ingest | RSS 2건 수집 — Litelm 경량 LiteLLM/로제 아이폰 전환 삼성 반응
+- RSS 피드: GeekNews, 한국경제 (경제)
+- 수집된 글 2건, 키워드 필터 통과 2건
+- Raw 소스 2건 생성:
+  - raw/articles/litelm-minimal-litellm-20260912.md — LiteLLM 핵심 기능만 2,900줄로 경량 구현, 19개 제공자, 의존성 2개
+  - raw/articles/rose-iphone-samsung-marketing-20260912.md — 과거 갤럭시 모델 로제 아이폰 사용, 삼성의 한마디
+- Concept 페이지 2건 생성:
+  - concepts/litelm-minimal-litellm-20260912.md → [[switchyard-llm-router-20260912]], [[rtk-token-cost-benchmark-20260912]], [[gpt6-astra-token-economics-20260908]], [[build-vs-buy-ai]] (4개 아웃바운드)
+  - concepts/rose-iphone-samsung-marketing-20260912.md → [[tim-cook-galaxy-samsung-20260911]], [[foldable-phone-competition-202609]], [[apple-iphone-duo-foldable-20260910]], [[samsung-display-apple-competition-20260911]], [[samsung-electronics]] (5개 아웃바운드)
+- index.md 업데이트: 페이지 수 308→310, 2026-09-12 6차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-12] ingest | RSS 9건 수집 — RTK 토큰 비용 벤치마크/GemStuffer 공격/Switchyard LLM 라우터/AI 통제 인간 결정/Omarchy 거버넌스/화장품주 조정/AI 멸종 전차/스누아이랩 머신비전/아스트라 일하는 AI
 - RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
 - 수집된 글 9건, 키워드 필터 통과 9건

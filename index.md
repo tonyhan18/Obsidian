@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-12 | Total pages: 308
+> Last updated: 2026-09-12 | Total pages: 310
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -363,6 +363,10 @@
 - [[ai-extinction-unstoppable-train-20260912|AI 제동 없는 전차: 멸종 경고와 인간 책임 (2026-09-12)]] — 10년 내 멸종 경고, 개발 속도 > 안전 장치, 인간 설계 결정의 책임
 - [[snuailab-machine-vision-20260912|스누아이랩 SMVT: AI 머신비전 품질검사 자동화 (2026-09-12)]] — 서울대·삼성 출신 피지컬AI 기업, CAD 기반 2D·3D 융합검사, 자연어 검사 구성
 - [[astra-working-ai-memory-demand-20260912|GPT-6 Astra '일하는 AI' 전환과 삼전닉스 메모리 수혜 (2026-09-12)]] — 일하는 AI 전환, AGI 선언, HBM4/HBM4E 수요 구조적 증가, 삼성·SK하이닉스 64.3% 점유
+
+## Concepts (2026-09-12 6차 추가)
+- [[litelm-minimal-litellm-20260912|Litelm: 비대함을 덜어낸 LiteLLM 경량 구현 (2026-09-12)]] — 2,900줄·의존성 2개로 19개 LLM 제공자 통합 호출, 경량화로 유지보수 부담 최소화
+- [[rose-iphone-samsung-marketing-20260912|로제 아이폰 전환과 삼성의 한마디 (2026-09-12)]] — 갤럭시 모델 로제의 아이폰 전환, 셀럽 엔도스먼트 만료와 삼성·애플 마케팅 경쟁
 
 ## Concepts (2026-09-12 5차 추가)
 - [[retail-etf-10pct-month-20260912|개미 ETF 10% 수익: 한 달 단기 고수익의 비결 (2026-09-12)]] — 개인 투자자의 ETF 활용 단기 10% 수익 사례, 섹터 로테이션 도구로서 ETF 전략
