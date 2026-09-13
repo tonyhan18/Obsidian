@@ -4,6 +4,27 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-13] ingest | RSS 6건 수집 — 삼성전자우/유가 업스트림/위메이드-킹넷/이소영 코스닥/롯데-KAIST/브릭스 탈달러·AI
+- RSS 피드: 한국경제 (증권·IT·경제)
+- 수집된 글 6건, 키워드 필터 통과 6건
+- Raw 소스 6건 생성:
+  - raw/articles/samsung-preferred-hnwi-20260913.md — 고액자산가 삼성전자우 최다 매수, AI 아스트라→메모리 업황
+  - raw/articles/oil-upstream-strategy-20260913.md — WTI $102·브렌트 $107, 중간선거까지 고유가, 업스트림 전략
+  - raw/articles/wemade-kingnet-20260913.md — 중국 킹넷 4000억, 위메이드 경영권 인수 핵심 투자자
+  - raw/articles/lee-soyoung-kosdaq-2-20260913.md — 이소영 인사청문회 서면질의답변서, 승강제 서열화·낙인 우려
+  - raw/articles/lotte-kaist-rnd-20260913.md — 롯데xKAIST R&D센터 준공, 100억원 기부, 3대 연구 주제
+  - raw/articles/brics-de-dollarization-ai-20260913.md — 시진핑 브릭스, 탈달러·AI(WAICO)·공급망 다극화
+- Concept 페이지 5건 생성:
+  - concepts/samsung-preferred-hnwi-20260913.md → [[samsung-hbm-foundry-20260911]], [[ai-theme-investor-flow-202609]], [[gpt-6-astra]], [[samsung-electronics]], [[foreign-net-buying-h2-20260911]], [[ai-infra-rally-expansion-20260909]], [[samsung-sk-recruitment-20260911]], [[druckenmiller-ai-late-macro-20260911]] (8개 아웃바운드)
+  - concepts/oil-upstream-strategy-20260913.md → [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[nvidia-palantir-ai-alliance-20260911]], [[rate-hike-surge-sp500-20260911]], [[us-treasury-structural-shift-20260911]], [[trump-energy-stock-trading-20260910]] (6개 아웃바운드)
+  - concepts/wemade-kingnet-20260913.md → [[ai-theme-investor-flow-202609]], [[ai-ipo-rush-anthropic-20260910]], [[musinsa-ipo-valuation-20260910]], [[samsung-bio-cdmo-3508b-20260910]], [[samsung-sk-recruitment-20260911]] (5개 아웃바운드)
+  - concepts/brics-de-dollarization-ai-20260913.md → [[dollar]], [[dollar-hedge]], [[currency-war-japan-india-20260909]], [[huawei-ai-chip-geopolitics-20260908]], [[china-ai-export-20260908]], [[nvidia-palantir-ai-alliance-20260911]], [[china-lithography-equipment-20260908]], [[commodity-super-rally-20260910]], [[oil-upstream-strategy-20260913]] (9개 아웃바운드)
+  - concepts/lotte-kaist-rnd-20260913.md → [[samsung-water-recycling-20260911]], [[google-finland-nuclear-power-20260911]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[kaist-ms-neural-value-alignment-20260910]], [[samsung-asml-euv-20260908]] (5개 아웃바운드)
+- 기존 페이지 업데이트 1건:
+  - concepts/lee-soyoung-kosdaq-speed-20260910.md — 인사청문회 서면질의답변서 섹션 추가 (승강제 서열화·낙인, AI·딥테크 특성, 탄소중립 지원 우선), source 추가
+- index.md 업데이트: 페이지 수 283→289, 2026-09-13 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-11] ingest | RSS 22건 수집 — 실리콘밸리 군산복합체/Korean-LLM-v4/Astra 코딩 역설/KB 세대교체/저PBR 공개/조선주 AI/삼성바이오 3조/ESG 연금/AI 자기외주/퓨리오사 싱가포르/스타트업 양극화/삼성E&A 사우디/하수처리수
 - RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
 - 수집된 글 22건, 키워드 필터 통과 22건
