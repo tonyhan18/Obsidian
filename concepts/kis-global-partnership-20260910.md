@@ -1,10 +1,10 @@
 ---
 title: "한국투자증권 글로벌 운용사 파트너십 (2026-09-10)"
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-13
 type: concept
 tags: [투자, 매매전략]
-sources: [raw/articles/kis-global-partnership-20260910.md, raw/articles/kis-pimco-carlyle-20260910.md]
+sources: [raw/articles/kis-global-partnership-20260910.md, raw/articles/kis-pimco-carlyle-20260910.md, raw/articles/kis-pimco-carlyle-20260913.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,14 @@ contested: false
 한국 증권사의 글로벌화 전략이 리서치 독점 공급 + 공동 상품 개발로 구체화되는 사례. 기존 �권권사 수익 다변화 흐름(`[[securities-firm-cash-strategy-20260908]]`, `[[securities-etf-overseas-20260909]]`)의 연장선에 있으며, 글로벌 운용사의 리서치를 MTS 독점 공급하는 것은 리테일 고객에게 기관급 정보 접근성을 제공하는 패러다임 전환이다.
 
 이는 [[securities-polarization-20260908]]에서 지적된 증권업계 양극화 속에서 대형사만이 확보할 수 있는 글로벌 파트너십의 사례이기도 하다. 또한 [[securities-consensus-top5-20260909]]에서 나타난 증권사 리서치 경쟁력이 글로벌 운용사 협업으로 확장되는 패턴을 보여준다.
+
+## 2026-09-13 업데이트: KIS 나이트 2026 뉴욕 개최
+
+- 한국투자증권이 뉴욕에서 'KIS 나이트 2026' IR 행사 개최
+- 조지 워커 누버거버먼(NuVuberman) 회장 등 월가 글로벌 IB 거물 대거 참석
+- 김성환 한투 사장: "글로벌 금융사가 가장 먼저 찾는 증권사 될 것"
+- 핌코·칼라일과 공동 맞춤 상품 개발 속도 — 기존 MOU에서 공동 상품 개발 단계로 구체화
+- KIS 나이트 네트워크 → MOU → 공동 상품 개발의 단계적 결실
 
 ## 미해결 질문
 

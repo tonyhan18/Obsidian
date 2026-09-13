@@ -4,6 +4,32 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-13] ingest | RSS 10건 수집 4차 — Real-SWE/AI속도풍자/Shopify네이티브/NVIA Router/한투KIS나이트/Fed균열/킹넷위메이드/ODA/제조AX/삼성AI교육
+- RSS 피드: GeekNews, 한국경제 (증권·경제·IT)
+- 수집된 글 10건, 키워드 필터 통과 10건
+- 스킵 2건: ODA 개발금융 (정책/대외원조, 도메인 외), 삼성 AI 수업 (교육/사회공헌, 도메인 외) — raw 소스만 생성
+- Raw 소스 10건 생성:
+  - raw/articles/real-swe-benchmark-20260913.md — 비공개 프로덕션 코드베이스 기반 코딩 에이전트 벤치마크, 모델+하네스 조합 8회 평균
+  - raw/articles/ai-slowdown-satire-20260913.md — "나만 빼고 다 늦춰라" AI 속도 조절 이중잣대 풍자
+  - raw/articles/shopify-ai-native-rewrite-20260913.md — 6명+에이전트로 React Native→네이티브 12주 재구축
+  - raw/articles/nvidia-personal-ai-router-20260913.md — 로컬 네트워크 분산 추론 라우터, Ollama/LM Studio 지원
+  - raw/articles/kis-pimco-carlyle-20260913.md — 한투 KIS 나이트 2026 뉴욕, 핌코·칼라일 공동 상품 개발
+  - raw/articles/fed-internal-division-20260913.md — 한상춘, Fed 내부 균열이 금리보다 중요, 9월 인상 영향 적을 듯
+  - raw/articles/kingnet-wemade-acquisition-20260913.md — 중국 킹넷 4000억 투자 위메이드 49% 지분 확보 목표
+  - raw/articles/oda-development-finance-20260913.md — 제안형 ODA, 개발금융 전환 (도메인 외, concept 미생성)
+  - raw/articles/choi-tae-won-manufacturing-ax-20260913.md — 최태원, 울산 제조 AX 선도모델, 굴뚝산업+AI
+  - raw/articles/samsung-ai-education-20260913.md — 삼성 AI 수업, 초중학교 25만명 목표 (도메인 외, concept 미생성)
+- Concept 페이지 7건 생성:
+  - concepts/real-swe-benchmark-20260913.md → [[code-quality-measurement-ai-20260912]], [[gpt-6-astra]], [[astra-coding-paradox-20260911]]
+  - concepts/ai-slowdown-satire-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-extinction-unstoppable-train-20260912]], [[model-weight-disclosure-20260913]]
+  - concepts/shopify-ai-native-rewrite-20260913.md → [[tailwind-shopify-20260910]], [[ai-org-transformation]], [[astra-coding-paradox-20260911]], [[build-vs-buy-ai]]
+  - concepts/nvidia-personal-ai-router-20260913.md → [[thelio-mira-ai-workstation-20260913]], [[self-hosting-digital-autonomy]], [[desert-ant-labs-on-device-models-20260910]], [[ai-cost-optimization]]
+  - concepts/fed-internal-division-20260913.md → [[core-cpi-rate-hike-20260912]], [[super-week-fomc-boj-20260911]], [[rate-hike-surge-sp500-20260911]], [[high-rate-turning-point-20260911]], [[us-economists-rate-hold-20260910]]
+  - concepts/kingnet-wemade-acquisition-20260913.md → [[samsung-electronics]], [[semiconductor-industry]]
+  - concepts/manufacturing-ax-ulsan-20260913.md → [[ai-sector-expansion-20260908]], [[ax-fde-organization-20260911]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[ai-org-transformation]]
+- 기존 페이지 1건 업데이트:
+  - concepts/kis-global-partnership-20260910.md — KIS 나이트 2026 뉴욕 개최, 핌코·칼라일 공동 상품 개발 구체화 내용 추가, source 추가
+
 ## [2026-09-13] ingest | RSS 10건 수집 — RSI/모델 가중치 공개/반도체 가격협상/코스피 7000 전망/삼성전기 수주/AI 연금/소득급감 매도/SK하이닉스 재매수/7 Up/삼성웰스토리 피자
 - RSS 피드: GeekNews, 한국경제 (증권·경제)
 - 수집된 글 10건, 키워드 필터 통과 10건
