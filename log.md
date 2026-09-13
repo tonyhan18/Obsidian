@@ -4,6 +4,35 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive
 
+## [2026-09-13] ingest | RSS 10건 수집 — RSI/모델 가중치 공개/반도체 가격협상/코스피 7000 전망/삼성전기 수주/AI 연금/소득급감 매도/SK하이닉스 재매수/7 Up/삼성웰스토리 피자
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 10건, 키워드 필터 통과 10건
+- 스킵 2건: 7 Up 다큐멘터리 (사회/문화, 도메인 외), 삼성웰스토리 피자 백서 (식품 R&D, 도메인 외) — raw 소스만 생성
+- Raw 소스 10건 생성:
+  - raw/articles/rsi-recursive-self-improvement-20260913.md — 재귀적 자기개선(RSI), AI가 실험·연구 방향 자율 설정, 목표 해결≠자기 개선 논쟁
+  - raw/articles/7up-documentary-20260913.md — 7 Up 60년 다큐 종료, 도메인 외 (concept 미생성)
+  - raw/articles/model-weight-disclosure-open-letter-20260913.md — 아모데이 속도 조절 대안, 모델 가중치 법적 공개 의무화 공개서한
+  - raw/articles/semiconductor-price-negotiation-expansion-20260913.md — 반도체 증설 전 가격 협상, 수요사 교섭력
+  - raw/articles/kospi-7000-weekly-outlook-20260913.md — 금리 vs AI 성장, 코스피 7000선 주간 전망
+  - raw/articles/samsung-electro-mechanics-record-orders-20260913.md — 삼성전기 역대급 수주 vs 주가 흔들림
+  - raw/articles/ai-pension-management-20260913.md — 퇴직연금 AI 자산배분 3개월 성적표
+  - raw/articles/phd-student-stock-sell-dilemma-20260913.md — 박사과정 앞둔 50대 소득 급감 시 주식 매도 딜레마
+  - raw/articles/samsung-welstory-pizza-20260913.md — 삼성웰스토리 피자 R&D, 도메인 외 (concept 미생성)
+  - raw/articles/sk-hynix-ai-genius-pick-20260913.md — 67% 폭락 후 AI 천재 SK하이닉스 재매수
+- Concept 페이지 8건 생성:
+  - concepts/rsi-recursive-self-improvement-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-safety-alignment]], [[ai-self-outsourcing-agi-20260911]], [[anthropic-resignation-safety-20260909]], [[gpt-6-astra]] (5개 아웃바운드)
+  - concepts/model-weight-disclosure-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-safety-alignment]], [[openai-research-trust-20260911]], [[anthropic-activist-surveillance-20260910]] (4개 아웃바운드)
+  - concepts/semiconductor-price-negotiation-20260913.md → [[semiconductor-industry]], [[samsung-electronics]], [[semiconductor-cycle-strategy-20260912]], [[sk-hynix]], [[samsung-electro-mechanics-record-orders-20260913]] (5개 아웃바운드)
+  - concepts/kospi-7000-weekly-outlook-20260913.md → [[kospi-7000-202609]], [[kospi-plunge-6800-20260911]], [[core-cpi-rate-hike-20260912]], [[semiconductor-industry]], [[super-week-fomc-boj-20260911]] (5개 아웃바운드)
+  - concepts/samsung-electro-mechanics-record-orders-20260913.md → [[samsung-electronics]], [[semiconductor-industry]], [[semiconductor-price-negotiation-20260913]], [[semiconductor-cycle-strategy-20260912]], [[samsung-hbm-foundry-20260911]], [[kospi-7000-weekly-outlook-20260913]] (6개 아웃바운드)
+  - concepts/ai-pension-management-20260913.md → [[pension-ai-bond-20260908]], [[core-satellite]], [[pension-bond-institutional-20260908]], [[samsung-life-pension-insurance-20260910]], [[ai-org-transformation]] (5개 아웃바운드)
+  - concepts/stock-sell-income-drop-20260913.md → [[core-satellite]], [[rollercoaster-stock-principle-10yr-20260911]], [[retail-investor-golden-age-20260910]], [[kospi-7000-weekly-outlook-20260913]] (4개 아웃바운드)
+  - concepts/sk-hynix-ai-buy-67pct-crash-20260913.md → [[sk-hynix]], [[semiconductor-industry]], [[semiconductor-cycle-strategy-20260912]], [[foreign-net-buying-h2-20260911]], [[astra-working-ai-memory-demand-20260912]], [[samsung-hbm-foundry-20260911]] (6개 아웃바운드)
+- 기존 페이지 업데이트 1건:
+  - concepts/amodei-slow-ai-development-20260913.md — 가중치 공개 의무화 대안 접근 섹션 추가, source 추가 (model-weight-disclosure), updated 2026-09-13
+- index.md 업데이트: 페이지 수 315→323, 2026-09-13 3차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
 ## [2026-09-13] ingest | RSS 6건 수집 — HN AI 우선순위 하향/Thelio Mira AI 워크스테이션/1000달러 중고차/Nvidia AI 중앙은행/Google Artemis 출처 논란/아모데이 속도 조절
 - RSS 피드: GeekNews
 - 수집된 글 6건, 키워드 필터 통과 6건

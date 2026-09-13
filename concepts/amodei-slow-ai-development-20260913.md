@@ -4,7 +4,7 @@ created: 2026-09-13
 updated: 2026-09-13
 type: concept
 tags: [인사이트, 리스크관리]
-sources: [raw/articles/amodei-slow-ai-development-20260913.md]
+sources: [raw/articles/amodei-slow-ai-development-20260913.md, raw/articles/model-weight-disclosure-open-letter-20260913.md]
 confidence: high
 ---
 
@@ -43,6 +43,12 @@ Anthropic CEO 다리오 아모데이가 안전성에 투자하는 것만으로�
 - 아모데이 제안 = 업계 합의 필요 → 경쟁사 동참 없이 효과 없음
 - [[openai-research-trust-20260911|OpenAI 연구 신뢰 위기]]와 대비 — Anthropic은 신뢰·안전 기반 차별화 전략
 - [[druckenmiller-ai-late-macro-20260911|드러켄밀러 "AI 붐 후반"]] — 시장도 AI 개발 속도 지속성 의문
+
+### 가중치 공개 의무화 — 대안 접근
+- 아모데이 속도 조절(자율 규제)에 대한 구조적 대안: 모델 가중치 법적 공개 의무화
+- [[model-weight-disclosure-20260913|모델 가중치 공개 공개서한]] — 속도 조절·외부 평가 대신 구조적 투명성 강제
+- 자율 규제의 한계(경쟁사 동참 불확실)를 법적 강제로 보완하려는 접근
+- 안전성 투자 + 속도 조절 + 가중치 공개의 삼축 구조 가능성
 
 ## 미해결 질문
 - 경쟁사(OpenAI, Google, Meta)가 속도 조절에 동참할 인센티브가 있는가?

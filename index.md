@@ -1,7 +1,7 @@
 # Knowledge Graph Index
 
 > 지식 그래프 콘텐츠 카탈로그. 각 페이지는 한 줄 요약과 함께 섹션별로 정리.
-> Last updated: 2026-09-13 | Total pages: 315
+> Last updated: 2026-09-13 | Total pages: 323
 
 ## Entities
 - [[samsung-electronics|삼성전자]] — 반도체 1등 기업, Top-Down 선택의 최종 목표
@@ -379,3 +379,13 @@
 - [[nvidia-ai-central-bank-20260913|Nvidia는 AI의 중앙은행이다 (2026-09-13)]] — 700억달러 투자 약정·3000억달러 금융 지원으로 AI 인프라 투자를 촉진하고 칩 수요를 창출하는 Nvidia의 중앙은행 역할
 - [[amodei-slow-ai-development-20260913|아모데이: AI 발전 속도를 늦춰야 한다 (2026-09-13)]] — 안전성 투자만으로는 부족, 역량 발전 속도 자체를 늦춰야 한다는 Anthropic CEO의 정책 제안
 - [[thelio-mira-ai-workstation-20260913|Thelio Mira AI: GPU 192GB 로컬 AI 워크스테이션 (2026-09-13)]] — System76의 RTX PRO 6000 2장 192GB GPU 워크스테이션, 클라우드 AI 의존에서 로컬 AI 인프라로의 전환 구체화
+
+## Concepts (2026-09-13 3차 추가)
+- [[rsi-recursive-self-improvement-20260913|재귀적 자기개선(RSI): AI가 AI를 만드는 날 (2026-09-13)]] — AI가 실험·연구 방향·목표까지 자율 설정하는 순환 구조, 목표 해결 능력≠자기 개선 능력 논쟁
+- [[model-weight-disclosure-20260913|모델 가중치 공개 의무화 공개서한 (2026-09-13)]] — 아모데이 속도 조절에 대한 대안: 가중치 법적 공개로 구조적 투명성 강제
+- [[semiconductor-price-negotiation-20260913|반도체 증설 전 가격 협상: 수요사 교섭력 (2026-09-13)]] — 수요사가 증석 약정을 레버리지로 가격 인하 압박, 반도체 밸류체인 교섭력 구조
+- [[kospi-7000-weekly-outlook-20260913|코스피 7000선 주간전망: 금리 vs AI 성장 (2026-09-13)]] — 금리 불확실성에도 AI 성장 유효, 7000선 안착 가능성 주간 전망
+- [[samsung-electro-mechanics-record-orders-20260913|삼성전기 역대급 수주 vs 주가 흔들림 (2026-09-13)]] — 역대급 수주에도 주가 흔들림, 수주-주가 괴리와 향후 접근 전략
+- [[ai-pension-management-20260913|AI 퇴직연금 운용: 3개월 성적표 (2026-09-13)]] — 퇴직연금 AI 자산배분 3개월 성과 점검, 장기 투자에서 AI 역할의 적정성 검증
+- [[stock-sell-income-drop-20260913|소득 급감 시 주식 매도 딜레마 (2026-09-13)]] — 박사과정 앞둔 50대 소득 급감 시 주식 매도 결정, 생계·투자 자금 분리
+- [[sk-hynix-ai-buy-67pct-crash-20260913|SK하이닉스 67% 폭락 후 AI 천재 재매수 (2026-09-13)]] — 67% 폭락 후 HBM 수요 회복·밸류에이션 매력 근거 재매수, 사이클 저점 선제 매수
