@@ -1,10 +1,10 @@
 ---
 title: "Navier–Stokes 밀레니엄 문제와 AI 증명 (2026-09-09)"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-12
 type: concept
 tags: [인사이트]
-sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md, raw/articles/navier-stokes-buckmaster-credibility-20260909.md, raw/articles/openai-navier-stokes-1w-88h-20260909.md]
+sources: [raw/articles/navier-stokes-openai-proof-20260909.md, raw/articles/navier-stokes-buckmaster-20260909.md, raw/articles/openai-math-fairness-20260909.md, raw/articles/navier-stokes-buckmaster-credibility-20260909.md, raw/articles/openai-navier-stokes-1w-88h-20260909.md, raw/articles/navier-stokes-lean4-20260912.md]
 confidence: medium
 contested: true
 ---
@@ -70,6 +70,13 @@ contested: true
 - 마크 첸 최고연구책임자: "AI 연구의 중요한 이정표, 전 세계에 큰 가능성 제시"
 - 앤스로픽 6월 '리만 가설' 진전 제시 — 프론티어 모델 성능 개선으로 수학·과학 난제 결과 속출
 ^[raw/articles/openai-navier-stokes-1w-88h-20260909.md]
+
+### Lean 4 형식 증명 공개 (2026-09-12 업데이트)
+- OpenAI가 사람이 읽는 증명과 기계로 검증할 수 있는 Lean 4 형식 증명을 함께 공개
+- 최근 AI로 해결된 다른 수학적 추측에도 형식 증명이 함께 제공됨
+- Lean 4 증명 공개는 독립적 검증 가능성을 높이며, 공정성 논란 맥락에서 투명성 강화에 기여
+- 형식 증명은 인간 수학자의 직관에 의존하지 않는 객관적 검증 경로 제공
+^[raw/articles/navier-stokes-lean4-20260912.md]
 
 ## 관계
 - 검증 원칙: [[science-vs-engineering-hype|과학 vs 엔지니어링]] — 독립적 검증의 중요성, AI가 Lean으로 자체 검증 경로 제공

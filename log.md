@@ -10,20 +10,207 @@
 - Raw 소스 6건 생성:
   - raw/articles/samsung-preferred-hnwi-20260913.md — 고액자산가 삼성전자우 최다 매수, AI 아스트라→메모리 업황
   - raw/articles/oil-upstream-strategy-20260913.md — WTI $102·브렌트 $107, 중간선거까지 고유가, 업스트림 전략
-  - raw/articles/wemade-kingnet-20260913.md — 중국 킹넷 4000억, 위메이드 경영권 인수 핵심 투자자
+  - raw/articles/wemade-kingnet-20260913.md — 중국 킹넷 4000억, 위메이드 경영권 인수 핵심 투자자 (remote kingnet-wemed-acquisition 중복, raw만 보존)
   - raw/articles/lee-soyoung-kosdaq-2-20260913.md — 이소영 인사청문회 서면질의답변서, 승강제 서열화·낙인 우려
   - raw/articles/lotte-kaist-rnd-20260913.md — 롯데xKAIST R&D센터 준공, 100억원 기부, 3대 연구 주제
   - raw/articles/brics-de-dollarization-ai-20260913.md — 시진핑 브릭스, 탈달러·AI(WAICO)·공급망 다극화
-- Concept 페이지 5건 생성:
+- Concept 페이지 4건 생성 (위메이드-킹넷은 remote의 kingnet-wemade-acquisition-20260913.md와 중복 → 스킵):
   - concepts/samsung-preferred-hnwi-20260913.md → [[samsung-hbm-foundry-20260911]], [[ai-theme-investor-flow-202609]], [[gpt-6-astra]], [[samsung-electronics]], [[foreign-net-buying-h2-20260911]], [[ai-infra-rally-expansion-20260909]], [[samsung-sk-recruitment-20260911]], [[druckenmiller-ai-late-macro-20260911]] (8개 아웃바운드)
   - concepts/oil-upstream-strategy-20260913.md → [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[nvidia-palantir-ai-alliance-20260911]], [[rate-hike-surge-sp500-20260911]], [[us-treasury-structural-shift-20260911]], [[trump-energy-stock-trading-20260910]] (6개 아웃바운드)
-  - concepts/wemade-kingnet-20260913.md → [[ai-theme-investor-flow-202609]], [[ai-ipo-rush-anthropic-20260910]], [[musinsa-ipo-valuation-20260910]], [[samsung-bio-cdmo-3508b-20260910]], [[samsung-sk-recruitment-20260911]] (5개 아웃바운드)
   - concepts/brics-de-dollarization-ai-20260913.md → [[dollar]], [[dollar-hedge]], [[currency-war-japan-india-20260909]], [[huawei-ai-chip-geopolitics-20260908]], [[china-ai-export-20260908]], [[nvidia-palantir-ai-alliance-20260911]], [[china-lithography-equipment-20260908]], [[commodity-super-rally-20260910]], [[oil-upstream-strategy-20260913]] (9개 아웃바운드)
   - concepts/lotte-kaist-rnd-20260913.md → [[samsung-water-recycling-20260911]], [[google-finland-nuclear-power-20260911]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[kaist-ms-neural-value-alignment-20260910]], [[samsung-asml-euv-20260908]] (5개 아웃바운드)
 - 기존 페이지 업데이트 1건:
   - concepts/lee-soyoung-kosdaq-speed-20260910.md — 인사청문회 서면질의답변서 섹션 추가 (승강제 서열화·낙인, AI·딥테크 특성, 탄소중립 지원 우선), source 추가
-- index.md 업데이트: 페이지 수 283→289, 2026-09-13 추가 섹션
+- index.md 업데이트: 페이지 수 330→334, 2026-09-13 5차 추가 섹션
 - 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-13] ingest | RSS 10건 수집 4차 — Real-SWE/AI속도풍자/Shopify네이티브/NVIA Router/한투KIS나이트/Fed균열/킹넷위메이드/ODA/제조AX/삼성AI교육
+- RSS 피드: GeekNews, 한국경제 (증권·경제·IT)
+- 수집된 글 10건, 키워드 필터 통과 10건
+- 스킵 2건: ODA 개발금융 (정책/대외원조, 도메인 외), 삼성 AI 수업 (교육/사회공헌, 도메인 외) — raw 소스만 생성
+- Raw 소스 10건 생성:
+  - raw/articles/real-swe-benchmark-20260913.md — 비공개 프로덕션 코드베이스 기반 코딩 에이전트 벤치마크, 모델+하네스 조합 8회 평균
+  - raw/articles/ai-slowdown-satire-20260913.md — "나만 빼고 다 늦춰라" AI 속도 조절 이중잣대 풍자
+  - raw/articles/shopify-ai-native-rewrite-20260913.md — 6명+에이전트로 React Native→네이티브 12주 재구축
+  - raw/articles/nvidia-personal-ai-router-20260913.md — 로컬 네트워크 분산 추론 라우터, Ollama/LM Studio 지원
+  - raw/articles/kis-pimco-carlyle-20260913.md — 한투 KIS 나이트 2026 뉴욕, 핌코·칼라일 공동 상품 개발
+  - raw/articles/fed-internal-division-20260913.md — 한상춘, Fed 내부 균열이 금리보다 중요, 9월 인상 영향 적을 듯
+  - raw/articles/kingnet-wemade-acquisition-20260913.md — 중국 킹넷 4000억 투자 위메이드 49% 지분 확보 목표
+  - raw/articles/oda-development-finance-20260913.md — 제안형 ODA, 개발금융 전환 (도메인 외, concept 미생성)
+  - raw/articles/choi-tae-won-manufacturing-ax-20260913.md — 최태원, 울산 제조 AX 선도모델, 굴뚝산업+AI
+  - raw/articles/samsung-ai-education-20260913.md — 삼성 AI 수업, 초중학교 25만명 목표 (도메인 외, concept 미생성)
+- Concept 페이지 7건 생성:
+  - concepts/real-swe-benchmark-20260913.md → [[code-quality-measurement-ai-20260912]], [[gpt-6-astra]], [[astra-coding-paradox-20260911]]
+  - concepts/ai-slowdown-satire-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-extinction-unstoppable-train-20260912]], [[model-weight-disclosure-20260913]]
+  - concepts/shopify-ai-native-rewrite-20260913.md → [[tailwind-shopify-20260910]], [[ai-org-transformation]], [[astra-coding-paradox-20260911]], [[build-vs-buy-ai]]
+  - concepts/nvidia-personal-ai-router-20260913.md → [[thelio-mira-ai-workstation-20260913]], [[self-hosting-digital-autonomy]], [[desert-ant-labs-on-device-models-20260910]], [[ai-cost-optimization]]
+  - concepts/fed-internal-division-20260913.md → [[core-cpi-rate-hike-20260912]], [[super-week-fomc-boj-20260911]], [[rate-hike-surge-sp500-20260911]], [[high-rate-turning-point-20260911]], [[us-economists-rate-hold-20260910]]
+  - concepts/kingnet-wemade-acquisition-20260913.md → [[samsung-electronics]], [[semiconductor-industry]]
+  - concepts/manufacturing-ax-ulsan-20260913.md → [[ai-sector-expansion-20260908]], [[ax-fde-organization-20260911]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[ai-org-transformation]]
+- 기존 페이지 1건 업데이트:
+  - concepts/kis-global-partnership-20260910.md — KIS 나이트 2026 뉴욕 개최, 핌코·칼라일 공동 상품 개발 구체화 내용 추가, source 추가
+
+## [2026-09-13] ingest | RSS 10건 수집 — RSI/모델 가중치 공개/반도체 가격협상/코스피 7000 전망/삼성전기 수주/AI 연금/소득급감 매도/SK하이닉스 재매수/7 Up/삼성웰스토리 피자
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 10건, 키워드 필터 통과 10건
+- 스킵 2건: 7 Up 다큐멘터리 (사회/문화, 도메인 외), 삼성웰스토리 피자 백서 (식품 R&D, 도메인 외) — raw 소스만 생성
+- Raw 소스 10건 생성:
+  - raw/articles/rsi-recursive-self-improvement-20260913.md — 재귀적 자기개선(RSI), AI가 실험·연구 방향 자율 설정, 목표 해결≠자기 개선 논쟁
+  - raw/articles/7up-documentary-20260913.md — 7 Up 60년 다큐 종료, 도메인 외 (concept 미생성)
+  - raw/articles/model-weight-disclosure-open-letter-20260913.md — 아모데이 속도 조절 대안, 모델 가중치 법적 공개 의무화 공개서한
+  - raw/articles/semiconductor-price-negotiation-expansion-20260913.md — 반도체 증설 전 가격 협상, 수요사 교섭력
+  - raw/articles/kospi-7000-weekly-outlook-20260913.md — 금리 vs AI 성장, 코스피 7000선 주간 전망
+  - raw/articles/samsung-electro-mechanics-record-orders-20260913.md — 삼성전기 역대급 수주 vs 주가 흔들림
+  - raw/articles/ai-pension-management-20260913.md — 퇴직연금 AI 자산배분 3개월 성적표
+  - raw/articles/phd-student-stock-sell-dilemma-20260913.md — 박사과정 앞둔 50대 소득 급감 시 주식 매도 딜레마
+  - raw/articles/samsung-welstory-pizza-20260913.md — 삼성웰스토리 피자 R&D, 도메인 외 (concept 미생성)
+  - raw/articles/sk-hynix-ai-genius-pick-20260913.md — 67% 폭락 후 AI 천재 SK하이닉스 재매수
+- Concept 페이지 8건 생성:
+  - concepts/rsi-recursive-self-improvement-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-safety-alignment]], [[ai-self-outsourcing-agi-20260911]], [[anthropic-resignation-safety-20260909]], [[gpt-6-astra]] (5개 아웃바운드)
+  - concepts/model-weight-disclosure-20260913.md → [[amodei-slow-ai-development-20260913]], [[ai-safety-alignment]], [[openai-research-trust-20260911]], [[anthropic-activist-surveillance-20260910]] (4개 아웃바운드)
+  - concepts/semiconductor-price-negotiation-20260913.md → [[semiconductor-industry]], [[samsung-electronics]], [[semiconductor-cycle-strategy-20260912]], [[sk-hynix]], [[samsung-electro-mechanics-record-orders-20260913]] (5개 아웃바운드)
+  - concepts/kospi-7000-weekly-outlook-20260913.md → [[kospi-7000-202609]], [[kospi-plunge-6800-20260911]], [[core-cpi-rate-hike-20260912]], [[semiconductor-industry]], [[super-week-fomc-boj-20260911]] (5개 아웃바운드)
+  - concepts/samsung-electro-mechanics-record-orders-20260913.md → [[samsung-electronics]], [[semiconductor-industry]], [[semiconductor-price-negotiation-20260913]], [[semiconductor-cycle-strategy-20260912]], [[samsung-hbm-foundry-20260911]], [[kospi-7000-weekly-outlook-20260913]] (6개 아웃바운드)
+  - concepts/ai-pension-management-20260913.md → [[pension-ai-bond-20260908]], [[core-satellite]], [[pension-bond-institutional-20260908]], [[samsung-life-pension-insurance-20260910]], [[ai-org-transformation]] (5개 아웃바운드)
+  - concepts/stock-sell-income-drop-20260913.md → [[core-satellite]], [[rollercoaster-stock-principle-10yr-20260911]], [[retail-investor-golden-age-20260910]], [[kospi-7000-weekly-outlook-20260913]] (4개 아웃바운드)
+  - concepts/sk-hynix-ai-buy-67pct-crash-20260913.md → [[sk-hynix]], [[semiconductor-industry]], [[semiconductor-cycle-strategy-20260912]], [[foreign-net-buying-h2-20260911]], [[astra-working-ai-memory-demand-20260912]], [[samsung-hbm-foundry-20260911]] (6개 아웃바운드)
+- 기존 페이지 업데이트 1건:
+  - concepts/amodei-slow-ai-development-20260913.md — 가중치 공개 의무화 대안 접근 섹션 추가, source 추가 (model-weight-disclosure), updated 2026-09-13
+- index.md 업데이트: 페이지 수 315→323, 2026-09-13 3차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-13] ingest | RSS 6건 수집 — HN AI 우선순위 하향/Thelio Mira AI 워크스테이션/1000달러 중고차/Nvidia AI 중앙은행/Google Artemis 출처 논란/아모데이 속도 조절
+- RSS 피드: GeekNews
+- 수집된 글 6건, 키워드 필터 통과 6건
+- 스킵 1건: 1,000달러 중고차 구매 — 생활/소비자 지식, 투자·커리어·자산관리 도메인 외곽 (raw 소스만 생성)
+- Raw 소스 6건 생성:
+  - raw/articles/hn-ai-priority-lower-20260913.md — HN이 AI 중심 콘텐츠 우선순위를 낮춤, 커뮤니티 주도 → 플랫폼 주도 전환
+  - raw/articles/thelio-mira-ai-workstation-20260913.md — System76 Thelio Mira AI, RTX PRO 6000 2장 GPU 192GB, 로컬 AI 학습 워크스테이션
+  - raw/articles/cheap-car-1000-usd-20260913.md — 1,000달러 중고차 구매 요령, 도메인 외곽 (concept 미생성)
+  - raw/articles/nvidia-ai-central-bank-20260913.md — Nvidia 700억달러 투자·3000억달러 금융 지원, AI 경제 중앙은행 역할
+  - raw/articles/google-artemis-code-attribution-20260913.md — Google ARTEMIS, mobile-use 코드 출처 표기 없이 사용 논란
+  - raw/articles/amodei-slow-ai-development-20260913.md — 아모데이 AI 발전 속도 조절 제안, RSI·자율 공격 위험
+- Concept 페이지 3건 생성:
+  - concepts/nvidia-ai-central-bank-20260913.md → [[semiconductor-industry]], [[nvidia-palantir-ai-alliance-20260911]], [[ai-ipo-corporate-bond-20260909]], [[druckenmiller-ai-late-macro-20260911]], [[oracle-corporate-bond-8pct-20260912]], [[ai-power-bottleneck-gpu-to-power-20260910]], [[dollar]] (7개 아웃바운드)
+  - concepts/amodei-slow-ai-development-20260913.md → [[ai-safety-alignment]], [[anthropic-resignation-safety-20260909]], [[ai-extinction-unstoppable-train-20260912]], [[ai-extinction-10yr-20260911]], [[openai-research-trust-20260911]], [[ai-extinction-2030-warning-20260911]] (6개 아웃바운드)
+  - concepts/thelio-mira-ai-workstation-20260913.md → [[self-hosting-digital-autonomy]], [[kimi-k3-local-streaming-20260909]], [[desert-ant-labs-on-device-models-20260910]], [[build-vs-buy-ai]], [[gpt6-astra-token-economics-20260908]] (5개 아웃바운드)
+- 기존 페이지 업데이트 2건:
+  - concepts/ai-news-overload-hn-20260912.md — HN 플랫폼 차원 AI 우선순위 하향 조치 섹션, source 추가, confidence medium→high, updated 2026-09-13
+  - concepts/google-gemini-windows-artemis-20260911.md — mobile-use 코드 출처 표기 논란 섹션, source 추가, updated 2026-09-13
+- index.md 업데이트: 페이지 수 312→315, 2026-09-13 2차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-13] ingest | RSS 2건 수집 — Apple Neural Engine 역공학/젠장 그래도 만들자
+- RSS 피드: GeekNews
+- 수집된 글 2건, 키워드 필터 통과 2건
+- Raw 소스 2건 생성:
+  - raw/articles/apple-neural-engine-llm-bottleneck-20260913.md — ANE 역공학, LLM 병목은 연산이 아닌 데이터 이동, CNN 최적화 메모리 경로와 LLM 패턴 불일치
+  - raw/articles/damn-still-build-20260913.md — 프롬프트로 만드는 시대의 가치 회의, 능력과 즐거움의 분리, 만드는 행위의 내재적 가치
+- Concept 페이지 2건 생성:
+  - concepts/apple-neural-engine-llm-bottleneck-20260913.md → [[astra-working-ai-memory-demand-20260912]], [[kimi-k3-local-streaming-20260909]], [[chatgpt-pro-pause-infra-bottleneck-20260909]], [[semiconductor-industry]], [[reasoning-prefill-distillation-20260910]] (5개 아웃바운드)
+  - concepts/damn-still-build-20260913.md → [[ai-grief-programming-20260912]], [[programming-as-art-20260909]], [[taste-and-ai]], [[astra-coding-paradox-20260911]], [[creativity-as-moat-20260912]] (5개 아웃바운드)
+- index.md 업데이트: 페이지 수 310→312, 2026-09-13 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-12] ingest | RSS 2건 수집 — Litelm 경량 LiteLLM/로제 아이폰 전환 삼성 반응
+- RSS 피드: GeekNews, 한국경제 (경제)
+- 수집된 글 2건, 키워드 필터 통과 2건
+- Raw 소스 2건 생성:
+  - raw/articles/litelm-minimal-litellm-20260912.md — LiteLLM 핵심 기능만 2,900줄로 경량 구현, 19개 제공자, 의존성 2개
+  - raw/articles/rose-iphone-samsung-marketing-20260912.md — 과거 갤럭시 모델 로제 아이폰 사용, 삼성의 한마디
+- Concept 페이지 2건 생성:
+  - concepts/litelm-minimal-litellm-20260912.md → [[switchyard-llm-router-20260912]], [[rtk-token-cost-benchmark-20260912]], [[gpt6-astra-token-economics-20260908]], [[build-vs-buy-ai]] (4개 아웃바운드)
+  - concepts/rose-iphone-samsung-marketing-20260912.md → [[tim-cook-galaxy-samsung-20260911]], [[foldable-phone-competition-202609]], [[apple-iphone-duo-foldable-20260910]], [[samsung-display-apple-competition-20260911]], [[samsung-electronics]] (5개 아웃바운드)
+- index.md 업데이트: 페이지 수 308→310, 2026-09-12 6차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-12] ingest | RSS 9건 수집 — RTK 토큰 비용 벤치마크/GemStuffer 공격/Switchyard LLM 라우터/AI 통제 인간 결정/Omarchy 거버넌스/화장품주 조정/AI 멸종 전차/스누아이랩 머신비전/아스트라 일하는 AI
+- RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
+- 수집된 글 9건, 키워드 필터 통과 9건
+- Raw 소스 9건 생성:
+  - raw/articles/rtk-token-cost-benchmark-20260912.md — RTK 압축 도구, Terminal-Bench 2.1, 1,740회 비교, 토큰 절감 보고 vs 실제 비용 괴리
+  - raw/articles/gemstuffer-rubygems-openai-agent-20260912.md — RubyGems 악성 패키지 대량 게시, OpenAI 위키 에이전트 연결, AI 공급망 공격
+  - raw/articles/switchyard-llm-router-20260912.md — NVIDIA NeMo LLM 라우터, 작업 복잡도별 모델 선택, OpenAI/Anthropic API 호환
+  - raw/articles/ai-control-human-decision-huggingface-20260912.md — Hugging Face 해킹, AI 자발적 일탈이 아닌 인간 안전장치 해제 결정
+  - raw/articles/omarchy-opensource-governance-20260912.md — Arch Linux 배포판 Omarchy, 1800만 달러 후원금, DHH 권력 집중 (raw only — 도메인 외곽)
+  - raw/articles/cosmetic-stock-correction-20260912.md — 화장품주 9월 -20% 조정, APR·실리콘투·ODM 기업 하락, 원화 강세·수출 둔화
+  - raw/articles/ai-extinction-unstoppable-train-20260912.md — AI 멸종 경고 지속, 제동 없는 전차 비유, 개발 속도 > 안전 장치
+  - raw/articles/snuailab-machine-vision-20260912.md — 스누아이랩 SMVT, CAD 기반 2D·3D 융합검사, 자연어 검사 구성, 서울대·삼성 출신
+  - raw/articles/astra-working-ai-memory-demand-20260912.md — GPT-6 Astra '일하는 AI', 105만 토큰, AGI 선언, HBM4/HBM4E 수요 증가
+- Concept 페이지 8건 생성:
+  - concepts/rtk-token-cost-benchmark-20260912.md → [[ai-cost-optimization]], [[gpt6-astra-token-economics-20260908]], [[switchyard-llm-router-20260912]] (3개 아웃바운드)
+  - concepts/gemstuffer-rubygems-openai-agent-20260912.md → [[ai-safety-alignment]], [[ai-control-human-decision-huggingface-20260912]], [[anthropic-abuse-detection-20260912]], [[huggingface-security-txt-cybergym-20260912]] (4개 아웃바운드)
+  - concepts/switchyard-llm-router-20260912.md → [[ai-cost-optimization]], [[rtk-token-cost-benchmark-20260912]], [[gpt6-astra-token-economics-20260908]], [[ai-subscription-choice-202609]] (4개 아웃바운드)
+  - concepts/ai-control-human-decision-huggingface-20260912.md → [[ai-safety-alignment]], [[ai-extinction-10yr-20260911]], [[ai-extinction-unstoppable-train-20260912]], [[gemstuffer-rubygems-openai-agent-20260912]], [[anthropic-abuse-detection-20260912]] (5개 아웃바운드)
+  - concepts/cosmetic-stock-correction-20260912.md → [[auto-sector-dual-risk]], [[dollar]], [[kospi-eps-slowdown-20260908]], [[semiconductor-cycle-strategy-20260912]] (4개 아웃바운드)
+  - concepts/ai-extinction-unstoppable-train-20260912.md → [[ai-control-human-decision-huggingface-20260912]], [[ai-extinction-10yr-20260911]], [[ai-extinction-2030-warning-20260911]], [[bessent-ai-agent-meta-doom-20260910]], [[ai-safety-alignment]], [[druckenmiller-ai-late-macro-20260911]], [[ai-doom-inflation-warsh-20260912]] (7개 아웃바운드)
+  - concepts/snuailab-machine-vision-20260912.md → [[samsung-sds-robot-orchestration-20260908]], [[ai-sector-expansion-20260908]], [[semiconductor-industry]], [[robotics-gpt-moment-20260908]] (4개 아웃바운드)
+  - concepts/astra-working-ai-memory-demand-20260912.md → [[gpt-6-astra]], [[semiconductor-industry]], [[samsung-electronics]], [[sk-hynix]], [[gpt6-astra-token-economics-20260908]], [[semiconductor-cycle-strategy-20260912]], [[robotics-gpt-moment-20260908]] (7개 아웃바운드)
+- 스킵 1건: Omarchy 오픈소스 거버넌스는 위키 도메인 외곽 — raw 소스만 생성, concept 페이지 생성 없음
+- index.md 업데이트: 페이지 수 299→307, 2026-09-12 4차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-12] ingest | RSS 6건 수집 — Google 광고 봇 사기/AI 없는 HN/외국인 매도 속 급등/반도체 사이클 전략/오라클 회사채 8%
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 6건, 키워드 필터 통과 6건
+- Raw 소스 5건 생성 (기사 2·3건은 동일 주제로 통합):
+  - raw/articles/google-ads-bot-fraud-20260912.md — 220달러 광고비 중 59% 봇 설치, 유효 이용자 13명
+  - raw/articles/ai-free-hacker-news-20260912.md — unslop.news, HN 179개 중 81개 AI 필터 후 잔류 (2건 통합)
+  - raw/articles/foreigner-selling-stock-surge-20260912.md — 외국인 매도 속 주가 23% 급등, 통념 반례
+  - raw/articles/semiconductor-cycle-strategy-20260912.md — 반도체 사이클 투자 전략, 현재 국면 진단
+  - raw/articles/oracle-corporate-bond-8pct-20260912.md — 오라클 회사채 금리 8% 육박, AI 자금조달 경고등
+- Concept 페이지 5건 생성:
+  - concepts/google-ads-bot-fraud-20260912.md → [[google-ads-malvertising-20260910]], [[tesla-solar-roof-discontinuation-20260909]], [[ai-safety-alignment]], [[ai-cognitive-management]] (4개 아웃바운드)
+  - concepts/ai-free-hacker-news-20260912.md → [[ai-news-overload-hn-20260912]], [[human-software-ai-refusal-20260910]], [[libreoffice-ai-free-20260909]], [[ai-cognitive-management]], [[waymo-effect-research-collaboration-20260912]] (5개 아웃바운드)
+  - concepts/foreigner-selling-stock-surge-20260912.md → [[foreign-net-buying-h2-20260911]], [[inverse-retail-betting-202609]], [[kospi-eps-slowdown-20260908]], [[retail-investor-golden-age-20260910]], [[druckenmiller-ai-late-macro-20260911]] (5개 아웃바운드)
+  - concepts/semiconductor-cycle-strategy-20260912.md → [[semiconductor-industry]], [[fitch-korea-fiscal-deficit-20260909]], [[tsmc-revenue-surge-20260910]], [[samsung-hbm-foundry-20260911]], [[druckenmiller-ai-late-macro-20260911]], [[core-cpi-rate-hike-20260912]], [[core-satellite]] (7개 아웃바운드)
+  - concepts/oracle-corporate-bond-8pct-20260912.md → [[oracle-ai-infra-stargate-20260911]], [[ai-ipo-corporate-bond-20260909]], [[core-cpi-rate-hike-20260912]], [[us-treasury-yield-20260908]], [[druckenmiller-ai-late-macro-20260911]], [[chatgpt-pro-pause-infra-bottleneck-20260909]], [[semiconductor-industry]] (7개 아웃바운드)
+- index.md 업데이트: 페이지 수 294→299, 2026-09-12 3차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-12] ingest | RSS 7건 수집 — 필즈상 수학 목표 불일치/AI 슬픔/코드 품질 측정/NTSB B-767/Hugging Face 보안/Anthropic 악용 탐지/AI 멸망 인플레
+- RSS 피드: GeekNews, 한국경제 (경제)
+- 수집된 글 7건, 키워드 필터 통과 7건
+- Raw 소스 7건 생성:
+  - raw/articles/ai-math-goal-misalignment-20260912.md — 필즈상 수상자 25명 공동 선언, AI 벤치마크 vs 수학 공동체 목표 불일치
+  - raw/articles/ai-grief-programming-20260912.md — 프로그래머 정체성 상실의 슬픔, 생계 위협보다 깊은 고통
+  - raw/articles/code-quality-measurement-ai-20260912.md — 테스트 통과 ≠ 좋은 코드, 조잃함 측정 불가 문제
+  - raw/articles/ntsb-miami-b767-runway-20260912.md — NTSB 마이애미 B-767 활주로 이탈 사고 조사 (raw only — 항공 안전, 도메인 외곽)
+  - raw/articles/huggingface-security-txt-cybergym-20260912.md — Hugging Face security.txt에 AI 에이전트 대상 벤치마크 안내
+  - raw/articles/anthropic-abuse-detection-20260912.md — Anthropic 7개 영역 악용 사례 공개, 사이버 공격 비용↓·속도↑
+  - raw/articles/ai-doom-inflation-warsh-20260912.md — 인플레 지속, 워시 결정, AI 멸망론의 진실
+- Concept 페이지 6건 생성:
+  - concepts/ai-math-goal-misalignment-20260912.md → [[tao-math-mining-20260909]], [[ai-math-breakthrough-controversy-20260909]], [[ai-safety-alignment]], [[openai-math-fairness-20260909]] (4개 아웃바운드)
+  - concepts/ai-grief-programming-20260912.md → [[programming-as-art-20260909]], [[taste-and-ai]], [[astra-coding-paradox-20260911]], [[ai-rto-satire-20260909]] (4개 아웃바운드)
+  - concepts/code-quality-measurement-ai-20260912.md → [[astra-coding-paradox-20260911]], [[ai-wrong-build-well-20260909]], [[build-vs-buy-ai]], [[proliferate-parallel-agent-ide-20260910]] (4개 아웃바운드)
+  - concepts/huggingface-security-txt-cybergym-20260912.md → [[nvidia-cybersecurity-ai-20260911]], [[ai-safety-alignment]], [[rsa-key-factorization-20260908]], [[anthropic-abuse-detection-20260912]] (4개 아웃바운드)
+  - concepts/anthropic-abuse-detection-20260912.md → [[anthropic-resignation-safety-20260909]], [[anthropic-activist-surveillance-20260910]], [[ai-safety-alignment]], [[nvidia-cybersecurity-ai-20260911]], [[huggingface-security-txt-cybergym-20260912]], [[ai-self-outsourcing-agi-20260911]] (6개 아웃바운드)
+  - concepts/ai-doom-inflation-warsh-20260912.md → [[core-cpi-rate-hike-20260912]], [[ai-extinction-10yr-20260911]], [[bessent-ai-agent-meta-doom-20260910]], [[druckenmiller-ai-late-macro-20260911]], [[ai-economic-impact-2030-20260910]] (5개 아웃바운드)
+- 스킵 1건: NTSB B-767 활주로 이탈 사고는 항공 안전 주제로 위키 도메인 외곽 — raw 소스만 생성, concept 페이지 생성 없음
+- index.md 업데이트: 페이지 수 288→294, 2026-09-12 2차 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+
+## [2026-09-12] ingest | RSS 8건 수집 — Waymo 효과/창의성 해자/AI 뉴스 홍수/Navier-Stokes Lean4/근원 CPI/반도체-스마트폰 괴리
+- RSS 피드: GeekNews, 한국경제 (증권·경제)
+- 수집된 글 8건, 키워드 필터 통과 8건
+- Raw 소스 6건 생성:
+  - raw/articles/waymo-effect-research-collaboration-20260912.md — Waymo 효과, AI가 연구 협업 마찰 제거의 부작용
+  - raw/articles/creativity-as-moat-20260912.md — 창의성이 새로운 해자, AI 복제 시대의 경쟁 우위 이동
+  - raw/articles/ai-news-overload-hn-20260912.md — AI 뉴스 홍수, HN 피드 다양성 저하
+  - raw/articles/navier-stokes-lean4-20260912.md — OpenAI Navier-Stokes Lean 4 형식 증명 공개
+  - raw/articles/core-cpi-rate-hike-20260912.md — 미 8월 근원 CPI 컨센서스 상회, 금리 인상 확률 급등 (3건 통합)
+  - raw/articles/semiconductor-boom-smartphone-anxiety-20260912.md — 삼성·SK 반도체 호황 vs 스마트폰 교체 불안
+- Concept 페이지 5건 생성:
+  - concepts/waymo-effect-research-collaboration-20260912.md → [[llm-cognitive-impact]], [[ai-cognitive-management]], [[taste-and-ai]], [[ai-safety-alignment]], [[creativity-as-moat-20260912]] (5개 아웃바운드)
+  - concepts/creativity-as-moat-20260912.md → [[taste-and-ai]], [[waymo-effect-research-collaboration-20260912]], [[science-vs-engineering-hype]], [[build-vs-buy-ai]], [[startup-brand-clock-speed]] (5개 아웃바운드)
+  - concepts/ai-news-overload-hn-20260912.md → [[ai-cognitive-management]], [[llm-cognitive-impact]], [[taste-and-ai]], [[waymo-effect-research-collaboration-20260912]] (4개 아웃바운드)
+  - concepts/core-cpi-rate-hike-20260912.md → [[rate-hike-surge-sp500-20260911]], [[kospi-plunge-6800-20260911]], [[oil-surge-semiconductor-rebound-20260909]], [[commodity-super-rally-20260910]], [[super-week-fomc-boj-20260911]], [[us-treasury-yield-20260908]], [[dollar]], [[semiconductor-industry]] (8개 아웃바운드)
+  - concepts/semiconductor-boom-smartphone-anxiety-20260912.md → [[samsung-electronics]], [[sk-hynix]], [[foldable-phone-competition-202609]], [[samsung-hbm-foundry-20260911]], [[apple-iphone-duo-foldable-20260910]], [[semiconductor-industry]], [[core-cpi-rate-hike-20260912]] (7개 아웃바운드)
+- 기존 페이지 업데이트 1건:
+  - concepts/navier-stokes-millennium-openai-20260909.md — Lean 4 형식 증명 공개 섹션 추가, source 추가, updated 날짜 갱신
+- index.md 업데이트: 페이지 수 283→288, 2026-09-12 추가 섹션
+- 모든 페이지 frontmatter 포함, wikilinks 2개 이상 연결 확인
+- 스킵: HN AI 뉴스 홍수는 ai-news-overload-hn 페이지에서 처리, 별도 페이지 생성 없이 단일 페이지로 통합
 
 ## [2026-09-11] ingest | RSS 22건 수집 — 실리콘밸리 군산복합체/Korean-LLM-v4/Astra 코딩 역설/KB 세대교체/저PBR 공개/조선주 AI/삼성바이오 3조/ESG 연금/AI 자기외주/퓨리오사 싱가포르/스타트업 양극화/삼성E&A 사우디/하수처리수
 - RSS 피드: GeekNews, 한국경제 (증권·IT·경제)
@@ -1230,3 +1417,20 @@
 - Concepts (2026-09-11 4차 추가) 섹션 생성, 10개 페이지 추가
 
 ### 총 268페이지, 모든 신규 페이지 기존 페이지와 wikilinks로 연결됨 (각 4~7개 아웃바운드 링크)
+
+## [2026-09-12] ingest | RSS 1건 수집 — 개미 ETF 10% 수익 비결 (ETF줌인 칼럼)
+- RSS 피드: 한국경제 (증권)
+- 수집된 글 1건, 키워드 필터 통과 1건 (ETF 키워드 매칭)
+- Raw 소스 1건 생성:
+  - raw/articles/retail-etf-10pct-month-20260912.md — "한 달만에 수익률 10%…발 빠른 개미들 돈 번 '비결' 있었다 [이수의 ETF줌인]" (한국경제)
+
+### Concept 페이지 1건 생성
+- concepts/retail-etf-10pct-month-20260912.md — 개미 ETF 10% 수익: 한 달 단기 고수익의 비결 (6개 아웃바운드 링크)
+  - [[retail-investor-golden-age-20260910]], [[core-satellite]], [[top-down-selection]], [[us-etf-record-leverage-20260909]], [[etf-circular-investment-20260910]], [[leverage-etf-retail-regulation-20260909]]
+
+### index.md 업데이트
+- Total pages: 307 → 308
+- Concepts (2026-09-12 5차 추가) 섹션 생성, 1개 페이지 추가
+
+### 총 308페이지, 신규 페이지 기존 페이지와 6개 wikilinks로 연결됨
+- ⚠️ 기사 본문 추출 실패 (한국경제 웹사이트 봇 차단, Content-Length: 0 반환). 제목·RSS 메타데이터 기반으로 요약 작성, confidence: medium
